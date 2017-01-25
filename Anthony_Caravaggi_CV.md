@@ -201,6 +201,7 @@ Monitored and recorded detailed breeding and behaviour of birds associated with 
 ## Professional Development
 2017 **Public Outreach Training**. Science Made Simple  
 2016 **Conservation ecology Special Interest Group workshop**. British Ecological Society Annual Meeting  
+2016 **Acoustic analysis workshop**. North Wales Mammal Symposium
 2016 **Women in Ecology mentor workshop**. British Ecological Society  
 2014 **Using R**. Queen’s University Belfast  
 2012 **Lagomorph systematics workshop**. 4th World Lagomorph Conference  
@@ -252,7 +253,7 @@ Monitored and recorded detailed breeding and behaviour of birds associated with 
 2009 **The British Trust for Ornithology**  
 
 ## Computer Skills
-R  
+R (packages include MuMIn, lme4, ggplot, remBOOT, maptools, raster, SDMTools, StatMatch, pdist, glmmulti)   
 SPSS  
 Minitab  
 ArcGIS  
