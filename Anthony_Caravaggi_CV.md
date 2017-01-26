@@ -1,6 +1,5 @@
 ---
-title: Anthony Caravaggi CV
-author: Anthony Caravaggi
+date: 26 Jan 2017
 output: pdf_document
 urlcolor: blue
 ---
@@ -76,22 +75,14 @@ Havlin P, **Caravaggi A**, Montgomery WI. The diet and abundance of an introduce
 2010 Natural Environment Research Council (NERC) **Master's scholarship for outstanding candidates**. University of Leeds
 <!---
 ## Research Experience
-
-Gcn
 Otter
 Mink
 Marten
-Butterfly
 Habitat mgmt
-Oak woodland
 Treborth- birds moths
-bats
 Caterpillars
-
 --->
 ## R Packages
-2 Hamm C, **Caravaggi A** (2017) spaceMovie: A color palette for a movie set in space [GitHub repository](https://github.com/arcaravaggi/spaceMovie)
-
 1 **Caravaggi A** (2016) remBOOT: an R package for Random Encounter Modelling [GitHub repository](https://github.com/arcaravaggi/remBoot)
 
 ## Invited Presentations
@@ -153,14 +144,14 @@ Worked with the students to develop research questions and appropriate methodolo
 
 > **As Instructor**
   
-2016 	Lecturer & demonstrator, ornithology. Eco-Explore, Cardiff    
+2016 	Lecturer & demonstrator, ornithology. Eco-Explore, Cardiff     
 Developed materials and taught a course on UK bird identification
   
-2016	Lecturer and field ornithologist. Operation Wallacea, Ecuador  
-Co-developed and delivered a 5-part series of lectures focussing on rainforest biodiversity and conservation, and conducted bird ringing studies including demonstrating techniques and training students in biometric data gathering
+2016	Lecturer and field ornithologist. Operation Wallacea, Ecuador   
+Co-developed and delivered a 5-part series of lectures focussing on rainforest biodiversity and conservation, and conducted bird ringing studies including demonstrating techniques and training students in biometric data gathering. Also trained an assistant on mist nest extraction and data recording
   
-2014	Bird surveys, undergraduate module. Queen’s University Belfast 
-Develope materials and taught a one-off field-based class, including training and supervision of students
+2014	Bird surveys, undergraduate module. Queen’s University Belfast    
+Developed materials and taught a one-off field-based class, including training and supervision of students
 
 > **As Demonstrator** 
   
@@ -168,11 +159,17 @@ Develope materials and taught a one-off field-based class, including training an
 2014	Animal biology, undergraduate module. Queen’s University Belfast    
 
 ## Work Experience  
-2011-12	**Freelance ecologist**, Hawthorn and Jay, Ecologists  
-Great crested newt, bat, and bird surveys
+2011-12	**Freelance ecologist**, Haycock and Jay, Ecologists  
+Great crested newt, bat, and bird surveys  
+
+2011 **Bat survey assistant**, Haycock and Jay, Ecologists   
+Visual building inspection, use of bat detectors and netting at roosts   
   
-2010	**Wading bird surveys**, British Trust for Ornithology  
+2010 **Wading bird surveys**, British Trust for Ornithology  
 Pre- and post-dreging counts of waders and sea birds
+
+2009 **Data analyst**, Bangor University  
+Constructing trophic models and diagrams for a butterfly-centric food-host-parasite foodweb   
 
 2006-08	**Ornithological Technician**, Dr. Geoff Gibbs   
 Monitored and recorded detailed breeding and behaviour of birds associated with >200 nestboxes in an oak woodland  
@@ -199,6 +196,7 @@ Monitored and recorded detailed breeding and behaviour of birds associated with 
 2008-08 **Volunteer**, Treborth Botanic Gardens, Bangor  
 
 ## Professional Development
+2017 **Level 3 Teaching Assistant training**. E-Training Hub    
 2017 **Public Outreach Training**. Science Made Simple  
 2016 **Conservation ecology Special Interest Group workshop**. British Ecological Society Annual Meeting  
 2016 **Acoustic analysis workshop**. North Wales Mammal Symposium    
@@ -253,22 +251,14 @@ Monitored and recorded detailed breeding and behaviour of birds associated with 
 2009 **The British Trust for Ornithology**  
 
 ## Computer Skills
-R (packages include MuMIn, lme4, ggplot, remBOOT, maptools, raster, SDMTools, StatMatch, pdist, glmmulti)   
-SPSS  
-Minitab  
-ArcGIS  
-QGIS  
-Microsoft Office  
-Markdown/RMarkdown  
-Git/GitHub  
-Maxent  
-Distance  
-MAVIS NVC  
-Patch Analyst  
-GeneMapper  
-Graphics packages (e.g. Photoshop)  
-Website & wiki creation and maintenance  
-Bespoke software  
+*Data analysis*   
+R (packages include MuMIn, lme4, ggplot, remBOOT, maptools, raster, SDMTools, StatMatch, pdist, glmmulti), SPSS, Minitab  
+   
+*GIS*   
+R, ArcGIS, QGIS  
+  
+*Other software*
+Distance, MARK, MaxEnt, MAVIS NVC, Patch Analyst, GeneMapper, Microsoft office, GitHub, RMarkdown, graphics packages (e.g. Photoshop), bespoke software   
 
 ## Statistical skills
 General linear and mixed-effects models  
