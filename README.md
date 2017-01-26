@@ -29,4 +29,4 @@ More information on me and my work can be found here: http://arcaravaggi.co.uk/
 [Referees](https://github.com/arcaravaggi/CV/blob/master/Anthony_Caravaggi_CV.md#referees)  
   
   
-A pdf copy of my CV which is also available in this repo.
+A pdf copy of my CV is also available in this repo.
