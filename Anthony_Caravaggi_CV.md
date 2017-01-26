@@ -1,6 +1,5 @@
 ---
 date: 26 Jan 2017
-output: pdf_document
 urlcolor: blue
 ---
 
