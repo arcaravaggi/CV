@@ -72,15 +72,7 @@ Havlin P, **Caravaggi A**, Montgomery WI. The diet and abundance of an introduce
 2015 **Training and Travel grant**. £500, British Ecological Society. 7th European Congress of Mammalogy  
 2012 Northern Ireland Environmental Agency (NIEA) **funded PhD studentship**. Queen’s University Belfast  
 2010 Natural Environment Research Council (NERC) **Master's scholarship for outstanding candidates**. University of Leeds
-<!---
-## Research Experience
-Otter
-Mink
-Marten
-Habitat mgmt
-Treborth- birds moths
-Caterpillars
---->
+
 ## R Packages
 1 **Caravaggi A** (2016) remBOOT: an R package for Random Encounter Modelling [GitHub repository](https://github.com/arcaravaggi/remBoot)
 
@@ -172,6 +164,18 @@ Constructing trophic models and diagrams for a butterfly-centric food-host-paras
 
 2006-08	**Ornithological Technician**, Dr. Geoff Gibbs   
 Monitored and recorded detailed breeding and behaviour of birds associated with >200 nestboxes in an oak woodland  
+
+<!---
+## Additional Experience
+2017 BBS
+2015					Otter survey                                                 Queen’s University Belfast
+2014					Badger survey 				    Queen’s University Belfast
+2011 – 2012				Small mammal survey assistant		               University of Leeds    
+2011 – 2012				Habitat management                                               University of Leeds
+2010 – 2011				Breeding Bird Surveyor
+2007 – 2009				Pine marten survey 			  Snowdonia Mammal Group
+2007 – 2009				Wooodland bird and invertebrate surveys 	     Bangor University
+--->
 
 ## Service 
 2016 Session chair, **Community Ecology**, British Ecological Society Annual Meeting  
