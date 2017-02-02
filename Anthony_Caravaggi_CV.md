@@ -172,6 +172,7 @@ Monitored and recorded detailed breeding and behaviour of birds associated with 
 2014					Badger survey 				    Queen’s University Belfast
 2011 – 2012				Small mammal survey assistant		               University of Leeds    
 2011 – 2012				Habitat management                                               University of Leeds
+2010 - 2011 bird territory mapping
 2010 – 2011				Breeding Bird Surveyor
 2007 – 2009				Pine marten survey 			  Snowdonia Mammal Group
 2007 – 2009				Wooodland bird and invertebrate surveys 	     Bangor University
