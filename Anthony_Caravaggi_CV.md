@@ -162,9 +162,36 @@ Developed materials and taught a one-off field-based class, including training a
 2010-11 **Breeding Bird Survey**, British Trust for Ornithology  
 2010 **Wading bird surveys**, British Trust for Ornithology  
 2009 **Data analyst**, butterfly foodwebs, Bangor University  
-2007-09 **Pine marten surveys**, Snowdonia Mammal Group
-2007-09 **Woodland bird and invertebrate surveys**, Treborth Botanic Gardens, Bangor
+2007-09 **Pine marten surveys**, Snowdonia Mammal Group  
+2007-09 **Woodland bird and invertebrate surveys**, Treborth Botanic Gardens, Bangor  
 2006-08	**Ornithological technician**, breeding and behaviour, Dr. Geoff Gibbs   
+
+## Professional Development
+2017 **Level 3 Teaching Assistant training**. E-Training Hub    
+2017 **Public Outreach Training**. Science Made Simple  
+2016 **Conservation ecology Special Interest Group workshop**. British Ecological Society Annual Meeting  
+2016 **Acoustic analysis workshop**. North Wales Mammal Symposium    
+2016 **Women in Ecology mentor workshop**. British Ecological Society  
+2014 **Using R**. Queen’s University Belfast  
+2012 **Lagomorph systematics workshop**. 4th World Lagomorph Conference  
+
+## Memberships 
+(since)  
+2016 **Welsh Ornithological Society**  
+2015 **South Wales Mammal Group**  
+2013 **Society of Conservation Biology**  
+2012 **The Mammal Society**  
+2012 **British Ecological Society**  
+2011 **Royal Society of Biology**  
+2009 **The British Trust for Ornithology**  
+
+## Professional Licenses and Certifications
+2014-2015 ASPA laboratory animal handling license  
+2014-present Emergency first aid  
+2014-present Field first aid  
+2009-present Bird ringing license holder, British Trust for Ornithology ‘C’ license. 2,000 birds  
+2008-2011 Marine mammal medic. British Divers Marine Life Rescue   
+2002-present Full manual UK driving license, held without incident or penalty  
 
 ## Service 
 2016 Session chair, **Community Ecology**, British Ecological Society Annual Meeting  
@@ -186,15 +213,6 @@ Developed materials and taught a one-off field-based class, including training a
 2008-09	**Undergraduate student representative**, Bangor University Biological Sciences  
 2007-09	**Founding committee & publicity officer**, Bangor University Zoological Society  
 2008-08 **Volunteer**, Treborth Botanic Gardens, Bangor  
-
-## Professional Development
-2017 **Level 3 Teaching Assistant training**. E-Training Hub    
-2017 **Public Outreach Training**. Science Made Simple  
-2016 **Conservation ecology Special Interest Group workshop**. British Ecological Society Annual Meeting  
-2016 **Acoustic analysis workshop**. North Wales Mammal Symposium    
-2016 **Women in Ecology mentor workshop**. British Ecological Society  
-2014 **Using R**. Queen’s University Belfast  
-2012 **Lagomorph systematics workshop**. 4th World Lagomorph Conference  
 
 ## Outreach  
 2017 **Interview** for Washington Post on science communication  
@@ -224,23 +242,32 @@ Developed materials and taught a one-off field-based class, including training a
 2012 **Bird ringing demonstrator**, Wildlife Trust of South and West Wales  
 2011 **Bioblitz naturalist**, Carmarthen  
 
-## Professional Licenses and Certifications
-2014-2015 ASPA laboratory animal handling license  
-2014-present Emergency first aid  
-2014-present Field first aid  
-2009-present Bird ringing license holder, British Trust for Ornithology ‘C’ license. 2,000 birds  
-2008-2011 Marine mammal medic. British Divers Marine Life Rescue   
-2002-present Full manual UK driving license, held without incident or penalty  
+## Written media
+2017 365 papers. Personal blog, ongoing  
+2016 Is there intelligent life on Earth? Save our Souls magazine  
+2016 A chat with Dr. Anthony Caravaggi. Biotechin.asia  
+2016 Camera traps reveal a hare-raising situation. RSEC blog, ZSL   
+2016 On closer inspection, it looks like a hare transplant. QUBio  
+2015 Living with aliens. SciLogs  
+2015 Communities and conservation in developing countries. QUBio  
+2015 Putting wildlife in the frame. QUBio  
+2015 Astrotweeps and Biotweeps–rotating Twitter accounts. Crastina.se  
+2015 Media battle highlights importance of scientific credit. ScienceNews  
+2015 Dear Alice, the hare might be sane after all. QUBio  
+2015 BBC News. Counting Irish hares at Belfast International Airport  
+2015 A call for beautiful prose in papers. Nature News  
+2014 Mountain hare and Irish hare. The Mammal Society  
+2014 A receding hare line and a brown toupée. QUbio  
 
-## Memberships 
-(since)  
-2016 **Welsh Ornithological Society**  
-2015 **South Wales Mammal Group**  
-2013 **Society of Conservation Biology**  
-2012 **The Mammal Society**  
-2012 **British Ecological Society**  
-2011 **Royal Society of Biology**  
-2009 **The British Trust for Ornithology**  
+## Radio and television
+2016 SciComm podcast Episode 8, with Dr. Mike & others  
+2016 SciComm podcast Episode 7, with Dr. Mike  
+2015 Countryfile, BBC  
+2015 BBC Radio Ulster  
+2015 BBC News School Report for St. Pius X, Magherafelt’s Biodiversity Club  
+2015 Good Morning Ulster, BBC Radio Ulster. 26th January 2015  
+2013 River Bann, RTÉ Television  
+2013 "Hares in Ireland". Mooney Goes Wild, RTÉ Radio 1  
 
 ## Computer Skills
 *Data analysis*   
