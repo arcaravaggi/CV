@@ -305,7 +305,7 @@ Tissue sampling
 DNA manipulation  
 Electrophoresis  
 Atomic absorption and colourimetric spectroscopy  
-Specimen preparation 
+Specimen preparation   
 Soil chemical and biological analysis
 
 ## Referees
