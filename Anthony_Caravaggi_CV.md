@@ -126,57 +126,45 @@ Havlin P, **Caravaggi A**, Montgomery WI. The diet and abundance of an introduce
 > **As Supervisor**  
 Worked with the students to develop research questions and appropriate methodologies, taught relevant statistical techniques and how to implement them in R, monitored progress, and gave feedback and advice throughout  
   
-2014	MSc research project. *Behaviour and stress in sympatric hare species*. Queen’s University, Belfast   
-2014	MSc research project. *Activity and behaviour of hares in Mid-Ulster*. Queen’s University, Belfast  
-2014	Undergraduate residential field course. Queen’s University, Belfast  
-2013	MSc research project. *Estimating hare population densities*. Queen’s University, Belfast  
-2013	BSc research project. *Resource and habitat partitioning of herbivores*. Queen’s University, Belfast  
-2013	Undergraduate residential field course. Queen’s University, Belfast  
+2014 MSc research project. *Behaviour and stress in sympatric hare species*. Queen’s University, Belfast   
+2014 MSc research project. *Activity and behaviour of hares in Mid-Ulster*. Queen’s University, Belfast  
+2014 Undergraduate residential field course. Queen’s University, Belfast  
+2013 MSc research project. *Estimating hare population densities*. Queen’s University, Belfast  
+2013 BSc research project. *Resource and habitat partitioning of herbivores*. Queen’s University, Belfast  
+2013 Undergraduate residential field course. Queen’s University, Belfast  
 
 > **As Instructor**
   
-2016 	Lecturer & demonstrator, ornithology. Eco-Explore, Cardiff     
-Developed materials and taught a course on UK bird identification
+2016 Lecturer & demonstrator, ornithology. Eco-Explore, Cardiff     
+Developed materials and taught a course on UK bird identification  
   
-2016	Lecturer and field ornithologist. Operation Wallacea, Ecuador   
-Co-developed and delivered a 5-part series of lectures focussing on rainforest biodiversity and conservation, and conducted bird ringing studies including demonstrating techniques and training students in biometric data gathering. Also trained an assistant on mist nest extraction and data recording
+2016 Lecturer and field ornithologist. Operation Wallacea, Ecuador   
+Co-developed and delivered a 5-part series of lectures focussing on rainforest biodiversity and conservation, and conducted bird ringing studies including demonstrating techniques and training students in biometric data gathering. Also trained an assistant on mist nest extraction and data recording  
+
+2015 Otter surveys, MSc, Queen's University Belfast  
+Trained a Master's student in otter survey techniques and field signs, and advised on camera trap survey methodology   
   
-2014	Bird surveys, undergraduate module. Queen’s University Belfast    
-Developed materials and taught a one-off field-based class, including training and supervision of students
+2014 Bird surveys, undergraduate module. Queen’s University Belfast    
+Developed materials and taught a one-off field-based class, including training and supervision of students  
 
 > **As Demonstrator** 
   
-2015	Introduction to GIS, undergraduate module. Queen’s University Belfast  
-2014	Animal biology, undergraduate module. Queen’s University Belfast    
+2015 Introduction to GIS, undergraduate module. Queen’s University Belfast  
+2014 Animal biology, undergraduate module. Queen’s University Belfast     
 
-## Work Experience  
-2011-12	**Freelance ecologist**, Haycock and Jay, Ecologists  
-Great crested newt, bat, and bird surveys  
-
+## Additional Experience  
+2017 **Breeding Bird Survey**, British Trust for Ornithology  
+2011-12 **Small mammal surveys**, field assistant, University of Leeds  
+2011-12	**Ecologist**, great crested newt and bat surveys, Haycock and Jay, Ecologists  
+2011-12 **Habitat management**, Conservation Volunteers, University of Leeds  
 2011 **Bat survey assistant**, Haycock and Jay, Ecologists   
-Visual building inspection, use of bat detectors and netting at roosts   
-  
+2010-11 **Ornithological technician**, bird territory mapping, Cardiff University  
+2010-11 **Breeding Bird Survey**, British Trust for Ornithology  
 2010 **Wading bird surveys**, British Trust for Ornithology  
-Pre- and post-dreging counts of waders and sea birds
-
-2009 **Data analyst**, Bangor University  
-Constructing trophic models and diagrams for a butterfly-centric food-host-parasite foodweb   
-
-2006-08	**Ornithological Technician**, Dr. Geoff Gibbs   
-Monitored and recorded detailed breeding and behaviour of birds associated with >200 nestboxes in an oak woodland  
-
-<!---
-## Additional Experience
-2017 BBS
-2015					Otter survey                                                 Queen’s University Belfast
-2014					Badger survey 				    Queen’s University Belfast
-2011 – 2012				Small mammal survey assistant		               University of Leeds    
-2011 – 2012				Habitat management                                               University of Leeds
-2010 - 2011 bird territory mapping
-2010 – 2011				Breeding Bird Surveyor
-2007 – 2009				Pine marten survey 			  Snowdonia Mammal Group
-2007 – 2009				Wooodland bird and invertebrate surveys 	     Bangor University
---->
+2009 **Data analyst**, butterfly foodwebs, Bangor University  
+2007-09 **Pine marten surveys**, Snowdonia Mammal Group
+2007-09 **Woodland bird and invertebrate surveys**, Treborth Botanic Gardens, Bangor
+2006-08	**Ornithological technician**, breeding and behaviour, Dr. Geoff Gibbs   
 
 ## Service 
 2016 Session chair, **Community Ecology**, British Ecological Society Annual Meeting  
