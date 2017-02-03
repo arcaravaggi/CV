@@ -176,12 +176,10 @@ Developed materials and taught a one-off field-based class, including training a
 2012 **Lagomorph systematics workshop**. 4th World Lagomorph Conference  
 
 ## Memberships 
-(since)  
-2016 **Welsh Ornithological Society**  
-2015 **South Wales Mammal Group**  
+(since)   
+2015 **South Wales Mammal Group**, **Welsh Ornithological Society**  
 2013 **Society of Conservation Biology**  
-2012 **The Mammal Society**  
-2012 **British Ecological Society**  
+2012 **The Mammal Society**, **British Ecological Society**   
 2011 **Royal Society of Biology**  
 2009 **The British Trust for Ornithology**  
 
