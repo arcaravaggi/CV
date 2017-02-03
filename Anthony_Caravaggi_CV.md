@@ -284,7 +284,7 @@ Species Distribution Modelling
 Discriminant Function Analysis  
 Diversity indices  
 Mahalanobis and Euclidean distance  
-Cross-correlation functions
+Cross-correlation functions  
 Model averaging  
 Random Encounter Models  
 Other parametric and non-parametric tests
