@@ -16,12 +16,13 @@ More information on me and my work can be found here: http://arcaravaggi.co.uk/
 [Presentations](https://github.com/arcaravaggi/CV/blob/master/Anthony_Caravaggi_CV.md#presentations)  
 [Posters](https://github.com/arcaravaggi/CV/blob/master/Anthony_Caravaggi_CV.md#posters)  
 [Teaching](https://github.com/arcaravaggi/CV/blob/master/Anthony_Caravaggi_CV.md#teaching)  
-[Work Experience](https://github.com/arcaravaggi/CV/blob/master/Anthony_Caravaggi_CV.md#work-experience)  
-[Service](https://github.com/arcaravaggi/CV/blob/master/Anthony_Caravaggi_CV.md#service)  
+[Additional Experience](https://github.com/arcaravaggi/CV/blob/master/Anthony_Caravaggi_CV.md#additional-experience)  
 [Professional development](https://github.com/arcaravaggi/CV/blob/master/Anthony_Caravaggi_CV.md#professional-development)  
-[Outreach](https://github.com/arcaravaggi/CV/blob/master/Anthony_Caravaggi_CV.md#outreach)  
-[Porfessional licenses and certifications](https://github.com/arcaravaggi/CV/blob/master/Anthony_Caravaggi_CV.md#professional-licenses-and-certifications)  
 [Memberships](https://github.com/arcaravaggi/CV/blob/master/Anthony_Caravaggi_CV.md#memberships)  
+[Professional licenses and certifications](https://github.com/arcaravaggi/CV/blob/master/Anthony_Caravaggi_CV.md#professional-licenses-and-certifications)  
+[Service](https://github.com/arcaravaggi/CV/blob/master/Anthony_Caravaggi_CV.md#service)  
+[Outreach](https://github.com/arcaravaggi/CV/blob/master/Anthony_Caravaggi_CV.md#outreach)  
+[Media](https://github.com/arcaravaggi/CV/blob/master/Anthony_Caravaggi_CV.md#media)   
 [Computer skills](https://github.com/arcaravaggi/CV/blob/master/Anthony_Caravaggi_CV.md#computer-skills)  
 [Statistical skills](https://github.com/arcaravaggi/CV/blob/master/Anthony_Caravaggi_CV.md#statistical-skills)  
 [Field skills](https://github.com/arcaravaggi/CV/blob/master/Anthony_Caravaggi_CV.md#field-skills)  
@@ -29,4 +30,4 @@ More information on me and my work can be found here: http://arcaravaggi.co.uk/
 [Referees](https://github.com/arcaravaggi/CV/blob/master/Anthony_Caravaggi_CV.md#referees)  
   
   
-A pdf copy of my CV is also available in this repo.
+A pdf copy of my CV is also available in this repo or by [clicking here](https://github.com/arcaravaggi/CV/blob/master/A_Caravaggi_academic_CV.pdf).
