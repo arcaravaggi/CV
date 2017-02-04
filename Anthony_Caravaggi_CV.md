@@ -135,8 +135,8 @@ Worked with the students to develop research questions and appropriate methodolo
 
 > **As Instructor**
   
-2016 Lecturer & demonstrator, ornithology. Eco-Explore, Cardiff     
-Developed materials and taught a course on UK bird identification  
+2016 Course tutor: ornithology, camera traps, social media. Eco-Explore, Cardiff     
+Developed materials and taught courses on UK bird identification, the use of camera traps in ecology, and social media for scientists.
   
 2016 Lecturer and field ornithologist. Operation Wallacea, Ecuador   
 Co-developed and delivered a 5-part series of lectures focussing on rainforest biodiversity and conservation, and conducted bird ringing studies including demonstrating techniques and training students in biometric data gathering. Also trained an assistant on mist nest extraction and data recording  
