@@ -241,7 +241,8 @@ Developed materials and taught a one-off field-based class, including training a
 2012 **Bird ringing demonstrator**, Wildlife Trust of South and West Wales  
 2011 **Bioblitz naturalist**, Carmarthen  
 
-## Written media
+## Media
+>*Written*
 2017 365 papers. Personal blog, ongoing  
 2016 Is there intelligent life on Earth? Save our Souls magazine  
 2016 A chat with Dr. Anthony Caravaggi. Biotechin.asia  
@@ -258,15 +259,16 @@ Developed materials and taught a one-off field-based class, including training a
 2014 Mountain hare and Irish hare. The Mammal Society  
 2014 A receding hare line and a brown toupée. QUbio  
 
-## Radio and television
-2016 SciComm podcast Episode 8, with Dr. Mike & others  
-2016 SciComm podcast Episode 7, with Dr. Mike  
-2015 Countryfile, BBC  
+>*Radio*  
+2016 SciComm podcast Episodes 7 & 8, with Dr. Mike   
 2015 BBC Radio Ulster  
 2015 BBC News School Report for St. Pius X, Magherafelt’s Biodiversity Club  
-2015 Good Morning Ulster, BBC Radio Ulster. 26th January 2015  
-2013 River Bann, RTÉ Television  
+2015 Good Morning Ulster, BBC Radio Ulster. 26th January 2015 
 2013 "Hares in Ireland". Mooney Goes Wild, RTÉ Radio 1  
+
+>*Television*  
+2015 Countryfile, BBC  
+2013 River Bann, RTÉ Television  
 
 ## Computer Skills
 *Data analysis*   
