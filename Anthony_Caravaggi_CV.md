@@ -158,6 +158,7 @@ Developed materials and taught a one-off field-based class, including training a
 2011-12	**Ecologist**, great crested newt and bat surveys, Haycock and Jay, Ecologists  
 2011-12 **Habitat management**, Conservation Volunteers, University of Leeds  
 2011 **Bat survey assistant**, Haycock and Jay, Ecologists   
+2011 **Snake survey assistant**, Dr. Axel Barlow   
 2010-11 **Ornithological technician**, bird territory mapping, Cardiff University  
 2010-11 **Breeding Bird Survey**, British Trust for Ornithology  
 2010 **Wading bird surveys**, British Trust for Ornithology  
