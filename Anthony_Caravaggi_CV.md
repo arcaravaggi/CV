@@ -1,5 +1,5 @@
 ---
-date: 04 Feb 2017
+date: 09 Feb 2017
 urlcolor: blue
 ---
 
@@ -214,6 +214,8 @@ Developed materials and taught a one-off field-based class, including training a
 2008-08 **Volunteer**, Treborth Botanic Gardens, Bangor  
 
 ## Outreach  
+2017 **Enquiry Zone scientist**, I'm a Scientist, Get Me Out of Here!
+2017 **Partner scientist**, Student Science Partnerships (_scheduled_)  
 2017 **Interview** for Washington Post on science communication  
 2016 **Advisor** to National Geographic on red fox ecology  
 2016 **Invited author**, Shropshire Mammal Group newsletter  
