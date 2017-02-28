@@ -1,5 +1,5 @@
 ---
-date: 09 Feb 2017
+date: 28 Feb 2017
 urlcolor: blue
 ---
 
@@ -46,18 +46,17 @@ Sustainability
 Citizen science  
 
 ## Peer-Reviewed Publications  
-<!---
-In review
-**Caravaggi A**, Montgomery WI, Reid N. Management and control of invasive species: contrasting attitudes of environmental stakeholders and the wider rural community. Proceedings of the Royal Irish Academy: Biology & Environment.
 
-**Caravaggi A**, Banks P, Burton C, Finlay CMV, Hayward M, Haswell, PM, Rowcliffe JM, Wood M. A review of camera trapping for conservation behaviour research. Remote Sensing in Ecology and Conservation.
+**Caravaggi A**, Montgomery WI, Reid N (*in review*) Management and control of invasive species: contrasting attitudes of environmental stakeholders and the wider rural community 
 
-Havlin P, **Caravaggi A**, Montgomery WI. The diet and abundance of an introduced insular population of Red-Necked Wallabies, Macropus rufogriseus. Biological Invasions.
+**Caravaggi A**, Banks P, Burton C, Finlay CMV, Hayward M, Haswell, PM, Rowcliffe JM, Wood M (*in review*) A review of camera trapping for conservation behaviour research  
 
-**Caravaggi A**. remBoot: Random Encounter Modelling and bootstrapping for variance in R. The Journal of Open Source Software.
+Havlin P, **Caravaggi A**, Montgomery WI (*in review*) The diet and abundance of an introduced insular population of Red-Necked Wallabies, *Macropus rufogriseus*  
 
-**Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D. Circadian activity, seasonal occurrence, and predator-prey relationships of free-ranging mammals revealed by camera traps
---->
+**Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D (*in review*) Circadian activity, seasonal occurrence, and predator-prey relationships of free-ranging mammals revealed by camera traps  
+
+4 **Caravaggi A**. remBoot: An R package for Random Encounter Modelling. *Journal of Open Source Software*. [Link](http://joss.theoj.org/papers/10.21105/joss.00176)
+
 3 **Caravaggi A**, Leach K, Santilli F, Rintala J, Helle P, Tiainen J, Bisi F, Martinoli A, Montgomery WI, Reid N (2016) Niche overlap of mountain hare subspecies and the vulnerability of their ranges to invasion by the European hare; the (bad) luck of the Irish. *Biological Invasions* doi: 10.1007/s10530-016-1330-z [Link](http://link.springer.com/article/10.1007/s10530-016-1330-z)
 
 2 **Caravaggi A**, Zaccaroni M, Riga F, Schai-Braun SC, Dick JTA, Montgomery WI, Reid N (2016). An invasive-native mammalian species replacement process captured by camera trap survey Random Encounter Models. *Remote Sensing in Ecology and Conservation*. 2: 45-58 [Open Access](http://onlinelibrary.wiley.com/doi/10.1002/rse2.11/abstract)
@@ -70,11 +69,9 @@ Havlin P, **Caravaggi A**, Montgomery WI. The diet and abundance of an introduce
 ## Grants and Scholarships
 2015 **Emily Sarah Montgomery Travel Scholarship**. £200, Queen’s University Belfast. 7th European Congress of Mammalogy  
 2015 **Training and Travel grant**. £500, British Ecological Society. 7th European Congress of Mammalogy  
+2012 **Research grant**. £2,000, People's Trust for Endangered Species.
 2012 Northern Ireland Environmental Agency (NIEA) **funded PhD studentship**. Queen’s University Belfast  
 2010 Natural Environment Research Council (NERC) **Master's scholarship for outstanding candidates**. University of Leeds
-
-## R Packages
-1 **Caravaggi A** (2016) remBOOT: an R package for Random Encounter Modelling [GitHub repository](https://github.com/arcaravaggi/remBoot)
 
 ## Invited Presentations
 2017	**Keynote** The changing face of UK conservation. Mammal Society Student Conference (*scheduled*)  
@@ -126,7 +123,7 @@ Havlin P, **Caravaggi A**, Montgomery WI. The diet and abundance of an introduce
 > **As Supervisor**  
 Worked with the students to develop research questions and appropriate methodologies, taught relevant statistical techniques and how to implement them in R, monitored progress, and gave feedback and advice throughout  
   
-2014 MSc research project. *Behaviour and stress in sympatric hare species*. Queen’s University, Belfast   
+2015 MSc research project. *Behaviour and stress in sympatric hare species*. Queen’s University, Belfast   
 2014 MSc research project. *Activity and behaviour of hares in Mid-Ulster*. Queen’s University, Belfast  
 2014 Undergraduate residential field course. Queen’s University, Belfast  
 2013 MSc research project. *Estimating hare population densities*. Queen’s University, Belfast  
