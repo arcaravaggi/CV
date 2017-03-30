@@ -6,7 +6,7 @@ urlcolor: blue
 
 Anthony Caravaggi
 =============================
-Associate Researcher - [Queen's University Belfast](http://www.qub.ac.uk/schools/SchoolofBiologicalSciences/)  
+Visiting Research Fellow - [Queen's University Belfast](http://www.qub.ac.uk/schools/SchoolofBiologicalSciences/)  
 School of Biological Sciences, Medical Biology Centre, 97 Lisburn Road, Belfast BT9 7BL  
 **Email** ar.caravaggi@gmail.com - **Tel** +44 (0) 7511 646429  
 [Github Profile](https://github.com/arcaravaggi) - [Twitter @thonoir](https://twitter.com/thonoir) - [Google Scholar Profile](https://scholar.google.co.uk/citations?user=PXf81KIAAAAJ&hl=en) - [ResearchGate Profile](https://www.researchgate.net/profile/Anthony_Caravaggi)  
@@ -51,6 +51,8 @@ Citizen science
 
 **Caravaggi A**, Banks P, Burton C, Finlay CMV, Hayward M, Haswell, PM, Rowcliffe JM, Wood M (*in review*) A review of camera trapping for conservation behaviour research  
 
+**Caravaggi A**, Plowman A, Wright D, Bishop C (*in review*) The composition of captive ruffed lemur (*Varecia* spp.) diets in UK zoological collections, with reference to the problems of obesity and iron storage disease  
+
 Havlin P, **Caravaggi A**, Montgomery WI (*in review*) The diet and abundance of an introduced insular population of Red-Necked Wallabies, *Macropus rufogriseus*  
 
 **Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D (*in review*) Circadian activity, seasonal occurrence, and predator-prey relationships of free-ranging mammals revealed by camera traps  
@@ -69,7 +71,7 @@ Havlin P, **Caravaggi A**, Montgomery WI (*in review*) The diet and abundance of
 ## Grants and Scholarships
 2015 **Emily Sarah Montgomery Travel Scholarship**. £200, Queen’s University Belfast. 7th European Congress of Mammalogy  
 2015 **Training and Travel grant**. £500, British Ecological Society. 7th European Congress of Mammalogy  
-2012 **Research grant**. £2,000, People's Trust for Endangered Species.
+2012 **Research grant**. £2,000, People's Trust for Endangered Species  
 2012 Northern Ireland Environmental Agency (NIEA) **funded PhD studentship**. Queen’s University Belfast  
 2010 Natural Environment Research Council (NERC) **Master's scholarship for outstanding candidates**. University of Leeds
 
@@ -79,7 +81,7 @@ Havlin P, **Caravaggi A**, Montgomery WI (*in review*) The diet and abundance of
 2014	**Guest lecture** Distribution and differential habitat associations of invasive European and endemic Irish hares. Bangor University
 
 ## Presentations
-10 **Caravaggi A** (2017 *scheduled*) University Mammal Challenge: distributed mammal surveys with student scientists. Mammal Society Spring Conference
+10 **Caravaggi A** (2017 *scheduled*) University Mammal Challenge: distributed mammal surveys with student scientists. Mammal Society Spring Conference  
 
 9 **Caravaggi A**, Montgomery WI, Reid N (2016) Invasion ecology: quantifying the impact of non-native European hares on the endemic Irish hare. British Ecological Society Annual Meeting, Liverpool
 
@@ -100,7 +102,7 @@ Havlin P, **Caravaggi A**, Montgomery WI (*in review*) The diet and abundance of
 1 **Caravaggi A**, Montgomery WI, Reid N (2013) Invasion ecology: quantifying the impact of non-native European hares on the endemic Irish hare. Mammal Society Student Conference, Staffordshire
 
 ## Posters
-9 **Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D (2017, *scheduled*) Circadian activity, seasonal occurrence, and predator-prey relationships of free-ranging mammals revealed by camera traps. Mammal Society Spring Conference
+9 **Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D (2017, *scheduled*) Activity and temporal relationships of free-ranging mammals revealed by camera traps. Mammal Society Spring Conference  
 
 8 **Caravaggi A**, Montgomery WI, Reid N (2015) The democratisation of conservation: public attitudes towards lethal control of invasive leporids and implications for species management. 7th European Congress of Mammalogy, Stockholm, Sweden
 
@@ -132,7 +134,7 @@ Worked with the students to develop research questions and appropriate methodolo
 
 > **As Instructor**
   
-2016 Course tutor: ornithology, camera traps, social media. Eco-Explore, Cardiff     
+2016 - 17 Course tutor: ornithology, camera traps, social media. Eco-Explore, Cardiff     
 Developed materials and taught courses on UK bird identification, the use of camera traps in ecology, and social media for scientists.
   
 2016 Lecturer and field ornithologist. Operation Wallacea, Ecuador   
@@ -212,7 +214,7 @@ Developed materials and taught a one-off field-based class, including training a
 
 ## Outreach  
 2017 **Enquiry Zone scientist**, I'm a Scientist, Get Me Out of Here!  
-2017 **Partner scientist**, Student Science Partnerships (_scheduled_)    
+2017 **Partner scientist**, Student Science Partnerships  
 2017 **Interview** for Washington Post on science communication  
 2016 **Advisor** to National Geographic on red fox ecology  
 2016 **Invited author**, Shropshire Mammal Group newsletter  
