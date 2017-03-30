@@ -264,6 +264,7 @@ Developed materials and taught a one-off field-based class, including training a
 
 > *Radio*    
 
+2017 Invited guest, The Edgar Ortega Radio Show  
 2016 SciComm podcast Episodes 7 & 8, with Dr. Mike   
 2015 BBC Radio Ulster  
 2015 BBC News School Report for St. Pius X, Magherafelt’s Biodiversity Club  
