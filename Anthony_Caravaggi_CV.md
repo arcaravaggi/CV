@@ -81,7 +81,7 @@ Havlin P, **Caravaggi A**, Montgomery WI (*in review*) The diet and abundance of
 2014	**Guest lecture** Distribution and differential habitat associations of invasive European and endemic Irish hares. Bangor University
 
 ## Presentations
-10 **Caravaggi A** (2017 *scheduled*) University Mammal Challenge: distributed mammal surveys with student scientists. Mammal Society Spring Conference  
+10 **Caravaggi A** (2017) University Mammal Challenge: distributed mammal surveys with student scientists. Mammal Society Spring Conference  
 
 9 **Caravaggi A**, Montgomery WI, Reid N (2016) Invasion ecology: quantifying the impact of non-native European hares on the endemic Irish hare. British Ecological Society Annual Meeting, Liverpool
 
@@ -102,7 +102,7 @@ Havlin P, **Caravaggi A**, Montgomery WI (*in review*) The diet and abundance of
 1 **Caravaggi A**, Montgomery WI, Reid N (2013) Invasion ecology: quantifying the impact of non-native European hares on the endemic Irish hare. Mammal Society Student Conference, Staffordshire
 
 ## Posters
-9 **Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D (2017, *scheduled*) Activity and temporal relationships of free-ranging mammals revealed by camera traps. Mammal Society Spring Conference  
+9 **Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D (2017) Activity and temporal relationships of free-ranging mammals revealed by camera traps. Mammal Society Spring Conference  
 
 8 **Caravaggi A**, Montgomery WI, Reid N (2015) The democratisation of conservation: public attitudes towards lethal control of invasive leporids and implications for species management. 7th European Congress of Mammalogy, Stockholm, Sweden
 
@@ -192,6 +192,7 @@ Developed materials and taught a one-off field-based class, including training a
 2002-present Full manual UK driving license, held without incident or penalty  
 
 ## Service 
+2017 **Conference volunteer**, The Mammal Society Spring Conference  
 2016 Session chair, **Community Ecology**, British Ecological Society Annual Meeting  
 2016 **Committee member**, South Wales Mammal Group  
 2016 **Coordinator** of The Mammal Society's University Mammal Challenge  
@@ -264,12 +265,13 @@ Developed materials and taught a one-off field-based class, including training a
 
 > *Radio*    
 
-2017 Invited guest, The Edgar Ortega Radio Show  
+2017 BBC Coventry & Warwickshire, Wallabies in the UK  
+2017 Invited guest, The Edgar Ortega Radio Show, Invasive species and urban wildlife  
 2016 SciComm podcast Episodes 7 & 8, with Dr. Mike   
-2015 BBC Radio Ulster  
+2015 BBC Radio Ulster, Hares at Belfast airport    
 2015 BBC News School Report for St. Pius X, Magherafelt’s Biodiversity Club  
-2015 Good Morning Ulster, BBC Radio Ulster. 26th January 2015 
-2013 "Hares in Ireland". Mooney Goes Wild, RTÉ Radio 1  
+2015 BBC Radio Ulster, Good Morning Ulster,  Invasive species  
+2013 RTÉ Radio 1, Mooney Goes Wild, Hares in Ireland  
 
 > *Television*    
 
