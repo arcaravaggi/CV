@@ -215,6 +215,7 @@ Developed materials and taught a one-off field-based class, including training a
 
 ## Outreach  
 2017 **Enquiry Zone scientist**, I'm a Scientist, Get Me Out of Here!  
+2017 **Contributed photo** to CBS article on Twitter hashtag (#bestcarcass)   
 2017 **Partner scientist**, Student Science Partnerships  
 2017 **Interview** for Washington Post on science communication  
 2016 **Advisor** to National Geographic on red fox ecology  
@@ -247,6 +248,8 @@ Developed materials and taught a one-off field-based class, including training a
 
 > *Written*  
 
+2017 Rejected by the Rainforest, I F-ing Love Conservation   
+2017 Introducing the University Mammal Challenge, The Mammal Society  
 2017 365 papers. Personal blog, ongoing  
 2016 Is there intelligent life on Earth? Save our Souls magazine  
 2016 A chat with Dr. Anthony Caravaggi. Biotechin.asia  
