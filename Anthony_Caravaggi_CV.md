@@ -1,11 +1,12 @@
 ---
-date: 03 April 2017
+date: 04 May 2017
 urlcolor: blue
 ---
 
 
 Anthony Caravaggi
 =============================
+Postdoctoral researcher; [SHINE project](https://www.ucc.ie/en/forestecology/research/shine/) - [University College Cork](http://www.ucc.ie/en/)    
 Visiting Research Fellow - [Queen's University Belfast](http://www.qub.ac.uk/schools/SchoolofBiologicalSciences/)  
 School of Biological Sciences, Medical Biology Centre, 97 Lisburn Road, Belfast BT9 7BL  
 **Email** ar.caravaggi@gmail.com - **Tel** +44 (0) 7511 646429  
@@ -49,13 +50,13 @@ Citizen science
 
 **Caravaggi A**, Montgomery WI, Reid N (*in review*) Management and control of invasive species: contrasting attitudes of environmental stakeholders and the wider rural community 
 
-**Caravaggi A**, Banks P, Burton C, Finlay CMV, Hayward M, Haswell, PM, Rowcliffe JM, Wood M (*in review*) A review of camera trapping for conservation behaviour research  
-
 **Caravaggi A**, Plowman A, Wright D, Bishop C (*in review*) The composition of captive ruffed lemur (*Varecia* spp.) diets in UK zoological collections, with reference to the problems of obesity and iron storage disease  
 
 Havlin P, **Caravaggi A**, Montgomery WI (*in review*) The diet and abundance of an introduced insular population of Red-Necked Wallabies, *Macropus rufogriseus*  
 
-**Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D (*in review*) Circadian activity, seasonal occurrence, and predator-prey relationships of free-ranging mammals revealed by camera traps  
+**Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D (*in review*) Circadian activity, seasonal occurrence, and predator-prey relationships of free-ranging mammals revealed by camera traps  .
+
+5 **Caravaggi A**, Banks P, Burton C, Finlay CMV, Hayward M, Haswell, PM, Rowcliffe JM, Wood M (*in press*) A review of camera trapping for conservation behaviour research. *Remote Sensing in Ecology and Conservation*   
 
 4 **Caravaggi A**. remBoot: An R package for Random Encounter Modelling. *Journal of Open Source Software*. [Link](http://joss.theoj.org/papers/10.21105/joss.00176)
 
@@ -102,7 +103,7 @@ Havlin P, **Caravaggi A**, Montgomery WI (*in review*) The diet and abundance of
 1 **Caravaggi A**, Montgomery WI, Reid N (2013) Invasion ecology: quantifying the impact of non-native European hares on the endemic Irish hare. Mammal Society Student Conference, Staffordshire
 
 ## Posters
-9 **Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D (2017) Activity and temporal relationships of free-ranging mammals revealed by camera traps. Mammal Society Spring Conference  
+9 **Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D (2017) Activity and temporal relationships of free-ranging mammals revealed by camera traps. Mammal Society Spring Conference   
 
 8 **Caravaggi A**, Montgomery WI, Reid N (2015) The democratisation of conservation: public attitudes towards lethal control of invasive leporids and implications for species management. 7th European Congress of Mammalogy, Stockholm, Sweden
 
@@ -214,6 +215,7 @@ Developed materials and taught a one-off field-based class, including training a
 2008-08 **Volunteer**, Treborth Botanic Gardens, Bangor  
 
 ## Outreach  
+2017 **Co-created @SciCommGames** Environmental and science communication Twitter games  
 2017 **Enquiry Zone scientist**, I'm a Scientist, Get Me Out of Here!  
 2017 **Contributed photo** to CBS article on Twitter hashtag (#bestcarcass)   
 2017 **Partner scientist**, Student Science Partnerships  
@@ -227,7 +229,7 @@ Developed materials and taught a one-off field-based class, including training a
 2015 **Featured curator**, Biotweeps (~6.5k followers)   
 2015 **Interactive presentation**, Natives and non-natives, St. Pius X. College, Magherafelt   
 2015 **School presentation**, The Irish hare, Rathlin Island School   
-2014 **Created Biotweeps**, a science communication Twitter project  
+2014 **Created @Biotweeps**, a science communication Twitter project  
 2014 **Invited expert** Multi-school careers advice and speed-networking event   
 2014 **Presentation**, Hares in Northern Ireland, An Carn  
 2014 **Presentation**, Island biodiversity, with a focus on hares, Magherafelt bird group   
@@ -235,7 +237,7 @@ Developed materials and taught a one-off field-based class, including training a
 2013 **Volunteer science presenter, ornithology**, Techniquest, Cardiff  
 2013 **Wildlife consultant** for Biological records for the North East of Scotland (NESBReC)  
 2013 **Interview**,'Hare' raising project in Mid-Ulster, Mid Ulster Mail   
-2013 **Created The Ringing Planet**, a bird-ringing Twitter project  
+2013 **Created @RingingPlanet**, a bird-ringing Twitter project  
 2013 **Presentation**, Hares in Northern Ireland, Maghera Naturalists   
 2013 **Bird ID and ringing demonstrator**, Bridgend  
 2013 **Bioblitz naturalist**, Carmarthen   
