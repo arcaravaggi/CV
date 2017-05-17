@@ -1,12 +1,12 @@
 ---
-date: 04 May 2017
+date: 17 May 2017
 urlcolor: blue
 ---
 
 
 Anthony Caravaggi
 =============================
-Postdoctoral researcher; [SHINE project](https://www.ucc.ie/en/forestecology/research/shine/) - [University College Cork](http://www.ucc.ie/en/)    
+Postdoctoral researcher; [Supporting Hen harriers in Novel Environments, SHINE, project](https://www.ucc.ie/en/forestecology/research/shine/) - [University College Cork](http://www.ucc.ie/en/)    
 Visiting Research Fellow - [Queen's University Belfast](http://www.qub.ac.uk/schools/SchoolofBiologicalSciences/)  
 School of Biological Sciences, Medical Biology Centre, 97 Lisburn Road, Belfast BT9 7BL  
 **Email** ar.caravaggi@gmail.com - **Tel** +44 (0) 7511 646429  
@@ -47,6 +47,17 @@ Sustainability
 Citizen science  
 
 ## Peer-Reviewed Publications  
+
+<!--- 
+Seabirds  
+UMAC (1 or 2)?  
+Biotweeps  
+Irish-European hare commentary  
+Irish hare review  
+Meta-analysis of attitudes  
+Habitat association & occipancy from NI data  
+NI data compared to Scotland (Roo Campbell)  
+--->
 
 **Caravaggi A**, Montgomery WI, Reid N (*in review*) Management and control of invasive species: contrasting attitudes of environmental stakeholders and the wider rural community 
 
@@ -153,6 +164,7 @@ Developed materials and taught a one-off field-based class, including training a
 2014 Animal biology, undergraduate module. Queen’s University Belfast     
 
 ## Additional Experience  
+2017 **Assistant**, pied flycatcher nestbox monitoring, Cardiff University   
 2017 **Breeding Bird Survey**, British Trust for Ornithology  
 2011-12 **Small mammal surveys**, field assistant, University of Leeds  
 2011-12	**Ecologist**, great crested newt and bat surveys, Haycock and Jay, Ecologists  
