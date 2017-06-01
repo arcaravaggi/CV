@@ -198,7 +198,7 @@ Developed materials and taught a one-off field-based class, including training a
 2009 **The British Trust for Ornithology**  
 
 ## Professional Licenses and Certifications
-2014-2015 ASPA laboratory animal handling license  
+2014-2015 ASPA laboratory animal handling license (TSA/47/14)
 2014-present Emergency first aid  
 2014-present Field first aid  
 2009-present Bird ringing license holder, British Trust for Ornithology ‘C’ license. 2,000 birds  
