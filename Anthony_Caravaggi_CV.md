@@ -6,9 +6,9 @@ urlcolor: blue
 
 Anthony Caravaggi
 =============================
-Postdoctoral researcher; [Supporting Hen harriers in Novel Environments, SHINE, project](https://www.ucc.ie/en/forestecology/research/shine/) - [University College Cork](http://www.ucc.ie/en/)    
+**Postdoctoral researcher**; [Supporting Hen harriers in Novel Environments, SHINE, project](https://www.ucc.ie/en/forestecology/research/shine/) - [University College Cork](http://www.ucc.ie/en/)    
 School of Biological, Earth and Environmental Sciences, University College Cork, Distillery Field, N Mall, Cork, Ireland   
-Visiting Research Fellow - [Queen's University Belfast](http://www.qub.ac.uk/schools/SchoolofBiologicalSciences/)  
+**Visiting Research Fellow** - [Queen's University Belfast](http://www.qub.ac.uk/schools/SchoolofBiologicalSciences/)  
 School of Biological Sciences, Medical Biology Centre, 97 Lisburn Road, Belfast BT9 7BL  
 **Email** ar.caravaggi@gmail.com - **Tel** +44 (0) 7511 646429  
 [Github Profile](https://github.com/arcaravaggi) - [Twitter @thonoir](https://twitter.com/thonoir) - [Google Scholar Profile](https://scholar.google.co.uk/citations?user=PXf81KIAAAAJ&hl=en) - [ResearchGate Profile](https://www.researchgate.net/profile/Anthony_Caravaggi)  
@@ -50,23 +50,22 @@ Citizen science
 ## Peer-Reviewed Publications  
 
 <!--- 
+Peer-review
 Seabirds  
 UMAC (1 or 2)?  
 Biotweeps  
-Irish-European hare commentary  
-Irish hare review  
 Meta-analysis of attitudes  
 Habitat association & occipancy from NI data  
 NI data compared to Scotland (Roo Campbell)  
 --->
 
-**Caravaggi A**, Montgomery WI, Reid N (*in review*) Management and control of invasive species: contrasting attitudes of environmental stakeholders and the wider rural community 
-
 **Caravaggi A**, Plowman A, Wright D, Bishop C (*in review*) The composition of captive ruffed lemur (*Varecia* spp.) diets in UK zoological collections, with reference to the problems of obesity and iron storage disease  
 
 Havlin P, **Caravaggi A**, Montgomery WI (*in review*) The diet and abundance of an introduced insular population of Red-Necked Wallabies, *Macropus rufogriseus*  
 
-**Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D (*in review*) Circadian activity, seasonal occurrence, and predator-prey relationships of free-ranging mammals revealed by camera traps  .
+**Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D (*in review*) Circadian activity, seasonal occurrence, and predator-prey relationships of free-ranging mammals revealed by camera traps   
+
+6 **Caravaggi A**, Montgomery WI, Reid N (*in press*) Management and control of invasive species: contrasting attitudes of environmental stakeholders and the wider rural community 
 
 5 **Caravaggi A**, Banks P, Burton C, Finlay CMV, Hayward M, Haswell, PM, Rowcliffe JM, Wood M (*in press*) A review of camera trapping for conservation behaviour research. *Remote Sensing in Ecology and Conservation*   
 
@@ -206,17 +205,20 @@ Developed materials and taught a one-off field-based class, including training a
 2002-present Full manual UK driving license, held without incident or penalty  
 
 ## Service 
+2017 **Peer reviewer**, Journal of Zoology; JZO-04-17-OM-122   
 2017 Contributed to the book 'Does It Fart?' by Nick Caruso and Dani Rabaiotti (ISBN 9781786488268)  
 2017 **Conference volunteer**, The Mammal Society Spring Conference  
+2016 **Peer reviewer**, Remote Sensing in Ecology and Conservation; RSEC-2016-03-0010   
 2016 Session chair, **Community Ecology**, British Ecological Society Annual Meeting  
 2016 **Committee member**, South Wales Mammal Group  
 2016 **Coordinator** of The Mammal Society's University Mammal Challenge  
 2016-present British Ecological Society Women in Ecology (WIE) **mentor**   
 2016-present **Review College member**, British Ecological Society  
 2016-present **Student Engagement Officer**, The Mammal Society Council  
+2015 **Peer reviewer**, Zoo Biology   
 2015 **Student committee advisor**, Mammal Society Student Conference  
 2014 **Coordinator**, Mammal Society Student Conference  
-2013-present **Peer reviewer**: Zoo Biology; Mammal Research; Remote Sensing in Ecology and Conservation  
+2013 **Peer reviewer**, Mammal Research   
 2013-present **UK STEM Ambassador**  
 2013 **Principal coordinator**, Mammal Society Student Conference  
 2013 **Volunteer**, 11th International Mammal Congress, Belfast  
