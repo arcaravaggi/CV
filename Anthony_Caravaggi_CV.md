@@ -6,7 +6,7 @@ urlcolor: blue
 
 Anthony Caravaggi
 =============================
-**Postdoctoral researcher**; [Supporting Hen harriers in Novel Environments, SHINE, project](https://www.ucc.ie/en/forestecology/research/shine/) - [University College Cork](http://www.ucc.ie/en/)    
+**Postdoctoral researcher**; [Supporting Hen harriers in Novel Environments, SHINE](https://www.ucc.ie/en/forestecology/research/shine/) - [University College Cork](http://www.ucc.ie/en/)    
 School of Biological, Earth and Environmental Sciences, University College Cork, Distillery Field, N Mall, Cork, Ireland   
 **Visiting Research Fellow** - [Queen's University Belfast](http://www.qub.ac.uk/schools/SchoolofBiologicalSciences/)  
 School of Biological Sciences, Medical Biology Centre, 97 Lisburn Road, Belfast BT9 7BL  
@@ -50,14 +50,28 @@ Citizen science
 ## Peer-Reviewed Publications  
 
 <!--- 
-Peer-review
-Seabirds  
-UMAC (1 or 2)?  
-Biotweeps  
+Caravaggi A, Bond A (in prep) The impact of invasive mice on the breeding success of Gough Island seabirds (working title). 
+
+Caravaggi A, Turner D, Cameron T (in prep) I’ve got a bad feeling about this: a study into factors affecting reed-nesting birds. (working title).
+
+UMAC (1 or 2)?
+
+Biotweeps (?)  
+
 Meta-analysis of attitudes  
+
+Invasive species assessment
+
 Habitat association & occipancy from NI data  
+
 NI data compared to Scotland (Roo Campbell)  
+
+Review of hen harrier ecology in Ireland
+
+Hen harrier biometrics; Ireland vs UK
 --->
+
+Tennant JP, Graziotin D, Jacques DC, Waldner F, Dugan JM, Mietchen D, Elkhatib Y, Collister LB, Pikas CK, Crick T, Masuzzo P, **Caravaggi A**, *et al.*  (*in review*) Future developments for peer review     
 
 **Caravaggi A**, Plowman A, Wright D, Bishop C (*in review*) The composition of captive ruffed lemur (*Varecia* spp.) diets in UK zoological collections, with reference to the problems of obesity and iron storage disease  
 
@@ -65,9 +79,9 @@ Havlin P, **Caravaggi A**, Montgomery WI (*in review*) The diet and abundance of
 
 **Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D (*in review*) Circadian activity, seasonal occurrence, and predator-prey relationships of free-ranging mammals revealed by camera traps   
 
-6 **Caravaggi A**, Montgomery WI, Reid N (*in press*) Management and control of invasive species: contrasting attitudes of environmental stakeholders and the wider rural community 
+6 **Caravaggi A**, Montgomery WI, Reid N (*in press*) Management and control of invasive species: contrasting attitudes of environmental stakeholders and the wider rural community. Proceedings of the Royal Irish Academy: Biology & Environment   
 
-5 **Caravaggi A**, Banks P, Burton C, Finlay CMV, Hayward M, Haswell, PM, Rowcliffe JM, Wood M (*in press*) A review of camera trapping for conservation behaviour research. *Remote Sensing in Ecology and Conservation*   
+5 **Caravaggi A**, Banks P, Burton C, Finlay CMV, Hayward M, Haswell, PM, Rowcliffe JM, Wood M (*in press*) A review of camera trapping for conservation behaviour research. *Remote Sensing in Ecology and Conservation* [Link](http://onlinelibrary.wiley.com/doi/10.1002/rse2.48/abstract)   
 
 4 **Caravaggi A**. remBoot: An R package for Random Encounter Modelling. *Journal of Open Source Software*. [Link](http://joss.theoj.org/papers/10.21105/joss.00176)
 
@@ -88,11 +102,13 @@ Havlin P, **Caravaggi A**, Montgomery WI (*in review*) The diet and abundance of
 2010 Natural Environment Research Council (NERC) **Master's scholarship for outstanding candidates**. University of Leeds
 
 ## Invited Presentations
-2017	**Keynote** The changing face of UK conservation. Mammal Society Student Conference (*scheduled*)  
+2017	**Keynote** The changing face of UK conservation. Mammal Society Student Conference 
 2016	**Keynote** UK mammals. Mammal Society Student Conference  
 2014	**Guest lecture** Distribution and differential habitat associations of invasive European and endemic Irish hares. Bangor University
 
 ## Presentations
+11 **Caravaggi A** (2017) Predation of seabirds by mice on Gough Island. World Seabird Twiter Conference
+
 10 **Caravaggi A** (2017) University Mammal Challenge: distributed mammal surveys with student scientists. Mammal Society Spring Conference  
 
 9 **Caravaggi A**, Montgomery WI, Reid N (2016) Invasion ecology: quantifying the impact of non-native European hares on the endemic Irish hare. British Ecological Society Annual Meeting, Liverpool
@@ -205,6 +221,7 @@ Developed materials and taught a one-off field-based class, including training a
 2002-present Full manual UK driving license, held without incident or penalty  
 
 ## Service 
+2017 **Peer reviewer**, Canadian Journal of Zoology
 2017 **Peer reviewer**, Journal of Zoology; JZO-04-17-OM-122   
 2017 Contributed to the book 'Does It Fart?' by Nick Caruso and Dani Rabaiotti (ISBN 9781786488268)  
 2017 **Conference volunteer**, The Mammal Society Spring Conference  
