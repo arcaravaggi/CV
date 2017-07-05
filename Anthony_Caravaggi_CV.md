@@ -93,6 +93,11 @@ Havlin P, **Caravaggi A**, Montgomery WI (*in review*) The diet and abundance of
 
 1 **Caravaggi A**, Montgomery WI, Reid N et al. (2015). Range expansion and comparative habitat use of insular, congeneric lagomorphs: invasive European hares *Lepus europaeus* and endemic Irish hares *Lepus timidus hibernicus*. *Biological Invasions*. 17: 687-698 [Link](http://link.springer.com/article/10.1007/s10530-014-0759-1)
 
+<!--- ## Book contributions  
+Caravaggi, A (*in dev*). **Lagomorph navigation and life history** in Vonk J, Shackelford TJ (eds). Encyclopedia of Animal Cognition and Behavior. ISBN 9783319550657   
+**Does it Fart? The Definitive Field Guide to Animal Flatulence**. Rabaiotti D, Caruso N. (2017). Quercus books. ISBN: 9781786488275     
+--->
+
 
 ## Grants and Scholarships
 2015 **Emily Sarah Montgomery Travel Scholarship**. £200, Queen’s University Belfast. 7th European Congress of Mammalogy  
