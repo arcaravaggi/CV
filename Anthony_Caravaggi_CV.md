@@ -283,6 +283,7 @@ Developed materials and taught a one-off field-based class, including training a
 
 > *Written*  
 
+2017 A brief history of an Early Career Researcher, Errant Science   
 2017 Rejected by the Rainforest, I F-ing Love Conservation   
 2017 Introducing the University Mammal Challenge, The Mammal Society  
 2017 365 papers. Personal blog, ongoing  
