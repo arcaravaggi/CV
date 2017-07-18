@@ -226,6 +226,9 @@ Developed materials and taught a one-off field-based class, including training a
 2002-present Full manual UK driving license, held without incident or penalty  
 
 ## Service 
+2017 SCB Participatory and Citizen Science Working Group member   
+2017 **Peer reviewer**, Journal of Zoology; JZO-06-17-OM-179    
+2017 **Peer Reviewer**, Journal of Natural History; TNAH-OA 17-150    
 2017 **Peer reviewer**, Canadian Journal of Zoology; cjz-2017-0049   
 2017 **Peer reviewer**, Journal of Zoology; JZO-04-17-OM-122   
 2017 Contributed to the book 'Does It Fart?' by Nick Caruso and Dani Rabaiotti (ISBN 9781786488268)  
