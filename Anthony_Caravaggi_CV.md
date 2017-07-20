@@ -114,7 +114,7 @@ Caravaggi, A (*in dev*). **Lagomorph navigation and life history** in Vonk J, Sh
 2014	**Guest lecture** Distribution and differential habitat associations of invasive European and endemic Irish hares. Bangor University
 
 ## Presentations
-11 **Caravaggi A** (2017) Predation of seabirds by mice on Gough Island. World Seabird Twiter Conference
+11 **Caravaggi A** (2017) Predation of seabirds by mice on Gough Island. World Seabird Twitter Conference
 
 10 **Caravaggi A** (2017) University Mammal Challenge: distributed mammal surveys with student scientists. Mammal Society Spring Conference  
 
