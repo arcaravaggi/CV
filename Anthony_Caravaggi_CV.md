@@ -10,25 +10,28 @@ Anthony Caravaggi
 [Github Profile](https://github.com/arcaravaggi) | [Twitter @thonoir](https://twitter.com/thonoir) | [Google Scholar Profile](https://scholar.google.co.uk/citations?user=PXf81KIAAAAJ&hl=en) | [ResearchGate Profile](https://www.researchgate.net/profile/Anthony_Caravaggi)  
 
 ## Career History
-**2017-** Postdoctoral researcher; [Supporting Hen harriers in Novel Environments, SHINE](https://www.ucc.ie/en/forestecology/research/shine/)
+**2017-** Postdoctoral researcher; [SHINE project](https://www.ucc.ie/en/forestecology/research/shine/)  
 School of Biological, Earth and Environmental Sciences, [University College Cork](http://www.ucc.ie/en/), Distillery Field, N Mall, Cork, Ireland
 
-**2017-** Visiting Research Fellow; studies on movement ecology and invasive species
+**2017-** Visiting Research Fellow; movement ecology and invasive species  
 School of Biological Sciences, [Queen's University Belfast](http://www.qub.ac.uk/schools/SchoolofBiologicalSciences/), Medical Biology Centre, 97 Lisburn Road, Belfast BT9 7BL  
 
 ## Education
-**2012 – 2016** 	PhD conservation biology/invasion ecology. [Queen's University Belfast](http://www.qub.ac.uk/schools/SchoolofBiologicalSciences/)  
+**2012 – 2016** 	PhD conservation biology/invasion ecology  
+[Queen's University Belfast](http://www.qub.ac.uk/schools/SchoolofBiologicalSciences/)  
 *Quantifying the impact of non-native European hares on the endemic Irish hare*   
 Supervisors: Dr. Neil Reid, Prof. Ian Montgomery, Prof. Paulo Prodöhl
 
-**2010 – 2011**	MRes Biodiversity and Conservation, [University of Leeds](https://www.leeds.ac.uk/)  
+**2010 – 2011**	MRes Biodiversity and Conservation  
+[University of Leeds](https://www.leeds.ac.uk/)  
 Research projects:  
 1 *Patrilineal inheritance of parasite resistance in leaf-cutter ants (Acromyrmex sp.)*. Supervisor: Dr. William Hughes  
 2 *Factors influencing passerine productivity in managed reed beds*. Supervisor: Dr. Tom Cameron  
 
-**2006 – 2009**	BSc Zoology with Conservation (Hons), [Bangor University](https://www.bangor.ac.uk/)  
-Research project:   
-*Dietary and faecal iron levels in captive black-and-white ruffed lemurs*  Supervisor: Dr. Charles Bishop
+**2006 – 2009**	BSc Zoology with Conservation (Hons)  
+[Bangor University](https://www.bangor.ac.uk/)  
+*Dietary and faecal iron levels in captive black-and-white ruffed lemurs*  
+Supervisor: Dr. Charles Bishop   
 
 ## Research Interests
 Conservation biology  
@@ -67,6 +70,8 @@ Hen harrier biometrics; Ireland vs UK
 **Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D (*in review*) Circadian activity, seasonal occurrence, and predator-prey relationships of free-ranging mammals revealed by camera traps  
 
 --->
+
+More details on peer-reviewed manuscripts can be found on the [publications page](/publications/).
 
 **Caravaggi A**, Plowman A, Wright D, Bishop C (*in review*) The composition of captive ruffed lemur (*Varecia* spp.) diets in UK zoological collections, with reference to the problems of obesity and iron storage disease  
 
@@ -216,7 +221,7 @@ Developed materials and taught a one-off field-based class, including training a
 2014-15 ASPA laboratory animal handling license (TSA/47/14)   
 2014-		Emergency first aid  
 2014-		Field first aid  
-2009-		Bird ringing license holder, British Trust for Ornithology ‘C’ license. 2,000 birds  
+2009-		Bird ringing 'C' license holder, British Trust for Ornithology
 2008-11 Marine mammal medic. British Divers Marine Life Rescue   
 2002-		Full manual UK driving license, held without incident or penalty  
 
@@ -292,9 +297,7 @@ Developed materials and taught a one-off field-based class, including training a
 
 
 ## Media Appearances, Profiles and Mentions
-
-> *Written*  
-
+*Written*  
 2017 A brief history of an Early Career Researcher, Errant Science   
 2017 Rejected by the Rainforest, I F-ing Love Conservation   
 2017 Introducing the University Mammal Challenge, The Mammal Society  
@@ -313,8 +316,7 @@ Developed materials and taught a one-off field-based class, including training a
 2014 Mountain hare and Irish hare. The Mammal Society  
 2014 A receding hare line and a brown toupée. QUbio  
 
-> *Radio*    
-
+*Radio*    
 2017 BBC Coventry & Warwickshire, Wallabies in the UK  
 2017 Invited guest, The Edgar Ortega Radio Show, Invasive species and urban wildlife  
 2016 SciComm podcast Episodes 7 & 8, with Dr. Mike   
@@ -323,8 +325,7 @@ Developed materials and taught a one-off field-based class, including training a
 2015 BBC Radio Ulster, Good Morning Ulster,  Invasive species  
 2013 RTÉ Radio 1, Mooney Goes Wild, Hares in Ireland  
 
-> *Television*    
-
+*Television*    
 2015 Countryfile, BBC  
 2013 River Bann, RTÉ Television  
 
@@ -338,7 +339,8 @@ R, ArcGIS, QGIS
 *Other software*
 Distance, MARK, MaxEnt, MAVIS NVC, Patch Analyst, GeneMapper, Microsoft office, GitHub, RMarkdown, graphics packages (e.g. Photoshop), bespoke software   
 
-## Statistical skills
+## Skills and knowledge
+*Statistical*
 General linear and mixed-effects models  
 Principal Components Analysis  
 Species Distribution Modelling  
@@ -350,7 +352,7 @@ Model averaging
 Random Encounter Models  
 Other parametric and non-parametric tests
 
-## Field Skills
+*Field*
 Off-road driving (4x4)  
 Multi-taxa (mammal, bird, invertebrate, reptile, amphibian; UK coastal, marine and terrestrial) surveys (e.g. mark and recapture, Distance sampling, camera traps, quadrats, scan/focal sampling); habitat) and identification  
 Habitat surveys  
@@ -358,7 +360,7 @@ Animal handling (amphibians, reptiles, invertebrates, and small-to-large birds a
 Bird ringing (BTO C license)  
 Orienteering  
 
-## Laboratory skills
+*Laboratory*
 Multi-taxa dissection (mammal, bird, amphibian, invertebrate)  
 Species identification via microscopy  
 Ethological studies  
