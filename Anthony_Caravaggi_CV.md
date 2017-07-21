@@ -85,7 +85,7 @@ Havlin P, **Caravaggi A**, Montgomery WI (*in review*) The diet and abundance of
 
 4 **Caravaggi A** (2017) remBoot: An R package for Random Encounter Modelling. *Journal of Open Source Software*. 2(10). doi: [10.21105/joss.00176](http://joss.theoj.org/papers/10.21105/joss.00176)
 
-3 **Caravaggi A**, Leach K, Santilli F, Rintala J, Helle P, Tiainen J, Bisi F, Martinoli A, Montgomery WI, Reid N (2016) Niche overlap of mountain hare subspecies and the vulnerability of their ranges to invasion by the European hare; the (bad) luck of the Irish. *Biological Invasions*. 19(2): 655–674. doi: [10.1007/s10530-016-1330-z ](http://link.springer.com/article/10.1007/s10530-016-1330-z)
+3 **Caravaggi A**, Leach K, Santilli F, Rintala J, Helle P, Tiainen J, Bisi F, Martinoli A, Montgomery WI, Reid N (2017) Niche overlap of mountain hare subspecies and the vulnerability of their ranges to invasion by the European hare; the (bad) luck of the Irish. *Biological Invasions*. 19(2): 655–674. doi: [10.1007/s10530-016-1330-z ](http://link.springer.com/article/10.1007/s10530-016-1330-z)
 
 2 **Caravaggi A**, Zaccaroni M, Riga F, Schai-Braun SC, Dick JTA, Montgomery WI, Reid N (2016) An invasive-native mammalian species replacement process captured by camera trap survey Random Encounter Models. *Remote Sensing in Ecology and Conservation*. 2: 45-58. doi: [10.1002/rse2.11](http://onlinelibrary.wiley.com/doi/10.1002/rse2.11/abstract)
 
