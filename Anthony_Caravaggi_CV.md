@@ -1,38 +1,31 @@
 ---
-date: 19 June 2017
+date: 21 July 2017
 urlcolor: blue
 ---
 
 
 Anthony Caravaggi
 =============================
-**Postdoctoral researcher**; [Supporting Hen harriers in Novel Environments, SHINE](https://www.ucc.ie/en/forestecology/research/shine/) - [University College Cork](http://www.ucc.ie/en/)    
-School of Biological, Earth and Environmental Sciences, University College Cork, Distillery Field, N Mall, Cork, Ireland   
-**Visiting Research Fellow** - [Queen's University Belfast](http://www.qub.ac.uk/schools/SchoolofBiologicalSciences/)  
-School of Biological Sciences, Medical Biology Centre, 97 Lisburn Road, Belfast BT9 7BL  
-**Email** ar.caravaggi@gmail.com - **Tel** +44 (0) 7511 646429  
-[Github Profile](https://github.com/arcaravaggi) - [Twitter @thonoir](https://twitter.com/thonoir) - [Google Scholar Profile](https://scholar.google.co.uk/citations?user=PXf81KIAAAAJ&hl=en) - [ResearchGate Profile](https://www.researchgate.net/profile/Anthony_Caravaggi)  
+**Email** ar.caravaggi@gmail.com | **Tel** +44 (0) 7511 646429  
+[Github Profile](https://github.com/arcaravaggi) | [Twitter @thonoir](https://twitter.com/thonoir) | [Google Scholar Profile](https://scholar.google.co.uk/citations?user=PXf81KIAAAAJ&hl=en) | [ResearchGate Profile](https://www.researchgate.net/profile/Anthony_Caravaggi)  
+
+## Career History
+**2017-** Postdoctoral researcher; [Supporting Hen harriers in Novel Environments, SHINE](https://www.ucc.ie/en/forestecology/research/shine/)
+School of Biological, Earth and Environmental Sciences, [University College Cork](http://www.ucc.ie/en/), Distillery Field, N Mall, Cork, Ireland
+
+**2017-** Visiting Research Fellow; studies on movement ecology and invasive species
+School of Biological Sciences, [Queen's University Belfast](http://www.qub.ac.uk/schools/SchoolofBiologicalSciences/), Medical Biology Centre, 97 Lisburn Road, Belfast BT9 7BL  
 
 ## Education
 **2012 – 2016** 	PhD conservation biology/invasion ecology. [Queen's University Belfast](http://www.qub.ac.uk/schools/SchoolofBiologicalSciences/)  
 *Quantifying the impact of non-native European hares on the endemic Irish hare*   
 Supervisors: Dr. Neil Reid, Prof. Ian Montgomery, Prof. Paulo Prodöhl
 
-- Ecological niche modelling and identification of ecological distances within and between mountain hares and the European hare in Europe. 
-- Population density estimation via Distance Sampling and the Random Encounter Model, including statistical reduction of survey effort.
-- Temporal change in range and abundance.
-- Habitat association modelling across multiple scales.
-- Social science study to investigate awareness of the non-native and acceptance of lethal control.
-- Extensive work and communication with residents, academics, land owners, and NGOs.
-- Trained and managed three Master’s students and one undergraduate student.
-- Trained and managed a total of 14 field assistants. 
-- Radio and press appearances, and talks to local and school groups.
-
 **2010 – 2011**	MRes Biodiversity and Conservation, [University of Leeds](https://www.leeds.ac.uk/)  
 Research projects:  
 1 *Patrilineal inheritance of parasite resistance in leaf-cutter ants (Acromyrmex sp.)*. Supervisor: Dr. William Hughes  
 2 *Factors influencing passerine productivity in managed reed beds*. Supervisor: Dr. Tom Cameron  
-		
+
 **2006 – 2009**	BSc Zoology with Conservation (Hons), [Bangor University](https://www.bangor.ac.uk/)  
 Research project:   
 *Dietary and faecal iron levels in captive black-and-white ruffed lemurs*  Supervisor: Dr. Charles Bishop
@@ -49,8 +42,8 @@ Citizen science
 
 ## Peer-Reviewed Publications  
 
-<!--- 
-Caravaggi A, Bond A (in prep) The impact of invasive mice on the breeding success of Gough Island seabirds (working title). 
+<!---
+Caravaggi A, Bond A (in prep) The impact of invasive mice on the breeding success of Gough Island seabirds (working title).
 
 Caravaggi A, Turner D, Cameron T (in prep) I’ve got a bad feeling about this: a study into factors affecting reed-nesting birds. (working title).
 
@@ -78,7 +71,7 @@ Hen harrier biometrics; Ireland vs UK
 **Caravaggi A**, Plowman A, Wright D, Bishop C (*in review*) The composition of captive ruffed lemur (*Varecia* spp.) diets in UK zoological collections, with reference to the problems of obesity and iron storage disease  
 
 Havlin P, **Caravaggi A**, Montgomery WI (*in review*) The diet and abundance of an introduced insular population of Red-Necked Wallabies, *Macropus rufogriseus*  
- 
+
 7 Tennant JP, Graziotin D, Jacques DC, Waldner F, Dugan JM, Mietchen D, Elkhatib Y, Collister LB, Pikas CK, Crick T, Masuzzo P, **Caravaggi A**, *et al.*  (*in press*) A multi-disciplinary perspective on emergent and future innovations in peer review. *F1000Research*. 6:1151. doi: [10.12688/f1000research.12037.1](http://dx.doi.org/10.12688/f1000research.12037.1)     
 
 6 **Caravaggi A**, Montgomery WI, Reid N (*in press*) Management and control of invasive species: contrasting attitudes of environmental stakeholders and the wider rural community. *Proceedings of the Royal Irish Academy: Biology & Environment*   
@@ -109,7 +102,7 @@ Caravaggi, A (*in dev*). **Lagomorph navigation and life history** in Vonk J, Sh
 2010 Natural Environment Research Council (NERC) **Master's scholarship for outstanding candidates**. University of Leeds
 
 ## Invited Presentations
-2017	**Keynote** The changing face of UK conservation. Mammal Society Student Conference 
+2017	**Keynote** The changing face of UK conservation. Mammal Society Student Conference    
 2016	**Keynote** UK mammals. Mammal Society Student Conference  
 2014	**Guest lecture** Distribution and differential habitat associations of invasive European and endemic Irish hares. Bangor University
 
@@ -159,7 +152,7 @@ Caravaggi, A (*in dev*). **Lagomorph navigation and life history** in Vonk J, Sh
 
 > **As Supervisor**  
 Worked with the students to develop research questions and appropriate methodologies, taught relevant statistical techniques and how to implement them in R, monitored progress, and gave feedback and advice throughout  
-  
+
 2015 MSc research project. *Behaviour and stress in sympatric hare species*. Queen’s University, Belfast   
 2014 MSc research project. *Activity and behaviour of hares in Mid-Ulster*. Queen’s University, Belfast  
 2014 Undergraduate residential field course. Queen’s University, Belfast  
@@ -168,36 +161,36 @@ Worked with the students to develop research questions and appropriate methodolo
 2013 Undergraduate residential field course. Queen’s University, Belfast  
 
 > **As Instructor**
-  
-2016 - 17 Course tutor: ornithology, camera traps, social media. Eco-Explore, Cardiff     
+
+2016-17 Course tutor: ornithology, camera traps, social media. Eco-Explore, Cardiff     
 Developed materials and taught courses on UK bird identification, the use of camera traps in ecology, and social media for scientists.
-  
+
 2016 Lecturer and field ornithologist. Operation Wallacea, Ecuador   
 Co-developed and delivered a 5-part series of lectures focussing on rainforest biodiversity and conservation, and conducted bird ringing studies including demonstrating techniques and training students in biometric data gathering. Also trained an assistant on mist nest extraction and data recording  
 
 2015 Otter surveys, MSc, Queen's University Belfast  
 Trained a Master's student in otter survey techniques and field signs, and advised on camera trap survey methodology   
-  
+
 2014 Bird surveys, undergraduate module. Queen’s University Belfast    
 Developed materials and taught a one-off field-based class, including training and supervision of students  
 
-> **As Demonstrator** 
-  
+> **As Demonstrator**
+
 2015 Introduction to GIS, undergraduate module. Queen’s University Belfast  
 2014 Animal biology, undergraduate module. Queen’s University Belfast     
 
 ## Additional Experience  
-2017 **Assistant**, pied flycatcher nestbox monitoring, Cardiff University   
-2017 **Breeding Bird Survey**, British Trust for Ornithology  
+2017 		**Assistant**, pied flycatcher nestbox monitoring, Cardiff University   
+2017 		**Breeding Bird Survey**, British Trust for Ornithology  
 2011-12 **Small mammal surveys**, field assistant, University of Leeds  
 2011-12	**Ecologist**, great crested newt and bat surveys, Haycock and Jay, Ecologists  
 2011-12 **Habitat management**, Conservation Volunteers, University of Leeds  
-2011 **Bat survey assistant**, Haycock and Jay, Ecologists   
-2011 **Snake survey assistant**, Dr. Axel Barlow   
+2011 		**Bat survey assistant**, Haycock and Jay, Ecologists   
+2011 		**Snake survey assistant**, Dr. Axel Barlow   
 2010-11 **Ornithological technician**, bird territory mapping, Cardiff University  
 2010-11 **Breeding Bird Survey**, British Trust for Ornithology  
-2010 **Wading bird surveys**, British Trust for Ornithology  
-2009 **Data analyst**, butterfly foodwebs, Bangor University  
+2010 		**Wading bird surveys**, British Trust for Ornithology  
+2009 		**Data analyst**, butterfly foodwebs, Bangor University  
 2007-09 **Pine marten surveys**, Snowdonia Mammal Group  
 2007-09 **Woodland bird and invertebrate surveys**, Treborth Botanic Gardens, Bangor  
 2006-08	**Ornithological technician**, breeding and behaviour, Dr. Geoff Gibbs   
@@ -211,7 +204,7 @@ Developed materials and taught a one-off field-based class, including training a
 2014 **Using R**. Queen’s University Belfast  
 2012 **Lagomorph systematics workshop**. 4th World Lagomorph Conference  
 
-## Memberships 
+## Memberships
 (since)   
 2015 **South Wales Mammal Group**, **Welsh Ornithological Society**  
 2013 **Society of Conservation Biology**  
@@ -220,35 +213,39 @@ Developed materials and taught a one-off field-based class, including training a
 2009 **The British Trust for Ornithology**  
 
 ## Professional Licenses and Certifications
-2014-2015 ASPA laboratory animal handling license (TSA/47/14)   
-2014-present Emergency first aid  
-2014-present Field first aid  
-2009-present Bird ringing license holder, British Trust for Ornithology ‘C’ license. 2,000 birds  
-2008-2011 Marine mammal medic. British Divers Marine Life Rescue   
-2002-present Full manual UK driving license, held without incident or penalty  
+2014-15 ASPA laboratory animal handling license (TSA/47/14)   
+2014-		Emergency first aid  
+2014-		Field first aid  
+2009-		Bird ringing license holder, British Trust for Ornithology ‘C’ license. 2,000 birds  
+2008-11 Marine mammal medic. British Divers Marine Life Rescue   
+2002-		Full manual UK driving license, held without incident or penalty  
 
-## Service 
-2017 SCB Participatory and Citizen Science Working Group member   
+## Service
+
+**Peer reviewer:** Journal of Zoology; Mammal Research; Remote Sensing in Ecology and Conservation; Zoo Biology;  Journal of Natural History
+
+<!---
 2017 **Peer reviewer**, Journal of Zoology; JZO-06-17-OM-179    
 2017 **Peer Reviewer**, Journal of Natural History; TNAH-OA 17-150    
 2017 **Peer reviewer**, Canadian Journal of Zoology; cjz-2017-0049   
 2017 **Peer reviewer**, Journal of Zoology; JZO-04-17-OM-122   
-2017 Contributed to the book 'Does It Fart?' by Nick Caruso and Dani Rabaiotti (ISBN 9781786488268)  
-2017 **Conference volunteer**, The Mammal Society Spring Conference  
 2016 **Peer reviewer**, Remote Sensing in Ecology and Conservation; RSEC-2016-03-0010   
-2016 Session chair, **Community Ecology**, British Ecological Society Annual Meeting  
-2016 **Committee member**, South Wales Mammal Group  
-2016 **Coordinator** of The Mammal Society's University Mammal Challenge  
-2016-present British Ecological Society Women in Ecology (WIE) **mentor**   
-2016-present **Review College member**, British Ecological Society  
-2016-present **Student Engagement Officer**, The Mammal Society Council  
 2015 **Peer reviewer**, Zoo Biology   
-2015 **Student committee advisor**, Mammal Society Student Conference  
-2014 **Coordinator**, Mammal Society Student Conference  
 2013 **Peer reviewer**, Mammal Research   
-2013-present **UK STEM Ambassador**  
-2013 **Principal coordinator**, Mammal Society Student Conference  
-2013 **Volunteer**, 11th International Mammal Congress, Belfast  
+--->
+2017 		SCB Participatory and Citizen Science Working Group member   
+2017 		**Conference volunteer**, The Mammal Society Spring Conference
+2016- 	**Review College member**, British Ecological Society  
+2016-		**Student Engagement Officer**, The Mammal Society Council   
+2016 		Session chair, **Community Ecology**, British Ecological Society Annual Meeting  
+2016 		**Committee member**, South Wales Mammal Group  
+2016 		**Coordinator** of The Mammal Society's University Mammal Challenge  
+2016-17 British Ecological Society Women in Ecology (WIE) **mentor**   
+2015 		**Student committee advisor**, Mammal Society Student Conference  
+2014 		**Coordinator**, Mammal Society Student Conference  
+2013-17 **UK STEM Ambassador**  
+2013 		**Principal coordinator**, Mammal Society Student Conference  
+2013 		**Volunteer**, 11th International Mammal Congress, Belfast  
 2012-15	EBEE **postgraduate representative**, Queen’s University Belfast  
 2012-15	SBS **Athena SWAN committee**, Queen’s University Belfast  
 2010-12	**Volunteer**. Royal Society for the Protection of Birds  
@@ -258,30 +255,34 @@ Developed materials and taught a one-off field-based class, including training a
 2008-08 **Volunteer**, Treborth Botanic Gardens, Bangor  
 
 ## Outreach  
-2017 **Co-created @SciCommGames** Environmental and science communication Twitter games  
-2017 **Enquiry Zone scientist**, I'm a Scientist, Get Me Out of Here!  
-2017 **Contributed photo** to CBS article on Twitter hashtag (#bestcarcass)   
-2017 **Partner scientist**, Student Science Partnerships  
-2017 **Interview** for Washington Post on science communication  
-2016 **Advisor** to National Geographic on red fox ecology  
-2016 **Invited author**, Shropshire Mammal Group newsletter  
-2016 **Volunteer**, Letters to a Pre-Scientist  
-2016 **Remote project group mentor**, Beaumont Middle School, Kentucky    
-2016 **Mammal (hares) consultant** for The Mammal Society  
+**Community/group talks:** Schools, natural history groups, student groups and local interest groups in Wales, England, Northern Ireland, Ireland, USA and Canada, in person and via video. Including remote project development, mentoring and advisement.
+
+<!---
+2016 **Remote project group mentor**, Beaumont Middle School, Kentucky
 2016 **Project development and advisor**, class conservation project, Ysgol Rhydywaun, Wales  
-2015 **Featured curator**, Biotweeps (~6.5k followers)   
 2015 **Interactive presentation**, Natives and non-natives, St. Pius X. College, Magherafelt   
 2015 **School presentation**, The Irish hare, Rathlin Island School   
-2014 **Created @Biotweeps**, a science communication Twitter project  
-2014 **Invited expert** Multi-school careers advice and speed-networking event   
 2014 **Presentation**, Hares in Northern Ireland, An Carn  
 2014 **Presentation**, Island biodiversity, with a focus on hares, Magherafelt bird group   
 2014 **Presentation**, Hares in Northern Ireland, Toome local RSPB group   
+2013 **Presentation**, Hares in Northern Ireland, Maghera Naturalists   
+--->
+2017 **Co-created @SciCommGames** Environmental and science communication Twitter games  
+2017 **Enquiry Zone scientist**, I'm a Scientist, Get Me Out of Here!  
+2017 **Contributed photo** to CBS article on Twitter hashtag (#bestcarcass)   
+2017 **Partner scientist**, Student Science Partnerships, USA  
+2017 **Interview** for Washington Post on science communication  
+2016 **Advisor** to National Geographic on red fox ecology  
+2016 **Invited author**, Shropshire Mammal Group newsletter  
+2016 **Volunteer**, Letters to a Pre-Scientist      
+2016 **Mammal (hares) consultant** for The Mammal Society  
+2015 **Featured curator**, Biotweeps (~6.5k followers)   
+2014 **Created @Biotweeps**, a science communication Twitter project  
+2014 **Invited expert** Multi-school careers advice and speed-networking event   
 2013 **Volunteer science presenter, ornithology**, Techniquest, Cardiff  
 2013 **Wildlife consultant** for Biological records for the North East of Scotland (NESBReC)  
 2013 **Interview**,'Hare' raising project in Mid-Ulster, Mid Ulster Mail   
 2013 **Created @RingingPlanet**, a bird-ringing Twitter project  
-2013 **Presentation**, Hares in Northern Ireland, Maghera Naturalists   
 2013 **Bird ID and ringing demonstrator**, Bridgend  
 2013 **Bioblitz naturalist**, Carmarthen   
 2013 **Conservation group participant**, I’m a Scientist, Get Me out of Here  
@@ -289,14 +290,14 @@ Developed materials and taught a one-off field-based class, including training a
 2012 **Bird ringing demonstrator**, Wildlife Trust of South and West Wales  
 2011 **Bioblitz naturalist**, Carmarthen  
 
-## Media
+
+## Media Appearances, Profiles and Mentions
 
 > *Written*  
 
 2017 A brief history of an Early Career Researcher, Errant Science   
 2017 Rejected by the Rainforest, I F-ing Love Conservation   
 2017 Introducing the University Mammal Challenge, The Mammal Society  
-2017 365 papers. Personal blog, ongoing  
 2016 Is there intelligent life on Earth? Save our Souls magazine  
 2016 A chat with Dr. Anthony Caravaggi. Biotechin.asia  
 2016 Camera traps reveal a hare-raising situation. RSEC blog, ZSL   
@@ -330,10 +331,10 @@ Developed materials and taught a one-off field-based class, including training a
 ## Computer Skills
 *Data analysis*   
 R (packages include MuMIn, lme4, ggplot, remBOOT, maptools, raster, SDMTools, StatMatch, pdist, glmmulti), SPSS, Minitab  
-   
+
 *GIS*   
 R, ArcGIS, QGIS  
-  
+
 *Other software*
 Distance, MARK, MaxEnt, MAVIS NVC, Patch Analyst, GeneMapper, Microsoft office, GitHub, RMarkdown, graphics packages (e.g. Photoshop), bespoke software   
 
