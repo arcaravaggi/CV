@@ -83,15 +83,15 @@ Havlin P, **Caravaggi A**, Montgomery WI (*in review*) The diet and abundance of
 
 5 **Caravaggi A**, Banks P, Burton C, Finlay CMV, Hayward M, Haswell, PM, Rowcliffe JM, Wood M (*in press*) A review of camera trapping for conservation behaviour research. *Remote Sensing in Ecology and Conservation*. doi: [10.1002/rse2.48](http://onlinelibrary.wiley.com/doi/10.1002/rse2.48/abstract)   
 
-4 **Caravaggi A**. remBoot: An R package for Random Encounter Modelling. *Journal of Open Source Software*. doi: [10.21105/joss.00176](http://joss.theoj.org/papers/10.21105/joss.00176)
+4 **Caravaggi A** (2017) remBoot: An R package for Random Encounter Modelling. *Journal of Open Source Software*. 2(10). doi: [10.21105/joss.00176](http://joss.theoj.org/papers/10.21105/joss.00176)
 
 3 **Caravaggi A**, Leach K, Santilli F, Rintala J, Helle P, Tiainen J, Bisi F, Martinoli A, Montgomery WI, Reid N (2016) Niche overlap of mountain hare subspecies and the vulnerability of their ranges to invasion by the European hare; the (bad) luck of the Irish. *Biological Invasions*. 19(2): 655–674. doi: [10.1007/s10530-016-1330-z ](http://link.springer.com/article/10.1007/s10530-016-1330-z)
 
-2 **Caravaggi A**, Zaccaroni M, Riga F, Schai-Braun SC, Dick JTA, Montgomery WI, Reid N (2016). An invasive-native mammalian species replacement process captured by camera trap survey Random Encounter Models. *Remote Sensing in Ecology and Conservation*. 2: 45-58. doi: [10.1002/rse2.11](http://onlinelibrary.wiley.com/doi/10.1002/rse2.11/abstract)
+2 **Caravaggi A**, Zaccaroni M, Riga F, Schai-Braun SC, Dick JTA, Montgomery WI, Reid N (2016) An invasive-native mammalian species replacement process captured by camera trap survey Random Encounter Models. *Remote Sensing in Ecology and Conservation*. 2: 45-58. doi: [10.1002/rse2.11](http://onlinelibrary.wiley.com/doi/10.1002/rse2.11/abstract)
 
 > Data: Caravaggi A, Zaccaroni M, Riga F, Schai-Braun SC, Dick JTA, Montgomery WI, Reid N (2016) DOI: [10.6084/m9.figshare.1422040.v1](https://dx.doi.org/10.6084/m9.figshare.1422040.v1)
 
-1 **Caravaggi A**, Montgomery WI, Reid N et al. (2015). Range expansion and comparative habitat use of insular, congeneric lagomorphs: invasive European hares *Lepus europaeus* and endemic Irish hares *Lepus timidus hibernicus*. *Biological Invasions*. 17(2): 687-698. doi: [10.1007/s10530-014-0759-1](http://link.springer.com/article/10.1007/s10530-014-0759-1)
+1 **Caravaggi A**, Montgomery WI, Reid N et al. (2015) Range expansion and comparative habitat use of insular, congeneric lagomorphs: invasive European hares *Lepus europaeus* and endemic Irish hares *Lepus timidus hibernicus*. *Biological Invasions*. 17(2): 687-698. doi: [10.1007/s10530-014-0759-1](http://link.springer.com/article/10.1007/s10530-014-0759-1)
 
 <!--- ## Book contributions  
 Caravaggi, A (*in dev*). **Lagomorph navigation and life history** in Vonk J, Shackelford TK (eds). Encyclopedia of Animal Cognition and Behavior. ISBN 9783319550657   
