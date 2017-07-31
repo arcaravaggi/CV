@@ -1,5 +1,5 @@
 ---
-date: 21 July 2017
+date: 31 July 2017
 urlcolor: blue
 ---
 
@@ -50,7 +50,7 @@ Caravaggi A, Bond A (in prep) The impact of invasive mice on the breeding succes
 
 Caravaggi A, Turner D, Cameron T (in prep) I’ve got a bad feeling about this: a study into factors affecting reed-nesting birds. (working title).
 
-UMAC (1 or 2)?
+UMAC
 
 Biotweeps (?)  
 
@@ -62,10 +62,12 @@ Habitat association & occipancy from NI data
 
 NI data compared to Scotland (Roo Campbell)  
 
-Review of hen harrier ecology in Ireland
+Hen harrier papers:
+- biometrics; Ireland vs UK
+- Review of ecology in Ireland
+- stuff from postdoc
 
-Hen harrier biometrics; Ireland vs UK
-
+Hare movement analysis with Marco
 
 **Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D (*in review*) Circadian activity, seasonal occurrence, and predator-prey relationships of free-ranging mammals revealed by camera traps  
 
@@ -76,8 +78,7 @@ Hen harrier biometrics; Ireland vs UK
 Havlin P, **Caravaggi A**, Montgomery WI (*in review*) The diet and abundance of an introduced insular population of Red-Necked Wallabies, *Macropus rufogriseus*  
 
 7 **Caravaggi A**, Montgomery WI, Reid N (*in press*) Management and control of invasive species: contrasting attitudes of environmental stakeholders and the wider rural community. *Proceedings of the Royal Irish Academy: Biology & Environment*     
-
-6 Tennant JP, Graziotin D, Jacques DC, Waldner F, Dugan JM, Mietchen D, Elkhatib Y, Collister LB, Pikas CK, Crick T, Masuzzo P, **Caravaggi A**, *et al.*  (*in press*) A multi-disciplinary perspective on emergent and future innovations in peer review. *F1000Research*. 6:1151. doi: [10.12688/f1000research.12037.1](http://dx.doi.org/10.12688/f1000research.12037.1)  
+6 Tennant JP, Graziotin D, Jacques DC, Waldner F, Dugan JM, Mietchen D, Elkhatib Y, Collister LB, Pikas CK, Crick T, Masuzzo P, **Caravaggi A**, *et al.*  (2017) A multi-disciplinary perspective on emergent and future innovations in peer review. *F1000Research*. 6:1151. doi: [10.12688/f1000research.12037.1](http://dx.doi.org/10.12688/f1000research.12037.1)  
 
 5 **Caravaggi A**, Banks P, Burton C, Finlay CMV, Hayward M, Haswell, PM, Rowcliffe JM, Wood M (*in press*) A review of camera trapping for conservation behaviour research. *Remote Sensing in Ecology and Conservation*. doi: [10.1002/rse2.48](http://onlinelibrary.wiley.com/doi/10.1002/rse2.48/abstract)   
 
@@ -306,7 +307,7 @@ Developed materials and taught a one-off field-based class, including training a
 2015 Living with aliens. SciLogs  
 2015 Communities and conservation in developing countries. QUBio  
 2015 Putting wildlife in the frame. QUBio  
-2015 Astrotweeps and Biotweeps–rotating Twitter accounts. Crastina.se  
+2015 Astrotweeps and Biotweeps: rotating Twitter accounts. Crastina.se  
 2015 Media battle highlights importance of scientific credit. ScienceNews  
 2015 Dear Alice, the hare might be sane after all. QUBio  
 2015 BBC News. Counting Irish hares at Belfast International Airport  
@@ -319,13 +320,13 @@ Developed materials and taught a one-off field-based class, including training a
 2017 Invited guest, The Edgar Ortega Radio Show, Invasive species and urban wildlife  
 2016 SciComm podcast Episodes 7 & 8, with Dr. Mike   
 2015 BBC Radio Ulster, Hares at Belfast airport    
-2015 BBC News School Report for St. Pius X, Magherafelt’s Biodiversity Club  
+2015 BBC News School Report for St. Pius X, Magherafelt's Biodiversity Club  
 2015 BBC Radio Ulster, Good Morning Ulster,  Invasive species  
 2013 RTÉ Radio 1, Mooney Goes Wild, Hares in Ireland  
 
 *Television*    
 2015 Countryfile, BBC  
-2013 River Bann, RTÉ Television  
+2013 River Bann, RTE Television  
 
 ## Computer Skills
 *Data analysis*   
