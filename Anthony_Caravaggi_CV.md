@@ -73,14 +73,11 @@ Hare movement analysis with Marco
 
 --->
 
-**Caravaggi A**, Plowman A, Wright D, Bishop C (*in review*) The composition of captive ruffed lemur (*Varecia* spp.) diets in UK zoological collections, with reference to the problems of obesity and iron storage disease  
+7 **Caravaggi A**, Montgomery WI, Reid N (*in press*) Management and control of invasive species: contrasting attitudes of environmental stakeholders and the wider rural community. *Proceedings of the Royal Irish Academy: Biology & Environment*   
 
-Havlin P, **Caravaggi A**, Montgomery WI (*in review*) The diet and abundance of an introduced insular population of Red-Necked Wallabies, *Macropus rufogriseus*  
-
-7 **Caravaggi A**, Montgomery WI, Reid N (*in press*) Management and control of invasive species: contrasting attitudes of environmental stakeholders and the wider rural community. *Proceedings of the Royal Irish Academy: Biology & Environment*     
 6 Tennant JP, Graziotin D, Jacques DC, Waldner F, Dugan JM, Mietchen D, Elkhatib Y, Collister LB, Pikas CK, Crick T, Masuzzo P, **Caravaggi A**, *et al.*  (2017) A multi-disciplinary perspective on emergent and future innovations in peer review. *F1000Research*. 6:1151. doi: [10.12688/f1000research.12037.1](http://dx.doi.org/10.12688/f1000research.12037.1)  
 
-5 **Caravaggi A**, Banks P, Burton C, Finlay CMV, Hayward M, Haswell, PM, Rowcliffe JM, Wood M (*in press*) A review of camera trapping for conservation behaviour research. *Remote Sensing in Ecology and Conservation*. doi: [10.1002/rse2.48](http://onlinelibrary.wiley.com/doi/10.1002/rse2.48/abstract)   
+5 **Caravaggi A**, Banks P, Burton C, Finlay CMV, Hayward M, Haswell, PM, Rowcliffe JM, Wood M (2017) A review of camera trapping for conservation behaviour research. *Remote Sensing in Ecology and Conservation*. doi: [10.1002/rse2.48](http://onlinelibrary.wiley.com/doi/10.1002/rse2.48/abstract)   
 
 4 **Caravaggi A** (2017) remBoot: An R package for Random Encounter Modelling. *Journal of Open Source Software*. 2(10). doi: [10.21105/joss.00176](http://joss.theoj.org/papers/10.21105/joss.00176)
 
