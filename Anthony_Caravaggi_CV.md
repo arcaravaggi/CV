@@ -367,7 +367,7 @@ Animal handling (amphibians, reptiles, invertebrates, and small-to-large birds a
 Bird ringing (BTO C license)  
 Orienteering  
 
-*Additional professional experience:*
+*Additional professional experience:*   
 2017	Assistant, pied flycatcher nestbox monitoring, Cardiff University  
 2017	Breeding Bird Survey, British Trust for Ornithology    
 2011-12	Small mammal surveys, field assistant, University of Leeds    
