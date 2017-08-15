@@ -1,5 +1,5 @@
 ---
-date: 31 July 2017
+date: 15 August 2017
 urlcolor: blue
 ---
 
@@ -88,12 +88,26 @@ Havlin P, **Caravaggi A**, Montgomery WI (*in review*) The diet and abundance of
 
 2 **Caravaggi A**, Zaccaroni M, Riga F, Schai-Braun SC, Dick JTA, Montgomery WI, Reid N (2016) An invasive-native mammalian species replacement process captured by camera trap survey Random Encounter Models. *Remote Sensing in Ecology and Conservation*. 2: 45-58. doi: [10.1002/rse2.11](http://onlinelibrary.wiley.com/doi/10.1002/rse2.11/abstract)
 
-> Data: Caravaggi A, Zaccaroni M, Riga F, Schai-Braun SC, Dick JTA, Montgomery WI, Reid N (2016) DOI: [10.6084/m9.figshare.1422040.v1](https://dx.doi.org/10.6084/m9.figshare.1422040.v1)
-
 1 **Caravaggi A**, Montgomery WI, Reid N et al. (2015) Range expansion and comparative habitat use of insular, congeneric lagomorphs: invasive European hares *Lepus europaeus* and endemic Irish hares *Lepus timidus hibernicus*. *Biological Invasions*. 17(2): 687-698. doi: [10.1007/s10530-014-0759-1](http://link.springer.com/article/10.1007/s10530-014-0759-1)
 
+*In review*   
+**Caravaggi A**, Plowman A, Wright D, Bishop C. The composition of captive ruffed lemur (*Varecia* spp.) diets in UK zoological collections, with reference to the problems of obesity and iron storage disease.  *Journal of Zoo Animal Research*  
+
+Havlin P, **Caravaggi A**, Montgomery WI. The diet and abundance of an introduced insular population of Red-Necked Wallabies, *Macropus rufogriseus*. *Canadian Journal of Mammalogy*  
+
+**Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D. Circadian activity, seasonal occurrence, and predator-prey relationships of free-ranging mammals revealed by camera traps. *Hystrix, Italian Journal of Mammalogy*
+
+*Publications in preparation*   
+**Caravaggi A**, Cuthbert RJ, Ryan RG, Cooper J, Bond AL. The cumulative impacts of introduced mice on the breeding success of nesting seabirds on Gough Island. To be submitted to *Biological conservation*  
+
+**Caravaggi A**, Turner D, Cameron T. I’ve got a bad feeling about this: a study into factors affecting reed-nesting birds. To be submitted to *F1000 Research*   
+
+**Caravaggi A**. Lagomorpha Life History. In: *Encyclopedia of Animal Cognition and Behavior*, Vonk J, Shackelford TK (eds.) ISBN 9783319550657  
+
+**Caravaggi A**. Lagomorpha Navigation. In: *Encyclopedia of Animal Cognition and Behavior*, Vonk J, Shackelford TK (eds.) ISBN 9783319550657  
+
+
 <!--- ## Book contributions  
-Caravaggi, A (*in dev*). **Lagomorph navigation and life history** in Vonk J, Shackelford TK (eds). Encyclopedia of Animal Cognition and Behavior. ISBN 9783319550657   
 **Does it Fart? The Definitive Field Guide to Animal Flatulence**. Rabaiotti D, Caruso N. (2017). Quercus books. ISBN: 9781786488275     
 --->
 
@@ -111,6 +125,8 @@ Caravaggi, A (*in dev*). **Lagomorph navigation and life history** in Vonk J, Sh
 2014	**Guest lecture** Distribution and differential habitat associations of invasive European and endemic Irish hares. Bangor University
 
 ## Presentations
+12 **Caravaggi A**, Montgomery WI, Reid N (2017) An invasion in progress: Impacts of the non-native European hare on the native Irish hare. International Congress for Conservation Biology  
+
 11 **Caravaggi A** (2017) Predation of seabirds by mice on Gough Island. World Seabird Twitter Conference
 
 10 **Caravaggi A** (2017) University Mammal Challenge: distributed mammal surveys with student scientists. Mammal Society Spring Conference  
@@ -119,38 +135,38 @@ Caravaggi, A (*in dev*). **Lagomorph navigation and life history** in Vonk J, Sh
 
 8 **Caravaggi A**, Hayward M (2016) People and hedgehogs in Wales. North Wales Mammal Symposium, Bangor
 
-7 **Caravaggi A**, Montgomery WI, Reid N (2016) Invasion ecology: quantifying the impact of non-native European hares on the endemic Irish hare. Mammal Society Spring Conference, Yarnfield
+7 **Caravaggi A**, Montgomery WI, Reid N (2016) Invasion ecology: quantifying the impact of non-native European hares on the endemic Irish hare. Mammal Society Spring Conference, Yarnfield  
 
-6 **Caravaggi A**2015	Quantifying endemic uniqueness and ecological equivalency between native and invasive leporids. 7th European Congress of Mammalogy, Stockholm, Sweden
+6 **Caravaggi A** 2015	Quantifying endemic uniqueness and ecological equivalency between native and invasive leporids. 7th European Congress of Mammalogy, Stockholm, Sweden  
 
-5 **Caravaggi A**, Leach K, Santilli F, Rintala J, Helle P, Tiainen J, Bisi F, Martinoli A, Montgomery WI, Reid N (2015) Democratisation of invasive species interventions: assessing attitudes towards lethal control of mammalian invaders. Mammal Society Spring Conference, Lancaster
+5 **Caravaggi A**, Leach K, Santilli F, Rintala J, Helle P, Tiainen J, Bisi F, Martinoli A, Montgomery WI, Reid N (2015) Democratisation of invasive species interventions: assessing attitudes towards lethal control of mammalian invaders. Mammal Society Spring Conference, Lancaster  
 
-4 **Caravaggi A**, Zaccaroni M, Riga F, Schai-Braun SC, Dick JTA, Montgomery WI, Reid N (2015) Using the Random Encounter Model to estimate spatial patterns in invasive and native hare densities in allopatry and sympatry. Mammal Society Student Conference, Lancaster
+4 **Caravaggi A**, Zaccaroni M, Riga F, Schai-Braun SC, Dick JTA, Montgomery WI, Reid N (2015) Using the Random Encounter Model to estimate spatial patterns in invasive and native hare densities in allopatry and sympatry. Mammal Society Student Conference, Lancaster  
 
-3 **Caravaggi A**, Montgomery WI, Reid N (2014) Using the Random Encounter Model to estimate spatial patterns in invasive and native hare densities in allopatry and sympatry. Mammal Society Spring Conference, Birmingham
+3 **Caravaggi A**, Montgomery WI, Reid N (2014) Using the Random Encounter Model to estimate spatial patterns in invasive and native hare densities in allopatry and sympatry. Mammal Society Spring Conference, Birmingham  
 
-2 **Caravaggi A**, Montgomery WI, Reid N (2013) Distribution and differential habitat associations of invasive European and endemic Irish hares. 11th International Mammal Congress, Belfast
+2 **Caravaggi A**, Montgomery WI, Reid N (2013) Distribution and differential habitat associations of invasive European and endemic Irish hares. 11th International Mammal Congress, Belfast  
 
-1 **Caravaggi A**, Montgomery WI, Reid N (2013) Invasion ecology: quantifying the impact of non-native European hares on the endemic Irish hare. Mammal Society Student Conference, Staffordshire
+1 **Caravaggi A**, Montgomery WI, Reid N (2013) Invasion ecology: quantifying the impact of non-native European hares on the endemic Irish hare. Mammal Society Student Conference, Staffordshire  
 
 ## Posters
 9 **Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D (2017) Activity and temporal relationships of free-ranging mammals revealed by camera traps. Mammal Society Spring Conference   
 
-8 **Caravaggi A**, Montgomery WI, Reid N (2015) The democratisation of conservation: public attitudes towards lethal control of invasive leporids and implications for species management. 7th European Congress of Mammalogy, Stockholm, Sweden
+8 **Caravaggi A**, Montgomery WI, Reid N (2015) The democratisation of conservation: public attitudes towards lethal control of invasive leporids and implications for species management. 7th European Congress of Mammalogy, Stockholm, Sweden  
 
-7 **Caravaggi A**, Zaccaroni M, Riga F, Schai-Braun SC, Dick JTA, Montgomery WI, Reid N (2015) Optimising camera trap Random Encounter Model survey effort: A case study using an invasive-native species replacement process. Vth International Wildlife Management Congress, Sapporo, Japan
+7 **Caravaggi A**, Zaccaroni M, Riga F, Schai-Braun SC, Dick JTA, Montgomery WI, Reid N (2015) Optimising camera trap Random Encounter Model survey effort: A case study using an invasive-native species replacement process. Vth International Wildlife Management Congress, Sapporo, Japan  
 
-6 Beresford NA, Wood MD, Gaschack S, Gulyaichenko EA, **Caravaggi A** (2015) Use of wildlife camera traps to within the Chernobyl Exclusion Zone. Mammal Society Spring Conference, Lancaster
+6 Beresford NA, Wood MD, Gaschack S, Gulyaichenko EA, **Caravaggi A** (2015) Use of wildlife camera traps to within the Chernobyl Exclusion Zone. Mammal Society Spring Conference, Lancaster  
 
-5 **Caravaggi A**, Montgomery WI, Reid N (2013) Estimating hare numbers using camera trapping and the Random Encounter Model. 11th International Mammal Congress, Belfast
+5 **Caravaggi A**, Montgomery WI, Reid N (2013) Estimating hare numbers using camera trapping and the Random Encounter Model. 11th International Mammal Congress, Belfast  
 
-4 **Caravaggi A**, Montgomery WI, Reid N (2012) Invasion ecology: quantifying the impact of non-native European hares on the endemic Irish hare.  2nd All Ireland Mammal Symposium (AIMS), Dublin
+4 **Caravaggi A**, Montgomery WI, Reid N (2012) Invasion ecology: quantifying the impact of non-native European hares on the endemic Irish hare.  2nd All Ireland Mammal Symposium (AIMS), Dublin  
 
-3 **Caravaggi A**, Montgomery WI, Reid N (2012) Invasion ecology: quantifying the impact of non-native European hares on the endemic Irish hare.  4th World Lagomorph Conference, BOKU, Vienna
+3 **Caravaggi A**, Montgomery WI, Reid N (2012) Invasion ecology: quantifying the impact of non-native European hares on the endemic Irish hare.  4th World Lagomorph Conference, BOKU, Vienna  
 
-2 **Caravaggi A**, Hughes W (2011) Patrilineal inheritance of grooming behaviour and parasite resistance in leaf-cutting ants (Acromyrmex sp.). Postgraduate Student Forum, University of Leeds [pdf](https://dx.doi.org/10.6084/m9.figshare.3799437.v1)
+2 **Caravaggi A**, Hughes W (2011) Patrilineal inheritance of grooming behaviour and parasite resistance in leaf-cutting ants (Acromyrmex sp.). Postgraduate Student Forum, University of Leeds [pdf](https://dx.doi.org/10.6084/m9.figshare.3799437.v1)  
 
-1 **Caravaggi A**, Bishop, C (2009)  Dietary and faecal iron levels in captive black-and-white ruffed lemurs (Varecia spp.). 11th BIAZA Research Symposium, Blackpool Zoo [pdf](https://dx.doi.org/10.6084/m9.figshare.3799428.v1)
+1 **Caravaggi A**, Bishop, C (2009)  Dietary and faecal iron levels in captive black-and-white ruffed lemurs (Varecia spp.). 11th BIAZA Research Symposium, Blackpool Zoo [pdf](https://dx.doi.org/10.6084/m9.figshare.3799428.v1)  
 
 ## Teaching
 
@@ -165,6 +181,8 @@ Worked with the students to develop research questions and appropriate methodolo
 2013 Undergraduate residential field course. Queen’s University, Belfast  
 
 > **As Instructor**
+
+2017-18	Module development and instruction: BL6024 Quantitative skills for biologists using R.
 
 2016-17 Course tutor: ornithology, camera traps, social media. Eco-Explore, Cardiff     
 Developed materials and taught courses on UK bird identification, the use of camera traps in ecology, and social media for scientists.
@@ -183,22 +201,6 @@ Developed materials and taught a one-off field-based class, including training a
 2015 Introduction to GIS, undergraduate module. Queen’s University Belfast  
 2014 Animal biology, undergraduate module. Queen’s University Belfast     
 
-## Additional Experience  
-2017 		**Assistant**, pied flycatcher nestbox monitoring, Cardiff University   
-2017 		**Breeding Bird Survey**, British Trust for Ornithology  
-2011-12 **Small mammal surveys**, field assistant, University of Leeds  
-2011-12	**Ecologist**, great crested newt and bat surveys, Haycock and Jay, Ecologists  
-2011-12 **Habitat management**, Conservation Volunteers, University of Leeds  
-2011 		**Bat survey assistant**, Haycock and Jay, Ecologists   
-2011 		**Snake survey assistant**, Dr. Axel Barlow   
-2010-11 **Ornithological technician**, bird territory mapping, Cardiff University  
-2010-11 **Breeding Bird Survey**, British Trust for Ornithology  
-2010 		**Wading bird surveys**, British Trust for Ornithology  
-2009 		**Data analyst**, butterfly foodwebs, Bangor University  
-2007-09 **Pine marten surveys**, Snowdonia Mammal Group  
-2007-09 **Woodland bird and invertebrate surveys**, Treborth Botanic Gardens, Bangor  
-2006-08	**Ornithological technician**, breeding and behaviour, Dr. Geoff Gibbs   
-
 ## Professional Development
 2017 **Level 3 Teaching Assistant training**. E-Training Hub    
 2017 **Public Outreach Training**. Science Made Simple  
@@ -208,7 +210,7 @@ Developed materials and taught a one-off field-based class, including training a
 2014 **Using R**. Queen’s University Belfast  
 2012 **Lagomorph systematics workshop**. 4th World Lagomorph Conference  
 
-## Memberships
+## Professional Memberships
 (since)   
 2015 **South Wales Mammal Group**, **Welsh Ornithological Society**  
 2013 **Society of Conservation Biology**  
@@ -224,11 +226,12 @@ Developed materials and taught a one-off field-based class, including training a
 2008-11 Marine mammal medic. British Divers Marine Life Rescue   
 2002-		Full manual UK driving license, held without incident or penalty  
 
-## Service
+## Professional Service
 
-**Peer reviewer:** Journal of Zoology; Mammal Research; Remote Sensing in Ecology and Conservation; Zoo Biology;  Journal of Natural History
+**Peer reviewer:** Journal of Zoology; Mammal Research; Remote Sensing in Ecology and Conservation; Zoo Biology;  Journal of Natural History; Invasive Species Compendium    
 
 <!---
+2017 **Peer reviewer**, Invasive Species Compendium, *Lepus europaeus*, http://www.cabi.org/isc/datasheet/77227   
 2017 **Peer reviewer**, Journal of Zoology; JZO-06-17-OM-179    
 2017 **Peer Reviewer**, Journal of Natural History; TNAH-OA 17-150    
 2017 **Peer reviewer**, Canadian Journal of Zoology; cjz-2017-0049   
@@ -330,13 +333,13 @@ Developed materials and taught a one-off field-based class, including training a
 
 ## Computer Skills
 *Data analysis*   
-R (packages include MuMIn, lme4, ggplot, remBOOT, maptools, raster, SDMTools, StatMatch, pdist, glmmulti), SPSS, Minitab  
+R (packages include MuMIn, lme4, ggplot, remBOOT, maptools, raster, SDMTools, StatMatch, pdist, glmmulti), SPSS, Minitab, Distance, MARK   
 
 *GIS*   
 R, ArcGIS, QGIS  
 
 *Other software*
-Distance, MARK, MaxEnt, MAVIS NVC, Patch Analyst, GeneMapper, Microsoft office, GitHub, RMarkdown, graphics packages (e.g. Photoshop), bespoke software   
+MaxEnt, MAVIS NVC, Patch Analyst, GeneMapper, Microsoft office, GitHub, RMarkdown, graphics packages (e.g. Photoshop), bespoke software   
 
 ## Skills and knowledge
 *Statistical*
@@ -358,6 +361,23 @@ Habitat surveys
 Animal handling (amphibians, reptiles, invertebrates, and small-to-large birds and mammals)  
 Bird ringing (BTO C license)  
 Orienteering  
+
+Additional professional experience:  
+2017	Assistant, pied flycatcher nestbox monitoring, Cardiff University  
+2017	Breeding Bird Survey, British Trust for Ornithology    
+2011-12	Small mammal surveys, field assistant, University of Leeds    
+2011-12	Ecologist, great crested newt and bat surveys, Haycock and Jay, Ecologists    
+2011-12 	Habitat management, Conservation Volunteers, University of Leeds    
+2011 	Bat survey assistant, Haycock and Jay, Ecologists     
+2011	Snake survey assistant, Dr. Axel Barlow  
+2010-11 	Ornithological technician, bird territory mapping, Cardiff University    
+2010-11 	Breeding Bird Surveys, British Trust for Ornithology    
+2010 	Wading bird surveys, British Trust for Ornithology    
+2009 	Data analyst, butterfly foodwebs, Bangor University    
+2007-09 	Pine marten surveys, Snowdonia Mammal Group  
+2007-09 	Woodland bird and invertebrate surveys, Treborth Botanic Gardens, Bangor  
+2006-08	Ornithological technician, bird breeding and behaviour, Dr. Geoff Gibbs     
+
 
 *Laboratory*
 Multi-taxa dissection (mammal, bird, amphibian, invertebrate)  
