@@ -296,7 +296,8 @@ Developed materials and taught a one-off field-based class, including training a
 
 
 ## Media Appearances, Profiles and Mentions
-*Written*  
+> *Written*  
+
 2017 A brief history of an Early Career Researcher, Errant Science   
 2017 Rejected by the Rainforest, I F-ing Love Conservation   
 2017 Introducing the University Mammal Challenge, The Mammal Society  
@@ -315,7 +316,8 @@ Developed materials and taught a one-off field-based class, including training a
 2014 Mountain hare and Irish hare. The Mammal Society  
 2014 A receding hare line and a brown toupée. QUbio  
 
-*Radio*    
+> *Radio*    
+
 2017 BBC Coventry & Warwickshire, Wallabies in the UK  
 2017 Invited guest, The Edgar Ortega Radio Show, Invasive species and urban wildlife  
 2016 SciComm podcast Episodes 7 & 8, with Dr. Mike   
@@ -324,22 +326,27 @@ Developed materials and taught a one-off field-based class, including training a
 2015 BBC Radio Ulster, Good Morning Ulster,  Invasive species  
 2013 RTÉ Radio 1, Mooney Goes Wild, Hares in Ireland  
 
-*Television*    
+> *Television*    
+
 2015 Countryfile, BBC  
 2013 River Bann, RTE Television  
 
 ## Computer Skills
-*Data analysis*   
+> *Data analysis*   
+
 R (packages include MuMIn, lme4, ggplot, remBOOT, maptools, raster, SDMTools, StatMatch, pdist, glmmulti), SPSS, Minitab, Distance, MARK   
 
-*GIS*   
+> *GIS*   
+
 R, ArcGIS, QGIS  
 
-*Other software*
+> *Other software*
+
 MaxEnt, MAVIS NVC, Patch Analyst, GeneMapper, Microsoft office, GitHub, RMarkdown, graphics packages (e.g. Photoshop), bespoke software   
 
 ## Skills and knowledge
-*Statistical*
+> *Statistical*  
+
 General linear and mixed-effects models  
 Principal Components Analysis  
 Species Distribution Modelling  
@@ -351,7 +358,8 @@ Model averaging
 Random Encounter Models  
 Other parametric and non-parametric tests
 
-*Field*
+> *Field*  
+
 Off-road driving (4x4)  
 Multi-taxa (mammal, bird, invertebrate, reptile, amphibian; UK coastal, marine and terrestrial) surveys (e.g. mark and recapture, Distance sampling, camera traps, quadrats, scan/focal sampling); habitat) and identification  
 Habitat surveys  
@@ -359,7 +367,7 @@ Animal handling (amphibians, reptiles, invertebrates, and small-to-large birds a
 Bird ringing (BTO C license)  
 Orienteering  
 
-Additional professional experience:  
+*Additional professional experience:*
 2017	Assistant, pied flycatcher nestbox monitoring, Cardiff University  
 2017	Breeding Bird Survey, British Trust for Ornithology    
 2011-12	Small mammal surveys, field assistant, University of Leeds    
@@ -375,8 +383,8 @@ Additional professional experience:
 2007-09 	Woodland bird and invertebrate surveys, Treborth Botanic Gardens, Bangor  
 2006-08	Ornithological technician, bird breeding and behaviour, Dr. Geoff Gibbs     
 
+> *Laboratory*  
 
-*Laboratory*
 Multi-taxa dissection (mammal, bird, amphibian, invertebrate)  
 Species identification via microscopy  
 Ethological studies  
@@ -396,7 +404,7 @@ School of Biological Sciences, Medical Biology Centre, 97 Lisburn Road. Belfast 
 School of Biological Sciences, Medical Biology Centre, 97 Lisburn Road. Belfast BT9 7BL     
 **Email** i.montgomery@qub.ac.uk  **Tel** +44 (0)28 9097 2214	  
 
-**Prof. Jaimie Dick**  
+**Prof. Jaimie Dick**   
 School of Biological Sciences, Medical Biology Centre, 97 Lisburn Road. Belfast BT9 7BL       
 **Email** j.dick@qub.ac.uk  **Tel** +44 (0)28 9097 2286  
 
