@@ -1,26 +1,30 @@
 ---
-date: 15 August 2017
+title: "CV"
+author: Anthony Caravaggi
+date: 28 August 2017
+output: pdf_document
 urlcolor: blue
 ---
 
 
 Anthony Caravaggi
 =============================
-**Email** ar.caravaggi@gmail.com | **Tel** +44 (0) 7511 646429  
-[Github Profile](https://github.com/arcaravaggi) | [Twitter @thonoir](https://twitter.com/thonoir) | [Google Scholar Profile](https://scholar.google.co.uk/citations?user=PXf81KIAAAAJ&hl=en) | [ResearchGate Profile](https://www.researchgate.net/profile/Anthony_Caravaggi)  
+**Email** ar.caravaggi@gmail.com | **Tel** +44 (0) 7511 646429 / +353 (0) 21 490 4976  
+[arcaravaggi.github.io](https://arcaravaggi.github.io) | [Google Scholar Profile](https://scholar.google.co.uk/citations?user=PXf81KIAAAAJ&hl=en) | [Twitter @thonoir](https://twitter.com/thonoir) | [Github Profile](https://github.com/arcaravaggi)
 
 ## Career History
-**2017-** Postdoctoral researcher; [SHINE project](https://www.ucc.ie/en/forestecology/research/shine/)  
-School of Biological, Earth and Environmental Sciences, [University College Cork](http://www.ucc.ie/en/), Distillery Field, N Mall, Cork, Ireland
+**2017-** Postdoctoral researcher; [Suppporting Hen harriers in Novel Environments (SHINE)](https://www.ucc.ie/en/forestecology/research/shine/)  
+School of Biological, Earth and Environmental Sciences, [University College Cork](http://www.ucc.ie/en/), Distillery Field, N Mall, Cork, Ireland  
+Supervisors: Prof. John O'Halloran, Dr. Sandra Irwin   
 
-**2017-** Visiting Research Fellow; movement ecology and invasive species  
+**2017-** Visiting Research Fellow     
 School of Biological Sciences, [Queen's University Belfast](http://www.qub.ac.uk/schools/SchoolofBiologicalSciences/), Medical Biology Centre, 97 Lisburn Road, Belfast BT9 7BL  
 
 ## Education
 **2012 – 2016** 	PhD conservation biology/invasion ecology  
 [Queen's University Belfast](http://www.qub.ac.uk/schools/SchoolofBiologicalSciences/)  
 *Quantifying the impact of non-native European hares on the endemic Irish hare*   
-Supervisors: Dr. Neil Reid, Prof. Ian Montgomery, Prof. Paulo Prodöhl
+Supervisors: Dr. Neil Reid, Prof. Ian Montgomery
 
 **2010 – 2011**	MRes Biodiversity and Conservation  
 [University of Leeds](https://www.leeds.ac.uk/)  
@@ -34,42 +38,24 @@ Research projects:
 Supervisor: Dr. Charles Bishop   
 
 ## Research Interests
-Conservation biology  
-Urban ecology  
-Invasion ecology  
-Population & community ecology  
-Movement & spatial ecology  
-Rare and endangered species  
-Sustainability  
-Citizen science  
+Conservation biology; urban ecology; invasive species; population & community ecology ; movement & spatial ecology; rare and endangered species; sustainability; rewilding; citizen science  
 
 ## Peer-Reviewed Publications  
 
 <!---
-Caravaggi A, Bond A (in prep) The impact of invasive mice on the breeding success of Gough Island seabirds (working title).
-
-Caravaggi A, Turner D, Cameron T (in prep) I’ve got a bad feeling about this: a study into factors affecting reed-nesting birds. (working title).
-
-UMAC
-
-Biotweeps (?)  
+??? UMAC
+??? Biotweeps
+??? Invasive species assessment
+??? NI data compared to Scotland (Roo Campbell)  
+??? Habitat association & occupancy from NI data  
 
 Meta-analysis of attitudes  
-
-Invasive species assessment
-
-Habitat association & occipancy from NI data  
-
-NI data compared to Scotland (Roo Campbell)  
-
 Hen harrier papers:
 - biometrics; Ireland vs UK
 - Review of ecology in Ireland
-- stuff from postdoc
-
+- Work package 1
+- Work package 2
 Hare movement analysis with Marco
-
-**Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D (*in review*) Circadian activity, seasonal occurrence, and predator-prey relationships of free-ranging mammals revealed by camera traps  
 
 --->
 
@@ -94,14 +80,16 @@ Havlin P, **Caravaggi A**, Montgomery WI. The diet and abundance of an introduce
 
 **Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D. Circadian activity, seasonal occurrence, and predator-prey relationships of free-ranging mammals revealed by camera traps. *Hystrix, Italian Journal of Mammalogy*
 
-*Publications in preparation*   
+*In preparation*   
 **Caravaggi A**, Cuthbert RJ, Ryan RG, Cooper J, Bond AL. The cumulative impacts of introduced mice on the breeding success of nesting seabirds on Gough Island. To be submitted to *Biological conservation*  
 
 **Caravaggi A**, Turner D, Cameron T. I’ve got a bad feeling about this: a study into factors affecting reed-nesting birds. To be submitted to *F1000 Research*   
 
-**Caravaggi A**. Lagomorpha Life History. In: *Encyclopedia of Animal Cognition and Behavior*, Vonk J, Shackelford TK (eds.) ISBN 9783319550657  
+> *Book contributions*
 
-**Caravaggi A**. Lagomorpha Navigation. In: *Encyclopedia of Animal Cognition and Behavior*, Vonk J, Shackelford TK (eds.) ISBN 9783319550657  
+**Caravaggi A** (*in prep*) Lagomorpha Life History. In: *Encyclopedia of Animal Cognition and Behavior*, Vonk J, Shackelford TK (eds.) ISBN 9783319550657  
+
+**Caravaggi A** (*in prep*) Lagomorpha Navigation. In: *Encyclopedia of Animal Cognition and Behavior*, Vonk J, Shackelford TK (eds.) ISBN 9783319550657  
 
 
 <!--- ## Book contributions  
@@ -167,9 +155,10 @@ Havlin P, **Caravaggi A**, Montgomery WI. The diet and abundance of an introduce
 
 ## Teaching
 
-> **As Supervisor**  
-Worked with the students to develop research questions and appropriate methodologies, taught relevant statistical techniques and how to implement them in R, monitored progress, and gave feedback and advice throughout  
+> **Supervision**  
+Worked with the students to develop research questions and appropriate methodologies, taught relevant statistical techniques and how to implement them in SPSS and R, monitored progress, and gave feedback and advice throughout  
 
+2017 BSc research project. *Comparing hen harrer growth across Europe*. University College Cork   
 2015 MSc research project. *Behaviour and stress in sympatric hare species*. Queen’s University, Belfast   
 2014 MSc research project. *Activity and behaviour of hares in Mid-Ulster*. Queen’s University, Belfast  
 2014 Undergraduate residential field course. Queen’s University, Belfast  
@@ -177,9 +166,10 @@ Worked with the students to develop research questions and appropriate methodolo
 2013 BSc research project. *Resource and habitat partitioning of herbivores*. Queen’s University, Belfast  
 2013 Undergraduate residential field course. Queen’s University, Belfast  
 
-> **As Instructor**
+> **Instruction and Development**
 
-2017-18	Module development and instruction: BL6024 Quantitative skills for biologists using R.
+2017-18	BL6024 Quantitative skills for biologists using R. Module development and instruction.  
+Provided quantitative skills required by postgraduate students to successfully conduct and publish their research, with a focus on data analysis and graphing, statistics, and basic modelling, as generally implemented by zoologists and ecologists.  
 
 2016-17 Course tutor: ornithology, camera traps, social media. Eco-Explore, Cardiff     
 Developed materials and taught courses on UK bird identification, the use of camera traps in ecology, and social media for scientists.
@@ -193,7 +183,7 @@ Trained a Master's student in otter survey techniques and field signs, and advis
 2014 Bird surveys, undergraduate module. Queen’s University Belfast    
 Developed materials and taught a one-off field-based class, including training and supervision of students  
 
-> **As Demonstrator**
+> **Demonstration**
 
 2015 Introduction to GIS, undergraduate module. Queen’s University Belfast  
 2014 Animal biology, undergraduate module. Queen’s University Belfast     
@@ -225,9 +215,12 @@ Developed materials and taught a one-off field-based class, including training a
 
 ## Professional Service
 
-**Peer reviewer:** Journal of Zoology; Mammal Research; Remote Sensing in Ecology and Conservation; Zoo Biology;  Journal of Natural History; Invasive Species Compendium    
+> *Peer reviewer*
+
+Journal of Zoology; Mammal Research; Remote Sensing in Ecology and Conservation; Zoo Biology;  Global Change Biology; Journal of Natural History; Invasive Species Compendium    
 
 <!---
+2017 **Peer reviewer**, Journal of Zoology; JZO-04-17-OM-122.R1      
 2017 **Peer reviewer**, Invasive Species Compendium, *Lepus europaeus*, http://www.cabi.org/isc/datasheet/77227   
 2017 **Peer reviewer**, Journal of Zoology; JZO-06-17-OM-179    
 2017 **Peer Reviewer**, Journal of Natural History; TNAH-OA 17-150    
@@ -237,7 +230,7 @@ Developed materials and taught a one-off field-based class, including training a
 2015 **Peer reviewer**, Zoo Biology   
 2013 **Peer reviewer**, Mammal Research   
 --->
-2017 		SCB Participatory and Citizen Science Working Group member   
+2017 		SCB Participatory and Citizen Science **Working Group member**   
 2017 		**Conference volunteer**, The Mammal Society Spring Conference
 2016- 	**Review College member**, British Ecological Society  
 2016-		**Student Engagement Officer**, The Mammal Society Council   
@@ -259,7 +252,9 @@ Developed materials and taught a one-off field-based class, including training a
 2008-08 **Volunteer**, Treborth Botanic Gardens, Bangor  
 
 ## Outreach  
-**Community/group talks:** Schools, natural history groups, student groups and local interest groups in Wales, England, Northern Ireland, Ireland, USA and Canada, in person and via video. Including remote project development, mentoring and advisement.
+> *Community/group talks*
+
+Schools, natural history groups, student groups and local interest groups in Wales, England, Northern Ireland, Ireland, USA and Canada, in person and via video. Including remote project development, mentoring and advisement.
 
 <!---
 2016 **Remote project group mentor**, Beaumont Middle School, Kentucky
@@ -393,7 +388,7 @@ DNA manipulation
 Electrophoresis  
 Atomic absorption and colourimetric spectroscopy  
 Specimen preparation   
-Soil chemical and biological analysis
+Soil chemical and biological analysis   
 
 ## Referees
 **Dr. Neil Reid**  
