@@ -91,16 +91,10 @@ Havlin P, **Caravaggi A**, Montgomery WI. The diet and abundance of an introduce
 
 **Caravaggi A** (*in review*) Lagomorpha Navigation. In: *Encyclopedia of Animal Cognition and Behavior*, Vonk J, Shackelford TK (eds.) ISBN 9783319550657  
 
-
-<!--- ## Book contributions  
-**Does it Fart? The Definitive Field Guide to Animal Flatulence**. Rabaiotti D, Caruso N. (2017). Quercus books. ISBN: 9781786488275     
---->
-
-
 ## Grants and Scholarships
-2015 Emily Sarah Montgomery Travel Scholarship, £200, Queen's University Belfast  
-2015 Training and Travel grant, £500, British Ecological Society    
-2012 Research grant, £2,000, People's Trust for Endangered Species    
+2015 Emily Sarah Montgomery Travel Scholarship, ï¿½200, Queen's University Belfast  
+2015 Training and Travel grant, ï¿½500, British Ecological Society    
+2012 Research grant, ï¿½2,000, People's Trust for Endangered Species    
 2012 Northern Ireland Environmental Agency (NIEA) funded PhD studentship, Queen's University Belfast   
 2010 Natural Environment Research Council (NERC) Master's scholarship for outstanding candidates, University of Leeds
 
@@ -153,15 +147,16 @@ Havlin P, **Caravaggi A**, Montgomery WI. The diet and abundance of an introduce
 
 3 **Caravaggi A**, Montgomery WI, Reid N (2012) Invasion ecology: quantifying the impact of non-native European hares on the endemic Irish hare.  4th World Lagomorph Conference, BOKU, Vienna  
 
-2 **Caravaggi A**, Hughes W (2011) Patrilineal inheritance of grooming behaviour and parasite resistance in leaf-cutting ants (Acromyrmex sp.). Postgraduate Student Forum, University of Leeds [pdf](https://dx.doi.org/10.6084/m9.figshare.3799437.v1)  
+2 **Caravaggi A**, Hughes W (2011) Patrilineal inheritance of grooming behaviour and parasite resistance in leaf-cutting ants (Acromyrmex sp.). Postgraduate Student Forum, University of Leeds    
 
-1 **Caravaggi A**, Bishop, C (2009)  Dietary and faecal iron levels in captive black-and-white ruffed lemurs (Varecia spp.). 11th BIAZA Research Symposium, Blackpool Zoo [pdf](https://dx.doi.org/10.6084/m9.figshare.3799428.v1)  
+1 **Caravaggi A**, Bishop, C (2009)  Dietary and faecal iron levels in captive black-and-white ruffed lemurs (Varecia spp.). 11th BIAZA Research Symposium, Blackpool Zoo    
 
 ## Teaching
 
 > **Supervision**  
 Worked with the students to develop research questions and appropriate methodologies, taught relevant statistical techniques and how to implement them in SPSS and R, monitored progress, and gave feedback and advice throughout  
 
+2017 MRes research project. *Threats affecting breeding hen harriers in Ireland*. University College Cork
 2017 BSc research project. *Comparing hen harrer growth across Europe*. University College Cork   
 2015 MSc research project. *Behaviour and stress in sympatric hare species*. Queen's University, Belfast   
 2014 MSc research project. *Activity and behaviour of hares in Mid-Ulster*. Queen's University, Belfast  
@@ -188,12 +183,14 @@ Trained a Master's student in otter survey techniques and field signs, and advis
 
 2014 Bird surveys, undergraduate module. Queen's University Belfast    
 Developed materials and taught a one-off field-based class, including training and supervision of students  
+
 2015 Demonstrator: Introduction to GIS, undergraduate module. Queen's University Belfast  
 2014 Demonstrator: Animal biology, undergraduate module. Queen's University Belfast     
 
 ## Professional Activities
 > **Conference organisation**
 
+2017    7th Irish Ornithological Research Conference; organisational team  
 2017    Biotweeps Twitter Conference, #BTCon17; conception and organisation  
 2016-17 Mammal Society Student Conference; conception and supervision  
 2014-15 Mammal Society Student Conference; publicity officer  
@@ -319,6 +316,7 @@ Journal of Zoology; PLOS One; Mammal Research; Remote Sensing in Ecology and Con
 
 *Social media*  
 
+2017 Contributed to Rabaiotti D, Caruso N (2017) *Does it Fart? The Definitive Field Guide to Animal Flatulence*, Quercus books, ISBN: 9781786488275   
 2017 Co-created @SciCommGames, Environmental and science communication Twitter games  
 2015 Featured curator, @Biotweeps   
 2014 Created @Biotweeps, a science communication Twitter project  (~12.5k followers)
