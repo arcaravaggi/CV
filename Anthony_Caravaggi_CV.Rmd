@@ -39,11 +39,13 @@ Conservation biology; urban ecology; invasive species; population & community ec
 ??? UMAC
 ??? Biotweeps
 ??? Invasive species assessment
+Systematic review of invasive species assessment protocols
 ??? NI data compared to Scotland (Roo Campbell)  
 ??? Habitat association & occupancy from NI data  
 
 Meta-analysis of attitudes  
 Hen harrier papers:
+- meta-analysis of nesting habitat
 - biometrics; Ireland vs UK
 - Review of ecology in Ireland
 - Work package 1
@@ -54,6 +56,8 @@ Twitter conferences
 Hare survey of Ireland
 
 --->
+
+8 Havlin P, **Caravaggi A**, Montgomery WI (*In press*) The diet and abundance of an introduced insular population of Red-Necked Wallabies, *Macropus rufogriseus*. *Canadian Journal of Mammalogy*    
 
 7 **Caravaggi A**, Montgomery WI, Reid N (2017) Management and control of invasive brown hares (*Lepus europaeus*): contrasting attitudes of selected environmental stakeholders and the wider rural community. *Proceedings of the Royal Irish Academy: Biology & Environment*. 117B: 1-11. doi: [10.3318/bioe.2017.08](http://www.jstor.org/stable/10.3318/bioe.2017.08)     
 
@@ -73,8 +77,6 @@ Hare survey of Ireland
 
 **Caravaggi A**, Plowman A, Wright D, Bishop C. The composition of captive ruffed lemur (*Varecia* spp.) diets in UK zoological collections, with reference to the problems of obesity and iron storage disease.  *Journal of Zoo Animal Research*  
 
-Havlin P, **Caravaggi A**, Montgomery WI. The diet and abundance of an introduced insular population of Red-Necked Wallabies, *Macropus rufogriseus*. *Canadian Journal of Mammalogy*  
-
 > *In preparation*  
 
 **Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D. Circadian activity, seasonal occurrence, and predator-prey relationships of free-ranging mammals revealed by camera traps. To be submitted to *Hystrix, Italian Journal of Mammalogy*  
@@ -85,18 +87,21 @@ Havlin P, **Caravaggi A**, Montgomery WI. The diet and abundance of an introduce
 
 **Caravaggi A**. McCarthy A, Irwin S, O'Halloran J. Hen harriers in Ireland: a review (working title).
 
-> *Book contributions*
+> *Other publications*
+
+**Caravaggi A**, James K (2017) Twittersphere: Conferencing in 140 characters. *Nature* [Correspondence] 549: 458. doi: [doi:10.1038/549458d](http://www.nature.com/nature/journal/v549/n7673/full/549458d.html)   
 
 **Caravaggi A** (*in review*) Lagomorpha Life History. In: *Encyclopedia of Animal Cognition and Behavior*, Vonk J, Shackelford TK (eds.) ISBN 9783319550657  
 
 **Caravaggi A** (*in review*) Lagomorpha Navigation. In: *Encyclopedia of Animal Cognition and Behavior*, Vonk J, Shackelford TK (eds.) ISBN 9783319550657  
 
-## Grants and Scholarships
-2015 Emily Sarah Montgomery Travel Scholarship, ï¿½200, Queen's University Belfast  
-2015 Training and Travel grant, ï¿½500, British Ecological Society    
-2012 Research grant, ï¿½2,000, People's Trust for Endangered Species    
-2012 Northern Ireland Environmental Agency (NIEA) funded PhD studentship, Queen's University Belfast   
-2010 Natural Environment Research Council (NERC) Master's scholarship for outstanding candidates, University of Leeds
+## Funding and Awards
+2017 National hare survey and population assessment, &euro;174,000, National Parks and Wildlife Service (NPWS; Identifier Code 1302_NHSP17)   
+2015 Emily Sarah Montgomery Travel Scholarship, £200, Queen's University Belfast  
+2015 Training and Travel grant, £500, British Ecological Society    
+2012 Research grant, £2,000, People's Trust for Endangered Species    
+2012 NIEA funded PhD studentship, £82,720, Queen's University Belfast   
+2010 NERC Master's scholarship for outstanding candidates, £7,500, University of Leeds
 
 ## Presentations
 > **Invited speaker**
@@ -154,7 +159,6 @@ Havlin P, **Caravaggi A**, Montgomery WI. The diet and abundance of an introduce
 ## Teaching
 
 > **Supervision**  
-Worked with the students to develop research questions and appropriate methodologies, taught relevant statistical techniques and how to implement them in SPSS and R, monitored progress, and gave feedback and advice throughout  
 
 2017 MRes research project. *Threats affecting breeding hen harriers in Ireland*. University College Cork
 2017 BSc research project. *Comparing hen harrer growth across Europe*. University College Cork   
@@ -216,7 +220,7 @@ Journal of Zoology; PLOS One; Mammal Research; Remote Sensing in Ecology and Con
 > **Training and workshops**
 
 2017 Postgraduate Certificate in Teaching and Learning in Higher Education, University College Cork  
-2017 NERC Advanced Training, Systematic Review and Meta-Analysis for Environmental Sciences, University of East Anglia   
+2017 NERC Advanced Training, Systematic Review and Meta-Analysis, University of East Anglia   
 2017 Level 3 Teaching Assistant, E-Training Hub    
 2017 Public Outreach, Science Made Simple  
 2016 Mentor Training, British Ecological Society  
@@ -263,7 +267,7 @@ Journal of Zoology; PLOS One; Mammal Research; Remote Sensing in Ecology and Con
 2016 		Community Ecology session chair, British Ecological Society Annual Meeting  
 2016    Advisor to National Geographic on red fox ecology  
 2016 		Coordinator of The Mammal Society's University Mammal Challenge  
-2016    British Ecological Society Women in Ecology (WIE) mentor
+2016    British Ecological Society Women in Ecology (WIE) mentor  
 2016    Mammal (hares) consultant for The Mammal Society     
 2013    Wildlife consultant, Biological records for the North East of Scotland (NESBReC)  
 2013-17 UK STEM Ambassador  
@@ -271,7 +275,6 @@ Journal of Zoology; PLOS One; Mammal Research; Remote Sensing in Ecology and Con
 2012-15	SBS Athena SWAN committee, Queen's University Belfast   
 2008-09	Undergraduate student representative, Bangor University Biological Sciences  
 2007-09	Founding committee & publicity officer, Bangor University Zoological Society   
-\newpage
 
 > **Media engagements**
 
@@ -314,14 +317,6 @@ Journal of Zoology; PLOS One; Mammal Research; Remote Sensing in Ecology and Con
 2014 Mountain hare and Irish hare. The Mammal Society  
 2014 A receding hare line and a brown toupee. QUbio  
 
-*Social media*  
-
-2017 Contributed to Rabaiotti D, Caruso N (2017) *Does it Fart? The Definitive Field Guide to Animal Flatulence*, Quercus books, ISBN: 9781786488275   
-2017 Co-created @SciCommGames, Environmental and science communication Twitter games  
-2015 Featured curator, @Biotweeps   
-2014 Created @Biotweeps, a science communication Twitter project  (~12.5k followers)
-2013 Created @RingingPlanet, a bird-ringing Twitter aggregator (~2k followers)    
-2012 Created and managed the NI Hares Facebook page  
 
 > **Outreach**
 
@@ -343,16 +338,23 @@ Schools, natural history groups, student groups and local interest groups in Wal
 2017 **Contributed photo** to CBS article on Twitter hashtag (#bestcarcass)   
 2013 **Bird ID and ringing demonstrator**, Bridgend  
 --->
+2017 Careers Zone scientist, I'm a Scientist Get Me Out of Here!  
+2017 'Meet the Scientist', Culture Night, University College Cork   
+2017 Contributed to Rabaiotti D, Caruso N (2017), Quercus books, ISBN: 9781786488275   
 2017 Contributing scientist, Skype a Scientist  
-2017 Enquiry Zone scientist, I'm a Scientist, Get Me Out of Here!  
+2017 Co-created @SciCommGames, Environmental and science communication Twitter games  
+2017 Enquiry Zone scientist, I'm a Scientist Get Me Out of Here!  
 2017 Partner scientist, Student Science Partnerships, USA  
 2016 Invited author, Shropshire Mammal Group newsletter  
-2016 Correspondent, Letters to a Pre-Scientist      
+2016 Correspondent, Letters to a Pre-Scientist    
+2014 Created @Biotweeps, a science communication Twitter project  (~12.5k followers)  
 2014 Invited expert, multi-school careers advice and speed-networking event   
+2013 Created @RingingPlanet, a bird-ringing Twitter aggregator (~2k followers)    
 2013 Volunteer science presenter, ornithology, Techniquest, Cardiff  
 2013 Bioblitz naturalist, Carmarthen   
-2013 Conservation group participant, I'm a Scientist, Get Me out of Here  
+2013 Conservation zone scientist, I'm a Scientist, Get Me out of Here!  
 2013 Bird ringing demonstrator, Wildlife Trust of South and West Wales  
+2012 Created and managed the NI Hares Facebook page 
 2012 Bird ringing demonstrator, Wildlife Trust of South and West Wales  
 2011 Bioblitz naturalist, Carmarthen  
 
