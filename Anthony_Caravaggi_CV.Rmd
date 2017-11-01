@@ -9,7 +9,7 @@ Anthony Caravaggi
 [arcaravaggi.github.io](https://arcaravaggi.github.io) | [Google Scholar Profile](https://scholar.google.co.uk/citations?user=PXf81KIAAAAJ&hl=en) | Twitter @[thonoir](https://twitter.com/thonoir) | [Github Profile](https://github.com/arcaravaggi)
 
 ## Career History
-**2017-** Postdoctoral researcher; [Suppporting Hen harriers in Novel Environments (SHINE)](https://www.ucc.ie/en/forestecology/research/shine/)  
+**2017-** Postdoctoral researcher; [Supporting Hen harriers in Novel Environments (SHINE)](https://www.ucc.ie/en/forestecology/research/shine/)  
 School of Biological, Earth and Environmental Sciences, [University College Cork](http://www.ucc.ie/en/), Distillery Field, N Mall, Cork, Ireland  
 Supervisors: Prof. John O'Halloran, Dr. Sandra Irwin   
 
@@ -61,7 +61,7 @@ Hare survey of Ireland
 
 7 **Caravaggi A**, Montgomery WI, Reid N (2017) Management and control of invasive brown hares (*Lepus europaeus*): contrasting attitudes of selected environmental stakeholders and the wider rural community. *Proceedings of the Royal Irish Academy: Biology & Environment*. 117B: 1-11. doi: [10.3318/bioe.2017.08](http://www.jstor.org/stable/10.3318/bioe.2017.08)     
 
-6 Tennant JP, Graziotin D, Jacques DC, Waldner F, Dugan JM, Mietchen D, Elkhatib Y, Collister LB, Pikas CK, Crick T, Masuzzo P, **Caravaggi A**, *et al.*  (2017) A multi-disciplinary perspective on emergent and future innovations in peer review. *F1000Research*. 6:1151. doi: [10.12688/f1000research.12037.1](http://dx.doi.org/10.12688/f1000research.12037.1)  
+6 Tennant JP, Graziotin D, Jacques DC, Waldner F, Dugan JM, Mietchen D, Elkhatib Y, Collister LB, Pikas CK, Crick T, Masuzzo P, **Caravaggi A**, *et al.*  (2017) A multi-disciplinary perspective on emergent and future innovations in peer review. *F1000Research*. 6:1151. doi: [10.12688/f1000research.12037.2](http://dx.doi.org/10.12688/f1000research.12037.2)  
 
 5 **Caravaggi A**, Banks P, Burton C, Finlay CMV, Hayward M, Haswell, PM, Rowcliffe JM, Wood M (2017) A review of camera trapping for conservation behaviour research. *Remote Sensing in Ecology and Conservation*. doi: [10.1002/rse2.48](http://onlinelibrary.wiley.com/doi/10.1002/rse2.48/abstract)   
 
@@ -77,11 +77,11 @@ Hare survey of Ireland
 
 **Caravaggi A**, Plowman A, Wright D, Bishop C. The composition of captive ruffed lemur (*Varecia* spp.) diets in UK zoological collections, with reference to the problems of obesity and iron storage disease.  *Journal of Zoo Animal Research*  
 
+**Caravaggi A**, Cuthbert RJ, Ryan RG, Cooper J, Bond AL. The cumulative impacts of introduced house mice on the breeding success of nesting seabirds on Gough Island.  *Biological Conservation*   
+
 > *In preparation*  
 
 **Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D. Circadian activity, seasonal occurrence, and predator-prey relationships of free-ranging mammals revealed by camera traps. To be submitted to *Hystrix, Italian Journal of Mammalogy*  
-
-**Caravaggi A**, Cuthbert RJ, Ryan RG, Cooper J, Bond AL. The cumulative impacts of introduced house mice on the breeding success of nesting seabirds on Gough Island. To be submitted to *Biological Conservation*  
 
 **Caravaggi A**, Turner D, Cameron T. I've got a bad feeling about this: a study into factors affecting reed-nesting birds. To be submitted to *F1000 Research*   
 
@@ -97,11 +97,11 @@ Hare survey of Ireland
 
 ## Funding and Awards
 2017 National hare survey and population assessment, &euro;174,000, National Parks and Wildlife Service (NPWS; Identifier Code 1302_NHSP17)   
-2015 Emily Sarah Montgomery Travel Scholarship, £200, Queen's University Belfast  
-2015 Training and Travel grant, £500, British Ecological Society    
-2012 Research grant, £2,000, People's Trust for Endangered Species    
-2012 NIEA funded PhD studentship, £82,720, Queen's University Belfast   
-2010 NERC Master's scholarship for outstanding candidates, £7,500, University of Leeds
+2015 Emily Sarah Montgomery Travel Scholarship, &pound;200, Queen's University Belfast  
+2015 Training and Travel grant, &pound;500, British Ecological Society    
+2012 Research grant, &pound;2,000, People's Trust for Endangered Species    
+2012 NIEA funded PhD studentship, &pound;82,720, Queen's University Belfast   
+2010 NERC Master's scholarship for outstanding candidates, &pound;7,500, University of Leeds
 
 ## Presentations
 > **Invited speaker**
@@ -204,6 +204,7 @@ Developed materials and taught a one-off field-based class, including training a
 Journal of Zoology; PLOS One; Mammal Research; Remote Sensing in Ecology and Conservation; Mammal Review; Zoo Biology;  Global Change Biology; Journal of Natural History; Invasive Species Compendium  
 
 <!---
+2017 **Peer reviewer**, Journal of Zoology; JZO-06-17-OM-179.R1  
 2017 **Peer reviewer**, Mammal Review; MAMMAL-17-59 (double-blind)  
 2017 **Peer reviewer**, Global Change Biology; GCB-17-1296  
 2017 **Peer reviewer**, PLOS One; PONE-D-17-21900  
@@ -338,6 +339,7 @@ Schools, natural history groups, student groups and local interest groups in Wal
 2017 **Contributed photo** to CBS article on Twitter hashtag (#bestcarcass)   
 2013 **Bird ID and ringing demonstrator**, Bridgend  
 --->
+2017 Species Champion - St. Kilda wren, Sanger Institute 25 Genomes
 2017 Careers Zone scientist, I'm a Scientist Get Me Out of Here!  
 2017 'Meet the Scientist', Culture Night, University College Cork   
 2017 Contributed to Rabaiotti D, Caruso N (2017), Quercus books, ISBN: 9781786488275   
@@ -354,7 +356,7 @@ Schools, natural history groups, student groups and local interest groups in Wal
 2013 Bioblitz naturalist, Carmarthen   
 2013 Conservation zone scientist, I'm a Scientist, Get Me out of Here!  
 2013 Bird ringing demonstrator, Wildlife Trust of South and West Wales  
-2012 Created and managed the NI Hares Facebook page 
+2012 Created and managed the NI Hares Facebook page
 2012 Bird ringing demonstrator, Wildlife Trust of South and West Wales  
 2011 Bioblitz naturalist, Carmarthen  
 
