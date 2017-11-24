@@ -10,25 +10,21 @@ Anthony Caravaggi
 
 ## Career History
 **2017-** Postdoctoral researcher; [Supporting Hen harriers in Novel Environments (SHINE)](https://www.ucc.ie/en/forestecology/research/shine/)  
-School of Biological, Earth and Environmental Sciences, [University College Cork](http://www.ucc.ie/en/), Distillery Field, N Mall, Cork, Ireland  
-Supervisors: Prof. John O'Halloran, Dr. Sandra Irwin   
+School of Biological, Earth and Environmental Sciences, [University College Cork](http://www.ucc.ie/en/)    
 
-**2017-** Visiting Research Fellow     
-School of Biological Sciences, [Queen's University Belfast](http://www.qub.ac.uk/schools/SchoolofBiologicalSciences/), Medical Biology Centre, 97 Lisburn Road, Belfast BT9 7BL  
+**2017-** Visiting Research Fellow; movement ecology, invasive species       
+School of Biological Sciences, [Queen's University Belfast](http://www.qub.ac.uk/schools/SchoolofBiologicalSciences/)  
 
 ## Education
-**2012 - 2016** 	PhD conservation biology/invasion ecology, [Queen's University Belfast](http://www.qub.ac.uk/schools/SchoolofBiologicalSciences/)   
+**2012 - 2016** PhD conservation biology/invasion ecology, [Queen's University Belfast](http://www.qub.ac.uk/schools/SchoolofBiologicalSciences/)   
 *Quantifying the impact of non-native European hares on the endemic Irish hare*   
-Supervisors: Dr. Neil Reid, Prof. Ian Montgomery
 
 **2010 - 2011**	MRes Biodiversity and Conservation, [University of Leeds](https://www.leeds.ac.uk/)  
-Research projects:  
-1 *Patrilineal inheritance of parasite resistance in leaf-cutter ants (Acromyrmex sp.)*. Supervisor: Dr. William Hughes  
-2 *Factors influencing passerine productivity in managed reed beds*. Supervisor: Dr. Tom Cameron  
+1 *Patrilineal inheritance of parasite resistance in leaf-cutter ants (Acromyrmex sp.)*  
+2 *Factors influencing passerine productivity in managed reed beds*  
 
 **2006 - 2009**	BSc Zoology with Conservation (Hons), [Bangor University](https://www.bangor.ac.uk/)   
-Thesis: *Dietary and faecal iron levels in captive black-and-white ruffed lemurs*  
-Supervisor: Dr. Charles Bishop   
+Thesis: *Dietary and faecal iron levels in captive black-and-white ruffed lemurs*    
 
 ## Research Interests
 Conservation biology; urban ecology; invasive species; population & community ecology ; movement & spatial ecology; rare and endangered species; sustainability; rewilding; citizen science  
@@ -57,7 +53,7 @@ Hare survey of Ireland
 
 --->
 
-8 Havlin P, **Caravaggi A**, Montgomery WI (*In press*) The diet and abundance of an introduced insular population of Red-Necked Wallabies, *Macropus rufogriseus*. *Canadian Journal of Mammalogy*    
+8 Havlin P, **Caravaggi A**, Montgomery WI (*In press*) The diet and abundance of an introduced insular population of Red-Necked Wallabies, *Macropus rufogriseus*. *Canadian Journal of Mammalogy*. doi: [10.1139/cjz-2017-0090](10.1139/cjz-2017-0090)    
 
 7 **Caravaggi A**, Montgomery WI, Reid N (2017) Management and control of invasive brown hares (*Lepus europaeus*): contrasting attitudes of selected environmental stakeholders and the wider rural community. *Proceedings of the Royal Irish Academy: Biology & Environment*. 117B: 1-11. doi: [10.3318/bioe.2017.08](http://www.jstor.org/stable/10.3318/bioe.2017.08)     
 
@@ -77,7 +73,7 @@ Hare survey of Ireland
 
 **Caravaggi A**, Plowman A, Wright D, Bishop C. The composition of captive ruffed lemur (*Varecia* spp.) diets in UK zoological collections, with reference to the problems of obesity and iron storage disease.  *Journal of Zoo Animal Research*  
 
-**Caravaggi A**, Cuthbert RJ, Ryan RG, Cooper J, Bond AL. The cumulative impacts of introduced house mice on the breeding success of nesting seabirds on Gough Island.  *Biological Conservation*   
+**Caravaggi A**, Cuthbert RJ, Ryan RG, Cooper J, Bond AL. The cumulative impacts of introduced house mice on the breeding success of nesting seabirds on Gough Island.  *Ibis*   
 
 > *In preparation*  
 
@@ -96,7 +92,7 @@ Hare survey of Ireland
 **Caravaggi A** (*in review*) Lagomorpha Navigation. In: *Encyclopedia of Animal Cognition and Behavior*, Vonk J, Shackelford TK (eds.) ISBN 9783319550657  
 
 ## Funding and Awards
-2017 National hare survey and population assessment, &euro;174,000, National Parks and Wildlife Service (NPWS; Identifier Code 1302_NHSP17)   
+2017 National hare survey and population assessment, &euro;174,000, National Parks and Wildlife Service     
 2015 Emily Sarah Montgomery Travel Scholarship, &pound;200, Queen's University Belfast  
 2015 Training and Travel grant, &pound;500, British Ecological Society    
 2012 Research grant, &pound;2,000, People's Trust for Endangered Species    
@@ -112,11 +108,11 @@ Hare survey of Ireland
 
 > **Oral presentations**
 
-12 **Caravaggi A**, Montgomery WI, Reid N (2017) An invasion in progress: Impacts of the non-native European hare on the native Irish hare. International Congress for Conservation Biology  
+12 **Caravaggi A**, Montgomery WI, Reid N (2017) An invasion in progress: Impacts of the non-native European hare on the native Irish hare. International Congress for Conservation Biology, Cartagena    
 
 11 **Caravaggi A** (2017) Predation of seabirds by mice on Gough Island. World Seabird Twitter Conference
 
-10 **Caravaggi A** (2017) University Mammal Challenge: distributed mammal surveys with student scientists. Mammal Society Spring Conference  
+10 **Caravaggi A** (2017) University Mammal Challenge: distributed mammal surveys with student scientists. Mammal Society Spring Conference, Cambridge  
 
 9 **Caravaggi A**, Montgomery WI, Reid N (2016) Invasion ecology: quantifying the impact of non-native European hares on the endemic Irish hare. British Ecological Society Annual Meeting, Liverpool
 
@@ -138,7 +134,9 @@ Hare survey of Ireland
 
 > **Poster presentations**
 
-9 **Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D (2017) Activity and temporal relationships of free-ranging mammals revealed by camera traps. Mammal Society Spring Conference   
+10 **Caravaggi A**, Irwin S, O'Halloran JOH (2017) Quantifying habitat associations and factors affecting the breeding success of hen harriers in Ireland. Irish Ornithological Research Conference, Cork    
+
+9 **Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D (2017) Activity and temporal relationships of free-ranging mammals revealed by camera traps. Mammal Society Spring Conference, Cambridge   
 
 8 **Caravaggi A**, Montgomery WI, Reid N (2015) The democratisation of conservation: public attitudes towards lethal control of invasive leporids and implications for species management. 7th European Congress of Mammalogy, Stockholm, Sweden  
 
@@ -154,14 +152,14 @@ Hare survey of Ireland
 
 2 **Caravaggi A**, Hughes W (2011) Patrilineal inheritance of grooming behaviour and parasite resistance in leaf-cutting ants (Acromyrmex sp.). Postgraduate Student Forum, University of Leeds    
 
-1 **Caravaggi A**, Bishop, C (2009)  Dietary and faecal iron levels in captive black-and-white ruffed lemurs (Varecia spp.). 11th BIAZA Research Symposium, Blackpool Zoo    
+1 **Caravaggi A**, Bishop, C (2009)  Dietary and faecal iron levels in captive black-and-white ruffed lemurs (Varecia spp.). 11th BIAZA Research Symposium, Blackpool    
 
 ## Teaching
 
 > **Supervision**  
 
 2017 MRes research project. *Threats affecting breeding hen harriers in Ireland*. University College Cork
-2017 BSc research project. *Comparing hen harrer growth across Europe*. University College Cork   
+2017 BSc research project. *Comparing hen harrier chick condition across Europe*. University College Cork   
 2015 MSc research project. *Behaviour and stress in sympatric hare species*. Queen's University, Belfast   
 2014 MSc research project. *Activity and behaviour of hares in Mid-Ulster*. Queen's University, Belfast  
 2014 Undergraduate residential field course. Queen's University, Belfast  
@@ -204,6 +202,7 @@ Developed materials and taught a one-off field-based class, including training a
 Journal of Zoology; PLOS One; Mammal Research; Remote Sensing in Ecology and Conservation; Mammal Review; Zoo Biology;  Global Change Biology; Journal of Natural History; Invasive Species Compendium  
 
 <!---
+2017 **Peer reviewer**, PLOS One; PONE-D-17-21900_R1  
 2017 **Peer reviewer**, Journal of Zoology; JZO-06-17-OM-179.R1  
 2017 **Peer reviewer**, Mammal Review; MAMMAL-17-59 (double-blind)  
 2017 **Peer reviewer**, Global Change Biology; GCB-17-1296  
@@ -242,6 +241,7 @@ Journal of Zoology; PLOS One; Mammal Research; Remote Sensing in Ecology and Con
 > **Memberships**
 
 (since)   
+2017 British Ornithologist's Union
 2015 South Wales Mammal Group, Welsh Ornithological Society  
 2013 Society of Conservation Biology (SCB)  
 2012 The Mammal Society, British Ecological Society   
