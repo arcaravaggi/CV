@@ -5,7 +5,7 @@ latex_engine: xelatex
 
 Anthony Caravaggi
 =============================
-**Email** ar.caravaggi@gmail.com | **Tel** +44 (0) 7511 646429 / +353 (0) 21 490 4976  
+**Email** ar.caravaggi@gmail.com | **Tel** +44 (0) 7511 646429   
 [arcaravaggi.github.io](https://arcaravaggi.github.io) | [Google Scholar Profile](https://scholar.google.co.uk/citations?user=PXf81KIAAAAJ&hl=en) | Twitter @[thonoir](https://twitter.com/thonoir) | [Github Profile](https://github.com/arcaravaggi)
 
 ## Career History
@@ -35,29 +35,36 @@ Conservation biology; urban ecology; invasive species; population & community ec
 ??? UMAC
 ??? Biotweeps
 ??? Invasive species assessment
-Systematic review of invasive species assessment protocols
 ??? NI data compared to Scotland (Roo Campbell)  
 ??? Habitat association & occupancy from NI data  
+??? Twitter conferences
+??? Wildlife bycatch from camera traps?
 
-Meta-analysis of attitudes  
+Systematic review of invasive species assessment protocols
+
+Review of bird disturbance distances
+
+Meta-analysis of attitudes to wildlife control
+
 Hen harrier papers:
-- meta-analysis of nesting habitat
+- GPS tracking w. dario & mark wilson
 - biometrics; Ireland vs UK
 - Review of ecology in Ireland
 - Work package 1
 - Work package 2
 - Work package 6
+
 Hare movement analysis with Marco
-Twitter conferences
+
 Hare survey of Ireland
 
 --->
 
-8 Havlin P, **Caravaggi A**, Montgomery WI (*In press*) The diet and abundance of an introduced insular population of Red-Necked Wallabies, *Macropus rufogriseus*. *Canadian Journal of Mammalogy*. doi: [10.1139/cjz-2017-0090](10.1139/cjz-2017-0090)    
+8 Havlin P, **Caravaggi A**, Montgomery WI (2017) The diet and abundance of an introduced insular population of Red-Necked Wallabies, *Macropus rufogriseus*. *Canadian Journal of Mammalogy*. doi: [10.1139/cjz-2017-0090](10.1139/cjz-2017-0090)    
 
 7 **Caravaggi A**, Montgomery WI, Reid N (2017) Management and control of invasive brown hares (*Lepus europaeus*): contrasting attitudes of selected environmental stakeholders and the wider rural community. *Proceedings of the Royal Irish Academy: Biology & Environment*. 117B: 1-11. doi: [10.3318/bioe.2017.08](http://www.jstor.org/stable/10.3318/bioe.2017.08)     
 
-6 Tennant JP, Graziotin D, Jacques DC, Waldner F, Dugan JM, Mietchen D, Elkhatib Y, Collister LB, Pikas CK, Crick T, Masuzzo P, **Caravaggi A**, *et al.*  (2017) A multi-disciplinary perspective on emergent and future innovations in peer review. *F1000Research*. 6:1151. doi: [10.12688/f1000research.12037.2](http://dx.doi.org/10.12688/f1000research.12037.2)  
+6 Tennant JP, Graziotin D, Jacques DC, Waldner F, Dugan JM, Mietchen D, Elkhatib Y, Collister LB, Pikas CK, Crick T, Masuzzo P, **Caravaggi A**, *et al.*  (2017) A multi-disciplinary perspective on emergent and future innovations in peer review. *F1000Research*. 6:1151. doi: [10.12688/f1000research.12037.3](https://f1000research.com/articles/6-1151/v3)  
 
 5 **Caravaggi A**, Banks P, Burton C, Finlay CMV, Hayward M, Haswell, PM, Rowcliffe JM, Wood M (2017) A review of camera trapping for conservation behaviour research. *Remote Sensing in Ecology and Conservation*. doi: [10.1002/rse2.48](http://onlinelibrary.wiley.com/doi/10.1002/rse2.48/abstract)   
 
@@ -105,6 +112,8 @@ Hare survey of Ireland
 2017	**Keynote** The changing face of UK conservation. Mammal Society Student Conference    
 2016	**Keynote** UK mammals. Mammal Society Student Conference  
 2014	**Guest lecture** Distribution and differential habitat associations of invasive European and endemic Irish hares. Bangor University  
+
+\newpage
 
 > **Oral presentations**
 
@@ -189,19 +198,28 @@ Developed materials and taught a one-off field-based class, including training a
 2015 Demonstrator: Introduction to GIS, undergraduate module. Queen's University Belfast  
 2014 Demonstrator: Animal biology, undergraduate module. Queen's University Belfast     
 
+\newpage
+
 ## Professional Activities
 > **Conference organisation**
 
-2017    7th Irish Ornithological Research Conference; organisational team  
+2017    7th Irish Ornithological Research Conference; scientific committee   
 2017    Biotweeps Twitter Conference, #BTCon17; conception and organisation  
 2016-17 Mammal Society Student Conference; conception and supervision  
 2014-15 Mammal Society Student Conference; publicity officer  
 
+> **Editorial board**  
+
+(since)   
+2017  Remote Sensing in Ecology and Conservation
+
 > **Peer reviewer**
 
-Journal of Zoology; PLOS One; Mammal Research; Remote Sensing in Ecology and Conservation; Mammal Review; Zoo Biology;  Global Change Biology; Journal of Natural History; Invasive Species Compendium  
+Journal of Zoology; PLOS One; Biological Conservation; Mammal Research; Remote Sensing in Ecology and Conservation; Mammal Review; Zoo Biology; Global Change Biology; Journal of Natural History; Invasive Species Compendium  
 
 <!---
+2017 **Peer reviewer**, Biological Conservation; BIOC_2017_1604
+2017 **Peer reviewer**, Journal of Zoology; JZO-11-17-OM-319  
 2017 **Peer reviewer**, PLOS One; PONE-D-17-21900_R1  
 2017 **Peer reviewer**, Journal of Zoology; JZO-06-17-OM-179.R1  
 2017 **Peer reviewer**, Mammal Review; MAMMAL-17-59 (double-blind)  
@@ -232,8 +250,7 @@ Journal of Zoology; PLOS One; Mammal Research; Remote Sensing in Ecology and Con
 > **Licenses and Certifications**
 
 2014 ASPA laboratory animal handling license (TSA/47/14)   
-2014 Emergency first aid  
-2014 Field first aid  
+2014 Emergency first aid; field first aid  
 2009 Bird ringing 'C' license holder, British Trust for Ornithology
 2008 Marine mammal medic, British Divers Marine Life Rescue   
 2002 Full manual UK driving license, held without incident or penalty  
@@ -242,19 +259,22 @@ Journal of Zoology; PLOS One; Mammal Research; Remote Sensing in Ecology and Con
 
 (since)   
 2017 British Ornithologist's Union
-2015 South Wales Mammal Group, Welsh Ornithological Society  
+2015 South Wales Mammal Group; Welsh Ornithological Society  
 2013 Society of Conservation Biology (SCB)  
-2012 The Mammal Society, British Ecological Society   
+2012 The Mammal Society; British Ecological Society   
 2011 Royal Society of Biology  
 2009 The British Trust for Ornithology   
 
 > **Organisational and Working Groups**  
 
+(since)   
 2017 SCB Participatory and Citizen Science  
 2016 Committee member, South Wales Mammal Group  
 2016 Student Officer, Mammal Society Council  
 2016 British Ecological Society Review College   
 2013 SCB Urban Ecology  
+
+\newpage
 
 > **Additional roles**
 <!---
@@ -267,7 +287,7 @@ Journal of Zoology; PLOS One; Mammal Research; Remote Sensing in Ecology and Con
 
 2016 		Community Ecology session chair, British Ecological Society Annual Meeting  
 2016    Advisor to National Geographic on red fox ecology  
-2016 		Coordinator of The Mammal Society's University Mammal Challenge  
+2016-18	Coordinator of The Mammal Society's University Mammal Challenge  
 2016    British Ecological Society Women in Ecology (WIE) mentor  
 2016    Mammal (hares) consultant for The Mammal Society     
 2013    Wildlife consultant, Biological records for the North East of Scotland (NESBReC)  
@@ -339,39 +359,27 @@ Schools, natural history groups, student groups and local interest groups in Wal
 2017 **Contributed photo** to CBS article on Twitter hashtag (#bestcarcass)   
 2013 **Bird ID and ringing demonstrator**, Bridgend  
 --->
-2017 Species Champion - St. Kilda wren, Sanger Institute 25 Genomes
-2017 Careers Zone scientist, I'm a Scientist Get Me Out of Here!  
-2017 'Meet the Scientist', Culture Night, University College Cork   
-2017 Contributed to Rabaiotti D, Caruso N (2017), Quercus books, ISBN: 9781786488275   
-2017 Contributing scientist, Skype a Scientist  
-2017 Co-created @SciCommGames, Environmental and science communication Twitter games  
-2017 Enquiry Zone scientist, I'm a Scientist Get Me Out of Here!  
-2017 Partner scientist, Student Science Partnerships, USA  
-2016 Invited author, Shropshire Mammal Group newsletter  
-2016 Correspondent, Letters to a Pre-Scientist    
-2014 Created @Biotweeps, a science communication Twitter project  (~12.5k followers)  
-2014 Invited expert, multi-school careers advice and speed-networking event   
-2013 Created @RingingPlanet, a bird-ringing Twitter aggregator (~2k followers)    
-2013 Volunteer science presenter, ornithology, Techniquest, Cardiff  
-2013 Bioblitz naturalist, Carmarthen   
-2013 Conservation zone scientist, I'm a Scientist, Get Me out of Here!  
-2013 Bird ringing demonstrator, Wildlife Trust of South and West Wales  
-2012 Created and managed the NI Hares Facebook page
-2012 Bird ringing demonstrator, Wildlife Trust of South and West Wales  
-2011 Bioblitz naturalist, Carmarthen  
+2017    Species Champion - St. Kilda wren, Sanger Institute 25 Genomes
+2017    'Meet the Scientist', Culture Night, University College Cork   
+2017    Contributed to Rabaiotti D, Caruso N (2017), Quercus books, ISBN: 9781786488275   
+2017    Contributing scientist, Skype a Scientist  
+2017    Co-created @SciCommGames, Environmental and science communication Twitter games  
+2017    I'm a Scientist Get Me Out of Here! Enquiry Zone & Careers Zone    
+2017    Partner scientist, Student Science Partnerships, USA  
+2016    Invited author, Shropshire Mammal Group newsletter  
+2016    Correspondent, Letters to a Pre-Scientist    
+2014    Created @Biotweeps, a science communication Twitter project  (~12.5k followers)  
+2014    Invited expert, multi-school careers advice and speed-networking event   
+2013    Created @RingingPlanet, a bird-ringing Twitter aggregator (~2k followers)    
+2013    Volunteer science presenter, Techniquest, Cardiff  
+2013    Conservation zone; I'm a Scientist, Get Me out of Here!  
+2012-14 Bird ringing demonstrator, Wildlife Trust of South and West Wales  
+2011-14 Bioblitz naturalist, various locations  
 
 ## Skills  
 > *Data analysis*   
 
-R (packages include MuMIn, lme4, ggplot, remBoot, maptools, raster, SDMTools, StatMatch, pdist, glmmulti, metafor), SPSS, Minitab, Distance, MARK   
-
-> *GIS*   
-
-R, ArcGIS, QGIS  
-
-> *Other software*
-
-MaxEnt, MAVIS NVC, Patch Analyst, GeneMapper, Microsoft office, GitHub, RMarkdown, graphics packages (e.g. Photoshop), bespoke software   
+R (packages include MuMIn, lme4, ggplot, remBoot, maptools, raster, SDMTools, StatMatch, pdist, glmmulti, metafor), SPSS, Minitab, Distance, MARK, ArcGIS, QGIS, MaxEnt, MAVIS NVC, Patch Analyst, GeneMapper, Microsoft office, GitHub, RMarkdown, graphics packages (e.g. Photoshop, Illustrator), bespoke software    
 
 > *Statistical*  
 
