@@ -6,7 +6,7 @@ latex_engine: xelatex
 Dr. Anthony Caravaggi
 =============================
 School of Biological Earth and Environmental Sciences, University Colleg Cork, Distillery Field, N Mall, Cork, Ireland  
-**E-mail** [ar.caravaggi@gmail.com](ar.caravaggi@gmail.com) | **Website** [http://arcaravaggi.github.io](http://arcaravaggi.github.io)  | Twitter @[thonoir](https://twitter.com/thonoir)  
+**E-mail** [ar.caravaggi@gmail.com](ar.caravaggi@gmail.com) | **Website** [http://arcaravaggi.github.io](http://arcaravaggi.github.io)  | **Twitter** @[thonoir](https://twitter.com/thonoir)  
 **GitHub** [arcaravaggi.github.io](https://arcaravaggi.github.io) | [Google Scholar](https://scholar.google.co.uk/citations?user=PXf81KIAAAAJ&hl=en)   
 
 ### Academic Qualifications
@@ -23,10 +23,11 @@ School of Biological Sciences, [Queen's University Belfast](http://www.qub.ac.uk
 
 ### Professional activities   
 **Associate Editor**: Remote Sensing in Ecology and Conservation  
-**Peer reviewer**:	Biological Conservation; Bird Study; Canadian Journal of Zoology; Diversity and Distributions; Global Change Biology; Journal of Natural History; Journal of Zoology; Mammal Communications; Mammal Research; Mammal Review; PLOS One; Remote Sensing in Ecology and Conservation; Zoo Biology.  
+**Peer reviewer**:	Biological Conservation; Bird Study; Canadian Journal of Zoology; Diversity and Distributions; Global Change Biology; Journal of Natural History; Journal of Zoology; Mammal Communications; Mammal Research; Mammal Review; PLOS One; Remote Sensing in Ecology and Conservation; The European Zoological Journal; Zoo Biology.  
 
 <!---
-2018 --Peer reviewer**, Bird Study; BS-2017-150  
+2018 **Peer reviewer**, The European Zoological Journal; TIZO-2018-0027    
+2018 **Peer reviewer**, Bird Study; BS-2017-150  
 2018 **Peer reviewer**, Mammal Communications; MC1801
 2018 **Peer reviewer**, Mammal Research; ACTH-D-18-00004  
 2017 **Peer reviewer**, Biological Conservation; BIOC_2017_1604
@@ -44,10 +45,13 @@ School of Biological Sciences, [Queen's University Belfast](http://www.qub.ac.uk
 2017 **Peer reviewer**, Journal of Zoology; JZO-04-17-OM-122   
 2016 **Peer reviewer**, Remote Sensing in Ecology and Conservation; RSEC-2016-03-0010   
 2015 **Peer reviewer**, Zoo Biology   
-2013 **Peer reviewer**, Mammal Research   
+2013 **Peer reviewer**, Mammal Research 
+
+Funding
+2018 EPP IP-2018-01-1693; Croatian Science Foundation    
 --->
 
-**Funding review**: British Ecological Society Grant Review College   
+**Funding review**: British Ecological Society Grant Review College; Croatian Science Foundation      
 
 ## Research   
 I employ field and laboratory-based experiments, along with archival data, to answer specific questions relating to the ecology of species and communities to inform conservation, management and policy-related processes. My current work includes an analysis of mammal activity patterns, landscape-scale habitat and distribution modelling, quantification of the impacts of non-native rodents on insular seabirds and an assessment of wildlife management practises.   
@@ -57,15 +61,15 @@ I employ field and laboratory-based experiments, along with archival data, to an
 ## Peer-Reviewed Publications  
 
 <!---
-??? UMAC
 ??? Biotweeps
-??? Invasive species assessment
+??? Systematic review of invasive species assessment protocols
 ??? NI data compared to Scotland (Roo Campbell)  
 ??? Habitat association & occupancy from NI data  
 ??? Twitter conferences
 ??? Wildlife bycatch from camera traps?
+??? Behaviour and temperature review
 
-Systematic review of invasive species assessment protocols
+Passerine tarsi
 
 Review of bird disturbance distances
 
@@ -75,16 +79,18 @@ Hen harrier papers:
 - GPS tracking w. dario & mark wilson
 - biometrics; Ireland vs UK
 - Review of ecology in Ireland
-- Work package 1
-- Work package 2
-- Work package 6
+- breeding success and habitat use
+- threats to Hen harriers
+- forest management and habitat value for HH
+- Alternatives to Red Zones
+- Predation surveys
+- Small mammals???
 
 Hare movement analysis with Marco
 
 Hare survey of Ireland
 
 In preparation  
-
 
 **Caravaggi A**, Turner D, Cameron T. I've got a bad feeling about this: a study into factors affecting reed-nesting birds. To be submitted to *F1000 Research*   
 
@@ -95,10 +101,11 @@ UMAC
 English H, **Caravaggi A**. Tie me wallaby down; the historical and present distribution of wallabies in the UK. (working title)
 
 --->
+10 **Caravaggi A**, Plowman A, Wright D, Bishop C (2018) The composition of captive ruffed lemur (*Varecia* spp.) diets in UK zoological collections, with reference to the problems of obesity and iron storage disease.  *Journal of Zoo Animal Research*. 6: 41-49.   
 
-9  O'Halloran J, Kelly TC, Quinn JL, Irwin S, Fernández-Bellon D, **Caravaggi A**, Smddy P (2017) Current ornithological research in Ireland: seventh Ornithological Research Conference, UCC, November 2017. *Irish Birds*. 10: 598-638.   
+9  O'Halloran J, Kelly TC, Quinn JL, Irwin S, Fernandez-Bellon D, **Caravaggi A**, Smddy P (2017) Current ornithological research in Ireland: seventh Ornithological Research Conference, UCC, November 2017. *Irish Birds*. 10: 598-638.   
 
-8 Havlin P, **Caravaggi A**, Montgomery WI (2017) The diet and abundance of an introduced insular population of Red-Necked Wallabies, *Macropus rufogriseus*. *Canadian Journal of Mammalogy*. doi: [10.1139/cjz-2017-0090](10.1139/cjz-2017-0090)    
+8 Havlin P, **Caravaggi A**, Montgomery WI (2017) The diet and abundance of an introduced insular population of Red-Necked Wallabies, *Macropus rufogriseus*. *Canadian Journal of Mammalogy*. 96: 357-365. doi: [10.1139/cjz-2017-0090](10.1139/cjz-2017-0090)    
 
 7 **Caravaggi A**, Montgomery WI, Reid N (2017) Management and control of invasive brown hares (*Lepus europaeus*): contrasting attitudes of selected environmental stakeholders and the wider rural community. *Proceedings of the Royal Irish Academy: Biology & Environment*. 117B: 1-11. doi: [10.3318/bioe.2017.08](http://www.jstor.org/stable/10.3318/bioe.2017.08)     
 
@@ -118,19 +125,17 @@ English H, **Caravaggi A**. Tie me wallaby down; the historical and present dist
 
 **Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D. Circadian activity, occurrence, and predator-prey relationships of free-ranging mammals revealed by camera traps. To be submitted to *PeerJ*    
 
-**Caravaggi A**, Plowman A, Wright D, Bishop C. The composition of captive ruffed lemur (*Varecia* spp.) diets in UK zoological collections, with reference to the problems of obesity and iron storage disease.  *Journal of Zoo Animal Research*  
-
-**Caravaggi A**, Cuthbert RJ, Ryan RG, Cooper J, Bond AL. The cumulative impacts of introduced house mice on the breeding success of nesting seabirds on Gough Island.  *Ibis*   
+**Caravaggi A**, Cuthbert RJ, Ryan RG, Cooper J, Bond AL. The impacts of introduced house mice on the breeding success of nesting seabirds on Gough Island.  *Ibis*   
 
 > *Book chapters*
 
-**Caravaggi A**, James K (2017) Twittersphere: Conferencing in 140 characters. *Nature* [Correspondence] 549: 458. doi: [doi:10.1038/549458d](http://www.nature.com/nature/journal/v549/n7673/full/549458d.html)   
-
 **Caravaggi A** (*in review*) Lagomorpha Life History. In: *Encyclopedia of Animal Cognition and Behavior*, Vonk J, Shackelford TK (eds.) ISBN 9783319550657  
+
+**Caravaggi A** (*in review*) Lagomorpha Navigation. In: *Encyclopedia of Animal Cognition and Behavior*, Vonk J, Shackelford TK (eds.) ISBN 9783319550657
 
 > *Other publications*
 
-**Caravaggi A** (*in review*) Lagomorpha Navigation. In: *Encyclopedia of Animal Cognition and Behavior*, Vonk J, Shackelford TK (eds.) ISBN 9783319550657  
+**Caravaggi A**, James K (2017) Twittersphere: Conferencing in 140 characters. *Nature* [Correspondence] 549: 458. doi: [doi:10.1038/549458d](http://www.nature.com/nature/journal/v549/n7673/full/549458d.html)    
 
 \newpage
 
@@ -170,7 +175,7 @@ Co-developed and delivered a 5-part series of lectures focussing on rainforest b
 
 2015 Otter surveys, MSc, Queen's University Belfast  
 Trained a Master's student in otter survey techniques and field signs, and advised on camera trap survey methodology   
-    
+
 ## Fellowships, funding and Awards
 2017 Project tender, &euro;174,000, National Parks and Wildlife Service     
 2015 Emily Sarah Montgomery Travel Scholarship, &pound;200, Queen's University Belfast  
@@ -371,7 +376,7 @@ I am a strong supporter of science communication and outreach. I believe that it
 2014	Species profiles: Mountain hare and Irish hare, The Mammal Society  
 2014	A receding hare line and a brown toupee, QUbio   
 2013  'Hare' raising project in Mid-Ulster, Mid Ulster Mail (*Interview*)   
- 
+
 ## Skills  
 > *Data analysis*   
 
