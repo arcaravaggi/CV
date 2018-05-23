@@ -17,15 +17,17 @@ School of Biological Earth and Environmental Sciences, University Colleg Cork, D
 ### Career History
 **2017-** Postdoctoral researcher; [Supporting Hen harriers in Novel Environments (SHINE)](https://www.ucc.ie/en/forestecology/research/shine/)  
 School of Biological, Earth and Environmental Sciences, [University College Cork](http://www.ucc.ie/en/)    
-
-**2017-** Visiting Research Fellow; movement ecology, invasive species       
-School of Biological Sciences, [Queen's University Belfast](http://www.qub.ac.uk/schools/SchoolofBiologicalSciences/)  
+**2017-18** Visiting Research Fellow; movement ecology, invasive species       
+School of Biological Sciences, [Queen's University Belfast](http://www.qub.ac.uk/schools/SchoolofBiologicalSciences/)    
 
 ### Professional activities   
 **Associate Editor**: Remote Sensing in Ecology and Conservation  
-**Peer reviewer**:	Biological Conservation; Bird Study; Canadian Journal of Zoology; Diversity and Distributions; Global Change Biology; Journal of Natural History; Journal of Zoology; Mammal Communications; Mammal Research; Mammal Review; PLOS One; Remote Sensing in Ecology and Conservation; The European Zoological Journal; Zoo Biology.  
+**Peer reviewer**:	African Journal of Ecology; Austral Ecology; Biological Conservation; Bird Study; Canadian Journal of Zoology; Diversity and Distributions; Global Change Biology; Journal of Natural History; Journal of Zoology; Mammal Communications; Mammal Research; Mammal Review; PLOS One; Remote Sensing in Ecology and Conservation; The European Zoological Journal; Zoo Biology.  
 
 <!---
+2018 **Peer reviewer**; Austral Ecology; AEC-18-088-OA   
+2018 **Peer reviewer**; Remote Sensing in Ecology and Conservation; RSEC-2018-02-0010   
+2018 **Peer reviewer**; African Journal of Ecology; AFJE-18-160   
 2018 **Peer reviewer**, The European Zoological Journal; TIZO-2018-0027    
 2018 **Peer reviewer**, Bird Study; BS-2017-150  
 2018 **Peer reviewer**, Mammal Communications; MC1801
@@ -66,8 +68,10 @@ I employ field and laboratory-based experiments, along with archival data, to an
 ??? NI data compared to Scotland (Roo Campbell)  
 ??? Habitat association & occupancy from NI data  
 ??? Twitter conferences
-??? Wildlife bycatch from camera traps?
-??? Behaviour and temperature review
+??? Wildlife bycatch from camera traps
+??? Camera trap database
+
+Behaviour and temperature review
 
 Passerine tarsi
 
@@ -77,11 +81,11 @@ Meta-analysis of attitudes to wildlife control
 
 Hen harrier papers:
 - GPS tracking w. dario & mark wilson
-- biometrics; Ireland vs UK
+- biometrics; Ireland vs UK (???)
 - Review of ecology in Ireland
 - breeding success and habitat use
 - threats to Hen harriers
-- forest management and habitat value for HH
+- forest management and habitat value for HH  (???)
 - Alternatives to Red Zones
 - Predation surveys
 - Small mammals???
@@ -90,22 +94,39 @@ Hare movement analysis with Marco
 
 Hare survey of Ireland
 
-In preparation  
-
-**Caravaggi A**, Turner D, Cameron T. I've got a bad feeling about this: a study into factors affecting reed-nesting birds. To be submitted to *F1000 Research*   
-
 **Caravaggi A**. McCarthy A, Irwin S, O'Halloran J. Hen harriers in Ireland: a review (working title).
 
 UMAC
 
-English H, **Caravaggi A**. Tie me wallaby down; the historical and present distribution of wallabies in the UK. (working title)
+
+*In development (working titles; focal journal given where appropriate)*
+
+**Caravaggi A**, McCarthy A, Irwin S, O'Halloran J. A review of the conservation ecology of Hen Harriers, Circus cyaneus, in Ireland. *Biology and the Environment*.  
+
+**Caravaggi A**, Middleton O, Robertson D, Broom C, Lockwood H, Irwin S, Smith C, Jones Z, Thompson R, Watts S, Cooper P. What's on your campus? Non-human mammals at UK Universities revealed via citizen science. *Wildlife Research*.  
+
+**Caravaggi A**, Turner D, Cameron T. I've got a bad feeling about this: a study into factors affecting reed-nesting birds. *F1000Research*.  
+
+English H, **Caravaggi A**. The historical and present distribution of wallabies in the UK. Mammal Review.   
+
+**Caravaggi A**, Rabaiotti D, Evans A, Evans T, O'Neill H, Gold S. A meta-analysis of public opinion on the lethal control of wildlife.   
+
+Rabaiotti D, Raby C, **Caravaggi A**, O'Neill H. How does temperature influence the behaviour of terrestrial vertebrates?    
+
+**Caravaggi A**, Fernandez-Bellon D, Wilson M, Irwin S, O'Halloran J. Foraging behaviour and habitat use of Hen Harriers in Ireland from GPS tracking. *Journal of Raptor Research*.   
+
+**Caravaggi A**, Irwin S, O'Halloran J. Alternatives to Red Zones for Hen Harrier conservation in Ireland.   
+
+**Caravaggi A**, Facey R, Smith J, De La Hera Fernandez I, Shewring M, Bayley S. The relationship between minimum and maximum tarsus measurements of passerine birds. *Bird Study*.   
+
+Fennelly R, **Caravaggi A**. A review of Flight Initiation Distances for birds of conservation concern in Ireland. *Biology and the Environment*.   
 
 --->
 10 **Caravaggi A**, Plowman A, Wright D, Bishop C (2018) The composition of captive ruffed lemur (*Varecia* spp.) diets in UK zoological collections, with reference to the problems of obesity and iron storage disease.  *Journal of Zoo Animal Research*. 6: 41-49.   
 
 9  O'Halloran J, Kelly TC, Quinn JL, Irwin S, Fernandez-Bellon D, **Caravaggi A**, Smddy P (2017) Current ornithological research in Ireland: seventh Ornithological Research Conference, UCC, November 2017. *Irish Birds*. 10: 598-638.   
 
-8 Havlin P, **Caravaggi A**, Montgomery WI (2017) The diet and abundance of an introduced insular population of Red-Necked Wallabies, *Macropus rufogriseus*. *Canadian Journal of Mammalogy*. 96: 357-365. doi: [10.1139/cjz-2017-0090](10.1139/cjz-2017-0090)    
+8 Havlin P, **Caravaggi A**, Montgomery WI (2017) The diet and abundance of an introduced insular population of Red-Necked Wallabies, *Macropus rufogriseus*. *Canadian Journal of Zoology*. 96: 357-365. doi: [10.1139/cjz-2017-0090](10.1139/cjz-2017-0090)    
 
 7 **Caravaggi A**, Montgomery WI, Reid N (2017) Management and control of invasive brown hares (*Lepus europaeus*): contrasting attitudes of selected environmental stakeholders and the wider rural community. *Proceedings of the Royal Irish Academy: Biology & Environment*. 117B: 1-11. doi: [10.3318/bioe.2017.08](http://www.jstor.org/stable/10.3318/bioe.2017.08)     
 
@@ -123,15 +144,18 @@ English H, **Caravaggi A**. Tie me wallaby down; the historical and present dist
 
 > *In review*   
 
-**Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D. Circadian activity, occurrence, and predator-prey relationships of free-ranging mammals revealed by camera traps. To be submitted to *PeerJ*    
+**Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D. Circadian activity, occurrence, and predator-prey relationships of free-ranging mammals revealed by camera traps. *PeerJ*    
 
-**Caravaggi A**, Cuthbert RJ, Ryan RG, Cooper J, Bond AL. The impacts of introduced house mice on the breeding success of nesting seabirds on Gough Island.  *Ibis*   
+**Caravaggi A**, Cuthbert RJ, Ryan RG, Cooper J, Bond AL. The impacts of introduced house mice on the breeding success of nesting seabirds on Gough Island. *Ibis*    
+
+**Caravaggi A**, Irwin S, Lusby J, Ruddock M, O'Toole L, Mee A, Nagle T, O'Neill S, Tierney D, O'Halloran J. Factors affecting territory site selection and breeding parameters of Hen Harriers, *Circus cyaneus*, in Ireland. *Biological Conservation*   
+
 
 > *Book chapters*
 
-**Caravaggi A** (*in review*) Lagomorpha Life History. In: *Encyclopedia of Animal Cognition and Behavior*, Vonk J, Shackelford TK (eds.) ISBN 9783319550657  
+**Caravaggi A** (*in press*) Lagomorpha Life History. In: *Encyclopedia of Animal Cognition and Behavior*, Vonk J, Shackelford TK (eds.) ISBN 9783319550657  
 
-**Caravaggi A** (*in review*) Lagomorpha Navigation. In: *Encyclopedia of Animal Cognition and Behavior*, Vonk J, Shackelford TK (eds.) ISBN 9783319550657
+**Caravaggi A** (*in press*) Lagomorpha Navigation. In: *Encyclopedia of Animal Cognition and Behavior*, Vonk J, Shackelford TK (eds.) ISBN 9783319550657
 
 > *Other publications*
 
@@ -259,12 +283,12 @@ Trained a Master's student in otter survey techniques and field signs, and advis
 
 > **Licenses and Certifications**
 
-2018 LAST Ireland   
+2018 LAST Ireland (animal welfare in research; License no: 09-2018)     
 2014 ASPA laboratory animal handling license (TSA/47/14)   
 2014 Emergency first aid; field first aid  
-2009 Bird ringing 'C' license holder, British Trust for Ornithology
-2008 Marine mammal medic, British Divers Marine Life Rescue   
-2002 Full manual UK driving license, held without incident or penalty  
+2009 Bird ringing 'C' license holder, British Trust for Ornithology   
+2008 Marine mammal medic, British Divers Marine Life Rescue     
+2002 Full manual UK driving license, held without incident or penalty    
 
 > **Societal memberships**
 
@@ -276,7 +300,7 @@ Trained a Master's student in otter survey techniques and field signs, and advis
 2011 Royal Society of Biology  
 2009 The British Trust for Ornithology   
 
-\newpage
+\newpage 
 
 > **Organisational and Working Groups**  
 
@@ -313,6 +337,7 @@ Trained a Master's student in otter survey techniques and field signs, and advis
 I am a strong supporter of science communication and outreach. I believe that it is important to encourage an interest in science and the natural world in people of all ages. Moreover, the success or failure of many modern conservation objectives increasingly require a connection with and understanding of the public. I have given talks to over 20 school, local interest, community and natural history groups in the UK, USA and Canada, in-person and via video calls.  
 
 *Contributions*  
+2018	UCC BEES Committee for Education and Public Engagement    
 2017	Sanger Institute 25 Genomes (*species champion - St. Kilda wren*)  
 2017	Culture Night, University College Cork   
 2017	A brief history of an Early Career Researcher, Errant Science  
@@ -320,7 +345,7 @@ I am a strong supporter of science communication and outreach. I believe that it
 2017	Science communication article, CBS (*#bestcarcass, contributor*)   
 2017	Rabaiotti D, Caruso N 2017. Quercus books, ISBN: 9781786488275 (*contributor*)    
 2017	Student Science Partnerships, USA    
-2016-18	Skype a Scientist (*5 calls to date*)  
+2016-18	Skype a Scientist (*7 calls to date*)  
 2016	Is there intelligent life on Earth? Save our Souls magazine (*author*)  
 2016	Letters to a Pre-scientist (*correspondent*)  
 2015	Nature News (*invited comment*)    
