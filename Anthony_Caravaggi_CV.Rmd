@@ -21,6 +21,10 @@ School of Biological, Earth and Environmental Sciences, [University College Cork
 School of Biological Sciences, [Queen's University Belfast](http://www.qub.ac.uk/schools/SchoolofBiologicalSciences/)    
 
 ### Professional activities   
+<!---
+BEES outreach cmmttee
+--->
+
 **Associate Editor**: Remote Sensing in Ecology and Conservation  
 **Peer reviewer**:	African Journal of Ecology; Austral Ecology; Biological Conservation; Bird Study; Canadian Journal of Zoology; Diversity and Distributions; Global Change Biology; Journal of Natural History; Journal of Zoology; Mammal Communications; Mammal Research; Mammal Review; PLOS One; Remote Sensing in Ecology and Conservation; The European Zoological Journal; Zoo Biology.  
 
@@ -94,12 +98,11 @@ Hare movement analysis with Marco
 
 Hare survey of Ireland
 
-**Caravaggi A**. McCarthy A, Irwin S, O'Halloran J. Hen harriers in Ireland: a review (working title).
-
-UMAC
 
 
 *In development (working titles; focal journal given where appropriate)*
+
+Threats to HH
 
 **Caravaggi A**, McCarthy A, Irwin S, O'Halloran J. A review of the conservation ecology of Hen Harriers, Circus cyaneus, in Ireland. *Biology and the Environment*.  
 
@@ -148,7 +151,7 @@ Fennelly R, **Caravaggi A**. A review of Flight Initiation Distances for birds o
 
 **Caravaggi A**, Cuthbert RJ, Ryan RG, Cooper J, Bond AL. The impacts of introduced house mice on the breeding success of nesting seabirds on Gough Island. *Ibis*    
 
-**Caravaggi A**, Irwin S, Lusby J, Ruddock M, O'Toole L, Mee A, Nagle T, O'Neill S, Tierney D, O'Halloran J. Factors affecting territory site selection and breeding parameters of Hen Harriers, *Circus cyaneus*, in Ireland. *Biological Conservation*   
+**Caravaggi A**, Irwin S, Lusby J, Ruddock M, O'Toole L, Mee A, Nagle T, O'Neill S, Tierney D, O'Halloran J. Factors affecting territory site selection and breeding parameters of Hen Harriers, *Circus cyaneus*, in Ireland. *Ibis*   
 
 
 > *Book chapters*
@@ -180,14 +183,15 @@ Quantitative skills required by postgraduate students to successfully conduct an
 2014-2015	Undergraduate residential field course   
 2014	Bird survey techniques   
 
-> **Thesis supervision**  
+> **Project supervision**  
 
-2017 MRes research project. *Threats affecting breeding hen harriers in Ireland*. University College Cork   
-2017 BSc research project. *Comparing hen harrier chick condition across Europe*. University College Cork   
-2015 MSc research project. *Behaviour and stress in sympatric hare species*. Queen's University, Belfast   
-2014 MSc research project. *Activity and behaviour of hares in Mid-Ulster*. Queen's University, Belfast  
-2013 MSc research project. *Estimating hare population densities*. Queen's University, Belfast  
-2013 BSc research project. *Resource and habitat partitioning of herbivores*. Queen's University, Belfast  
+2018 PhD. *Managing hares at Dublin airport*. University College Cork   
+2017 MRes. *Threats affecting breeding hen harriers in Ireland*. University College Cork   
+2017 BSc. *Comparing hen harrier chick condition across Europe*. University College Cork   
+2015 MSc. *Behaviour and stress in sympatric hare species*. Queen's University, Belfast   
+2014 MSc. *Activity and behaviour of hares in Mid-Ulster*. Queen's University, Belfast  
+2013 MSc. *Estimating hare population densities*. Queen's University, Belfast  
+2013 BSc. *Resource and habitat partitioning of herbivores*. Queen's University, Belfast  
 
 > **Instruction and demonstration**   
 
@@ -201,6 +205,7 @@ Co-developed and delivered a 5-part series of lectures focussing on rainforest b
 Trained a Master's student in otter survey techniques and field signs, and advised on camera trap survey methodology   
 
 ## Fellowships, funding and Awards
+2018 Funded postgraduate programme (PhD), &euro;96,000, Irish Research Council    
 2017 Project tender, &euro;174,000, National Parks and Wildlife Service     
 2015 Emily Sarah Montgomery Travel Scholarship, &pound;200, Queen's University Belfast  
 2015 Training and Travel grant, &pound;500, British Ecological Society    
@@ -320,9 +325,10 @@ Trained a Master's student in otter survey techniques and field signs, and advis
 2008-08 **Volunteer**, Treborth Botanic Gardens, Bangor  
 --->
 
+2018-	  UCC BEES Education and Public Engagement Committee   
+2016-18	University Mammal Challenge, The Mammal Society (coordinator)    
 2016 		Community Ecology session chair, British Ecological Society Annual Meeting  
 2016    Advisor to National Geographic on red fox ecology  
-2016-18	Coordinator of The Mammal Society's University Mammal Challenge  
 2016    British Ecological Society Women in Ecology (WIE) mentor  
 2016    Mammal (hares) consultant for The Mammal Society     
 2013    Wildlife consultant, Biological records for the North East of Scotland (NESBReC)  

@@ -1,6 +1,8 @@
 # Anthony Caravaggi - CV
 ===
 
+Version uploaded on the 25th of July 2018.   
+
 [Click here](https://github.com/arcaravaggi/CV/blob/master/Anthony_Caravaggi_CV.Rmd) for the markdown CV. PDF downloads can be found, below.  
 
 Downloads:   
