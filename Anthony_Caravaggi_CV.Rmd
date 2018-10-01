@@ -9,16 +9,16 @@ School of Biological Earth and Environmental Sciences, University Colleg Cork, D
 **E-mail** [ar.caravaggi@gmail.com](ar.caravaggi@gmail.com) | **Website** [http://arcaravaggi.github.io](http://arcaravaggi.github.io)  | **Twitter** @[thonoir](https://twitter.com/thonoir)  
 **GitHub** [arcaravaggi.github.io](https://arcaravaggi.github.io) | [Google Scholar](https://scholar.google.co.uk/citations?user=PXf81KIAAAAJ&hl=en)   
 
-### Academic Qualifications
-**2016** PhD conservation biology/invasion ecology, [Queen's University Belfast](http://www.qub.ac.uk/schools/SchoolofBiologicalSciences/)   
-**2011**	MRes Biodiversity and Conservation, [University of Leeds](https://www.leeds.ac.uk/)  
-**2009**	BSc Zoology with Conservation (Hons), [Bangor University](https://www.bangor.ac.uk/)   
-
 ### Career History
 **2017-** Postdoctoral researcher; [Supporting Hen harriers in Novel Environments (SHINE)](https://www.ucc.ie/en/forestecology/research/shine/)  
 School of Biological, Earth and Environmental Sciences, [University College Cork](http://www.ucc.ie/en/)    
 **2017-18** Visiting Research Fellow; movement ecology, invasive species       
-School of Biological Sciences, [Queen's University Belfast](http://www.qub.ac.uk/schools/SchoolofBiologicalSciences/)    
+School of Biological Sciences, [Queen's University Belfast](http://www.qub.ac.uk/schools/SchoolofBiologicalSciences/) 
+
+### Education
+**2016** PhD conservation biology/invasion ecology, [Queen's University Belfast](http://www.qub.ac.uk/schools/SchoolofBiologicalSciences/)   
+**2011**	MRes Biodiversity and Conservation, [University of Leeds](https://www.leeds.ac.uk/)  
+**2009**	BSc Zoology with Conservation (Hons), [Bangor University](https://www.bangor.ac.uk/) 
 
 ### Professional activities   
 <!---
@@ -26,9 +26,13 @@ BEES outreach cmmttee
 --->
 
 **Associate Editor**: Remote Sensing in Ecology and Conservation  
-**Peer reviewer**:	African Journal of Ecology; Austral Ecology; Biological Conservation; Bird Study; Canadian Journal of Zoology; Diversity and Distributions; Global Change Biology; Journal of Natural History; Journal of Zoology; Mammal Communications; Mammal Research; Mammal Review; PLOS One; Remote Sensing in Ecology and Conservation; The European Zoological Journal; Zoo Biology.  
+
+**Peer reviewer**:	African Journal of Ecology; Austral Ecology; Biological Conservation; Bird Study; Canadian Journal of Zoology; Diversity and Distributions; Global Change Biology; Journal of Natural History; Journal of Zoology; Mammal Communications; Mammal Research; Mammal Review; PeerJ; PLOS One; Remote Sensing in Ecology and Conservation; The European Zoological Journal; Zoo Biology.    
 
 <!---
+2018 **Peer reviewer**; PeerJ; 31160v1   
+2018 **Peer reviewer**; Remote Sensing in Ecology and Conservation; RSEC-2018-02-0010   
+2018 **Handling Editor**; Remote Sensing in Ecology and Conservation; RSEC-2018-05-0023   
 2018 **Peer reviewer**; Austral Ecology; AEC-18-088-OA   
 2018 **Peer reviewer**; Remote Sensing in Ecology and Conservation; RSEC-2018-02-0010   
 2018 **Peer reviewer**; African Journal of Ecology; AFJE-18-160   
@@ -57,12 +61,14 @@ Funding
 2018 EPP IP-2018-01-1693; Croatian Science Foundation    
 --->
 
-**Funding review**: British Ecological Society Grant Review College; Croatian Science Foundation      
+**Funding review**: British Ecological Society Grant Review College; Croatian Science Foundation.  
+
+**Consultation**:	The Hen Harrier Reintroduction Project; University of Exeter and Natural England.  
 
 ## Research   
 I employ field and laboratory-based experiments, along with archival data, to answer specific questions relating to the ecology of species and communities to inform conservation, management and policy-related processes. My current work includes an analysis of mammal activity patterns, landscape-scale habitat and distribution modelling, quantification of the impacts of non-native rodents on insular seabirds and an assessment of wildlife management practises.   
 
-**Research interests**; Conservation biology; urban ecology; invasive species; population & community ecology; movement & spatial ecology; rare and endangered species; sustainability; rewilding; citizen science  
+**Research interests**; Conservation biology; urban ecology; invasive species; population & community ecology; movement & spatial ecology; rare and endangered species; sustainability; rewilding; citizen science; remote sensing.   
 
 ## Peer-Reviewed Publications  
 
@@ -76,19 +82,14 @@ I employ field and laboratory-based experiments, along with archival data, to an
 ??? Camera trap database
 
 Behaviour and temperature review
-
 Passerine tarsi
-
 Review of bird disturbance distances
-
 Meta-analysis of attitudes to wildlife control
 
 Hen harrier papers:
 - GPS tracking w. dario & mark wilson
 - biometrics; Ireland vs UK (???)
 - Review of ecology in Ireland
-- breeding success and habitat use
-- threats to Hen harriers
 - forest management and habitat value for HH  (???)
 - Alternatives to Red Zones
 - Predation surveys
@@ -97,8 +98,6 @@ Hen harrier papers:
 Hare movement analysis with Marco
 
 Hare survey of Ireland
-
-
 
 *In development (working titles; focal journal given where appropriate)*
 
@@ -125,73 +124,117 @@ Rabaiotti D, Raby C, **Caravaggi A**, O'Neill H. How does temperature influence 
 Fennelly R, **Caravaggi A**. A review of Flight Initiation Distances for birds of conservation concern in Ireland. *Biology and the Environment*.   
 
 --->
-10 **Caravaggi A**, Plowman A, Wright D, Bishop C (2018) The composition of captive ruffed lemur (*Varecia* spp.) diets in UK zoological collections, with reference to the problems of obesity and iron storage disease.  *Journal of Zoo Animal Research*. 6: 41-49.   
+2018
+**Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D. (*in press*) Seasonal and predator-prey effects on circadian activity of free-ranging mammals revealed by camera traps. *PeerJ*.    
 
-9  O'Halloran J, Kelly TC, Quinn JL, Irwin S, Fernandez-Bellon D, **Caravaggi A**, Smddy P (2017) Current ornithological research in Ireland: seventh Ornithological Research Conference, UCC, November 2017. *Irish Birds*. 10: 598-638.   
+**Caravaggi A**, Cuthbert RJ, Ryan RG, Cooper J, Bond AL. (*in press*) The cumulative impacts of introduced house mice on the breeding success of nesting seabirds on Gough Island. *Ibis*. doi: 10.1111/ibi.12664.   
 
-8 Havlin P, **Caravaggi A**, Montgomery WI (2017) The diet and abundance of an introduced insular population of Red-Necked Wallabies, *Macropus rufogriseus*. *Canadian Journal of Zoology*. 96: 357-365. doi: [10.1139/cjz-2017-0090](10.1139/cjz-2017-0090)    
+**Caravaggi A**, Plowman A, Wright D, Bishop C. The composition of captive ruffed lemur (*Varecia* spp.) diets in UK zoological collections, with reference to the problems of obesity and iron storage disease.  *Journal of Zoo Animal Research*. 6: 41-49. doi: [10.19227/jzar.v6i2.301](https://doi.org/10.19227/jzar.v6i2.301)      
 
-7 **Caravaggi A**, Montgomery WI, Reid N (2017) Management and control of invasive brown hares (*Lepus europaeus*): contrasting attitudes of selected environmental stakeholders and the wider rural community. *Proceedings of the Royal Irish Academy: Biology & Environment*. 117B: 1-11. doi: [10.3318/bioe.2017.08](http://www.jstor.org/stable/10.3318/bioe.2017.08)     
+2017  
+O'Halloran J, Kelly TC, Quinn JL, Irwin S, Fernandez-Bellon D, **Caravaggi A**, Smddy P. Current ornithological research in Ireland: seventh Ornithological Research Conference, UCC, November 2017. *Irish Birds*. 10: 598-638.   
 
-6 Tennant JP, Graziotin D, Jacques DC, Waldner F, Dugan JM, Mietchen D, Elkhatib Y, Collister LB, Pikas CK, Crick T, Masuzzo P, **Caravaggi A**, *et al.*  (2017) A multi-disciplinary perspective on emergent and future innovations in peer review. *F1000Research*. 6:1151. doi: [10.12688/f1000research.12037.3](https://f1000research.com/articles/6-1151/v3)  
+Havlin P, **Caravaggi A**, Montgomery WI. The diet and abundance of an introduced insular population of Red-Necked Wallabies, *Macropus rufogriseus*. *Canadian Journal of Zoology*. 96: 357-365. doi: [10.1139/cjz-2017-0090](10.1139/cjz-2017-0090)    
 
-5 **Caravaggi A**, Banks P, Burton C, Finlay CMV, Hayward M, Haswell, PM, Rowcliffe JM, Wood M (2017) A review of camera trapping for conservation behaviour research. *Remote Sensing in Ecology and Conservation*. doi: [10.1002/rse2.48](http://onlinelibrary.wiley.com/doi/10.1002/rse2.48/abstract)   
+**Caravaggi A**, Montgomery WI, Reid N. Management and control of invasive brown hares (*Lepus europaeus*): contrasting attitudes of selected environmental stakeholders and the wider rural community. *Proceedings of the Royal Irish Academy: Biology & Environment*. 117B: 1-11. doi: [10.3318/bioe.2017.08](http://www.jstor.org/stable/10.3318/bioe.2017.08)     
 
-4 **Caravaggi A** (2017) remBoot: An R package for Random Encounter Modelling. *Journal of Open Source Software*. 2(10). doi: [10.21105/joss.00176](http://joss.theoj.org/papers/10.21105/joss.00176)
+Tennant JP, Graziotin D, Jacques DC, Waldner F, Dugan JM, Mietchen D, Elkhatib Y, Collister LB, Pikas CK, Crick T, Masuzzo P, **Caravaggi A**, *et al.* A multi-disciplinary perspective on emergent and future innovations in peer review. *F1000Research*. 6:1151. doi: [10.12688/f1000research.12037.3](https://f1000research.com/articles/6-1151/v3)  
 
-3 **Caravaggi A**, Leach K, Santilli F, Rintala J, Helle P, Tiainen J, Bisi F, Martinoli A, Montgomery WI, Reid N (2017) Niche overlap of mountain hare subspecies and the vulnerability of their ranges to invasion by the European hare; the (bad) luck of the Irish. *Biological Invasions*. 19(2): 655-674. doi: [10.1007/s10530-016-1330-z ](http://link.springer.com/article/10.1007/s10530-016-1330-z)
+**Caravaggi A**, Banks P, Burton C, Finlay CMV, Hayward M, Haswell, PM, Rowcliffe JM, Wood M. A review of camera trapping for conservation behaviour research. *Remote Sensing in Ecology and Conservation*. doi: [10.1002/rse2.48](http://onlinelibrary.wiley.com/doi/10.1002/rse2.48/abstract)   
 
-2 **Caravaggi A**, Zaccaroni M, Riga F, Schai-Braun SC, Dick JTA, Montgomery WI, Reid N (2016) An invasive-native mammalian species replacement process captured by camera trap survey Random Encounter Models. *Remote Sensing in Ecology and Conservation*. 2: 45-58. doi: [10.1002/rse2.11](http://onlinelibrary.wiley.com/doi/10.1002/rse2.11/abstract)
+**Caravaggi A**.  remBoot: An R package for Random Encounter Modelling. *Journal of Open Source Software*. 2(10). doi: [10.21105/joss.00176](http://joss.theoj.org/papers/10.21105/joss.00176)
 
-1 **Caravaggi A**, Montgomery WI, Reid N et al. (2015) Range expansion and comparative habitat use of insular, congeneric lagomorphs: invasive European hares *Lepus europaeus* and endemic Irish hares *Lepus timidus hibernicus*. *Biological Invasions*. 17(2): 687-698. doi: [10.1007/s10530-014-0759-1](http://link.springer.com/article/10.1007/s10530-014-0759-1)
+**Caravaggi A**, Leach K, Santilli F, Rintala J, Helle P, Tiainen J, Bisi F, Martinoli A, Montgomery WI, Reid N. Niche overlap of mountain hare subspecies and the vulnerability of their ranges to invasion by the European hare; the (bad) luck of the Irish. *Biological Invasions*. 19(2): 655-674. doi: [10.1007/s10530-016-1330-z ](http://link.springer.com/article/10.1007/s10530-016-1330-z)
+
+2016   
+**Caravaggi A**, Zaccaroni M, Riga F, Schai-Braun SC, Dick JTA, Montgomery WI, Reid N (2016) An invasive-native mammalian species replacement process captured by camera trap survey Random Encounter Models. *Remote Sensing in Ecology and Conservation*. 2: 45-58. doi: [10.1002/rse2.11](http://onlinelibrary.wiley.com/doi/10.1002/rse2.11/abstract)
+
+2015   
+**Caravaggi A**, Montgomery WI, Reid N et al. (2015) Range expansion and comparative habitat use of insular, congeneric lagomorphs: invasive European hares *Lepus europaeus* and endemic Irish hares *Lepus timidus hibernicus*. *Biological Invasions*. 17(2): 687-698. doi: [10.1007/s10530-014-0759-1](http://link.springer.com/article/10.1007/s10530-014-0759-1)
 
 > *In review*   
 
-**Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D. Circadian activity, occurrence, and predator-prey relationships of free-ranging mammals revealed by camera traps. *PeerJ*    
+**Caravaggi A**, Irwin S, Lusby J, Ruddock M, O'Toole L, Mee A, Nagle T, O'Neill S, Tierney D, O'Halloran J. Factors affecting territory site selection and breeding parameters of Hen Harriers, *Circus cyaneus*, in Ireland. *Ibis*.  
 
-**Caravaggi A**, Cuthbert RJ, Ryan RG, Cooper J, Bond AL. The impacts of introduced house mice on the breeding success of nesting seabirds on Gough Island. *Ibis*    
-
-**Caravaggi A**, Irwin S, Lusby J, Ruddock M, O'Toole L, Mee A, Nagle T, O'Neill S, Tierney D, O'Halloran J. Factors affecting territory site selection and breeding parameters of Hen Harriers, *Circus cyaneus*, in Ireland. *Ibis*   
+**Caravaggi A**, Irwin S, Lusby J, Ruddock M, O'Toole L, Mee A, Nagle T, O'Neill S, Tierney D, O'Halloran J. Anthropogenic pressures on Hen Harrier breeding habitat. *Bird Conservation International*.    
 
 
 > *Book chapters*
 
-**Caravaggi A** (2018) Lagomorpha Life History. In: *Encyclopedia of Animal Cognition and Behavior*, Vonk J, Shackelford TK (eds.) doi: [10.1007/978-3-319-47829-6_1206-1](https://link.springer.com/referenceworkentry/10.1007/978-3-319-47829-6_1206-1)     
+2018   
+**Caravaggi A**. Lagomorpha Life History. In: *Encyclopedia of Animal Cognition and Behavior*, Vonk J, Shackelford TK (eds.) doi: [10.1007/978-3-319-47829-6_1206-1](https://link.springer.com/referenceworkentry/10.1007/978-3-319-47829-6_1206-1)     
 
-**Caravaggi A** (*in press*) Lagomorpha Navigation. In: *Encyclopedia of Animal Cognition and Behavior*, Vonk J, Shackelford TK (eds.) doi: [https://doi.org/10.1007/978-3-319-47829-6_1164-1](https://link.springer.com/referenceworkentry/10.1007/978-3-319-47829-6_1164-1)    
-
-> *Other publications*
-
-**Caravaggi A**, James K (2017) Twittersphere: Conferencing in 140 characters. *Nature* [Correspondence] 549: 458. doi: [doi:10.1038/549458d](http://www.nature.com/nature/journal/v549/n7673/full/549458d.html)    
+**Caravaggi A**. Lagomorpha Navigation. In: *Encyclopedia of Animal Cognition and Behavior*, Vonk J, Shackelford TK (eds.) doi: [https://doi.org/10.1007/978-3-319-47829-6_1164-1](https://link.springer.com/referenceworkentry/10.1007/978-3-319-47829-6_1164-1)    
 
 \newpage
 
+> *Technical reports*
+
+2018   
+McGowan N, Dingerkus K, Stone R, **Caravaggi A**, et al. Hare Survey of Ireland 2018/2019: Interim Report (June) 2018. Report produced for the Department of Arts, Heritage and the Gaeltacht.   
+
+> *Other publications*
+
+2017
+**Caravaggi A**, James K. Twittersphere: Conferencing in 140 characters. *Nature* [Correspondence] 549: 458. doi: [doi:10.1038/549458d](http://www.nature.com/nature/journal/v549/n7673/full/549458d.html)    
+
 ## Teaching
-As a teacher I aim to provide my students with skills, knowledge and confidence critical to their academic and personal development. I take an inclusive approach, developing strong relationships and encouraging discussion. I am currently working towards a Postgraduate Certificate in Teaching and Learning in Higher Education    qualification.
+As a teacher I aim to provide my students with skills, knowledge and confidence critical to their academic and personal development. I take an inclusive approach, developing strong relationships and encouraging discussion.
+
+> *Qualifications*
+
+2018  	
+Postgraduate Certificate in Teaching and Learning in Higher Education, University of London (*ongoing*).   
+
 
 > **Module development**
 
-2017-18	*BL6024 Quantitative skills for biologists using R*    
-Quantitative skills required by postgraduate students to successfully conduct and publish their research, with a focus on data analysis and graphing, statistics, and basic modelling, as generally implemented by zoologists and ecologists. Supported by a new R Peer Group mailing list and pop-up clinics  
+2017  
+*BL6024 Quantitative skills for biologists using R*    
+Quantitative skills required by postgraduate students to successfully conduct and publish their research, with a focus on data analysis and graphing, statistics, and basic modelling, as generally implemented by zoologists and ecologists. Supported by a new R Peer Group mailing list and pop-up clinics.  
 
 > **Teaching**   
 
-2017	BL6024 Quantitative skills for biologists using R   
-2016	South American rainforest biodiversity and conservation   
-2015	Introduction to GIS (Teaching Assistant)  
-2015	Animal Biology (Teaching Assistant)  
-2014-2015	Undergraduate residential field course   
-2014	Bird survey techniques   
+2018  BL6024 Quantitative skills for biologists using R.
+      Conservation biology.
+2017	BL6024 Quantitative skills for biologists using R.   
+2015	Introduction to GIS (*Teaching Assistant*).  
+    	Animal Biology (*Teaching Assistant*).   
+      Undergraduate residential field course.      	
+2014  Undergraduate residential field course.   
+
+> *Field-based teaching*
+
+2016	South American rainforest biodiversity and conservation (Ecuador).     
+2015	Undergraduate residential field course, Northern Ireland.   
+2014	Undergraduate residential field course, Northern Ireland.   
+    	Bird survey techniques.   
+
 
 > **Project supervision**  
 
-2018 PhD. *Managing hares at Dublin airport*. University College Cork   
-2017 MRes. *Threats affecting breeding hen harriers in Ireland*. University College Cork   
-2017 BSc. *Comparing hen harrier chick condition across Europe*. University College Cork   
-2015 MSc. *Behaviour and stress in sympatric hare species*. Queen's University, Belfast   
-2014 MSc. *Activity and behaviour of hares in Mid-Ulster*. Queen's University, Belfast  
-2013 MSc. *Estimating hare population densities*. Queen's University, Belfast  
-2013 BSc. *Resource and habitat partitioning of herbivores*. Queen's University, Belfast  
+2018  
+PhD. Samantha Ball, *Managing hares at Dublin airport*. University College Cork.    
+Erasmus+.	Enrique Da Paz, *Hen Harrier distribution under a changing climate*,	University College Cork/University of Barcelona.   
+  
+2017-19    
+MRes. Alan McCarthy, *Top-down and bottom-up processes and Hen Harriers in Ireland*. University College Cork   
+2017   
+BSc.	Chloe O'Mahoney, *Regional variation in Hen Harrier chick growth rates*. University College Cork.   
+  
+
+2015  
+MSc.	Ashley Irwin,	*Surveying otters along an urban-rural gradient using camera traps*. Queen's University Belfast.   
+MSc.  Lauren Finley, *Estimaing hare population densities using camera traps*. Queen's University Belfast.   
+BSc.	Paige Havlin, *Population size, habitat associations and diet of wallabies on the Isle of Man*.	Queen's University Belfast.   
+Scientists Without Borders.	Lazaro Silva, *Camera trapping for hares*.	Queen's University Belfast.   
+  
+2014	  
+BSc.	Mengyi Liu, *Behaviour and stress in sympatric hare species*.	Queen's University Belfast.    
+BSc.	Claire Molloy, *Ethology of hares in Ireland*	Queen's University Belfast.   
+   
+2013	  
+BSc.	Ashley Irwin, *The nutritional composition of vegetation associated with hares*.	Queen's University Belfast.   
 
 > **Instruction and demonstration**   
 
@@ -204,6 +247,30 @@ Co-developed and delivered a 5-part series of lectures focussing on rainforest b
 2015 Otter surveys, MSc, Queen's University Belfast  
 Trained a Master's student in otter survey techniques and field signs, and advised on camera trap survey methodology   
 
+## Fieldwork experience
+2018	  Camera trapping, small mammal trapping, bird point counts. Upland areas.  
+2017	  Hen Harrier nest surveys. Upland areas.  
+    	  Breeding Bird Survey (BTO).	 Upland areas; windfarm-adjacent.  
+2016	  Bird, bat and reptile surveys and camera trapping. South American rainforest.  
+2015	  Camera trapping for otters. Rivers and riparian areas.  
+2014	  Badger sett surveys. Broadleaved woodlands.  
+2012-15	Hare surveys (distance sampling, camera traps, fecal). Uplands and agricultural.  
+2013	  Coastal biodiversity surveys. Tidal pools.  
+2012	  Wader and gull surveys. Tidal flats.   
+2011	  Small mammal trapping. Agricultural fields.  
+      	Reptile surveys. Clearfell areas in coniferous forests.  
+      	Bird point count, reptile, mammal and invertebrate surveys. Marsh and fen.  
+      	Bat roost surveys (visual and detector). Urban areas.  
+      	Great crested newt surveys. Agricultural areas.  
+      	Bird surveys. Broadleaved woodland.  
+2009-11	Breeding Bird Surveys (BTO). Upland areas.  
+2007-18	Bird ringing (mist, whoosh and cannon nets and traps). Woodland, fen, marsh, grassland, coastal and agricultural areas.  
+2007-09	Pine marten surveys. Coniferous woodland.  
+2007	  Passerine bird and invertebrate surveys. Shrub and broadleaved woodland.  
+	      Moth trapping. Treborth Botanic gardens.  
+2006-08	Bird surveys and nestbox monitoring. Broadleaved woodland.   
+
+
 ## Fellowships, funding and Awards
 2018 Funded postgraduate programme (PhD), &euro;96,000, Irish Research Council    
 2017 Project tender, &euro;174,000, National Parks and Wildlife Service     
@@ -214,7 +281,7 @@ Trained a Master's student in otter survey techniques and field signs, and advis
 2010 NERC Master's scholarship, &pound;7,500, University of Leeds  
 
 ## Presentations
-> **Conferences** (*talks*)     
+> **Conferences** (*oral presentations*)     
 
 12 **Caravaggi A**, Montgomery WI, Reid N (2017) An invasion in progress: Impacts of the non-native European hare on the native Irish hare. International Congress for Conservation Biology, Cartagena    
 
@@ -242,8 +309,6 @@ Trained a Master's student in otter survey techniques and field signs, and advis
 
 > **Conferences** (*posters*)   
 
-10 **Caravaggi A**, Irwin S, O'Halloran JOH (2017) Quantifying habitat associations and factors affecting the breeding success of hen harriers in Ireland. Irish Ornithological Research Conference, Cork    
-
 9 **Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D (2017) Activity and temporal relationships of free-ranging mammals revealed by camera traps. Mammal Society Spring Conference, Cambridge   
 
 8 **Caravaggi A**, Montgomery WI, Reid N (2015) The democratisation of conservation: public attitudes towards lethal control of invasive leporids and implications for species management. 7th European Congress of Mammalogy, Stockholm, Sweden  
@@ -266,25 +331,28 @@ Trained a Master's student in otter survey techniques and field signs, and advis
 
 2014	Distribution and differential habitat associations of invasive European and endemic Irish hares. Bangor University    
 
+## Conference organisation
 
-## Professional Activities
-> **Conference organisation**
+2018    2nd Biotweeps Twitter Conference, #BTCon18 (*principal organiser*).  
+2017    7th Irish Ornithological Research Conference (*scientific committee*).    
+2017    Biotweeps Twitter Conference, #BTCon17 (*conception and organisation*).    
+2014-18 Mammal Society Student Conference (*principal organiser*).    
 
-2017    7th Irish Ornithological Research Conference; scientific committee   
-2017    Biotweeps Twitter Conference, #BTCon17; conception and organisation  
-2014-18 Mammal Society Student Conference; principal organiser    
-
+## Personal development
 > **Training and workshops**
 
-2017 Postgraduate Certificate in Teaching and Learning in Higher Education, University College Cork  
-2017 NERC Advanced Training, Systematic Review and Meta-Analysis, University of East Anglia   
-2017 Level 3 Teaching Assistant, E-Training Hub    
-2017 Public Outreach, Science Made Simple  
-2016 Mentor Training, British Ecological Society  
-2016 Conservation Ecology Special Interest Group workshop, British Ecological Society Annual Meeting  
-2016 Acoustic Analysis, North Wales Mammal Symposium    
-2014 Using R, Queen's University Belfast  
-2012 Lagomorph Systematics, 4th World Lagomorph Conference  
+2018 Postgraduate Certificate in Teaching and Learning in Higher Education.  
+     Unconscious bias awareness.  
+     Developing Horizon 2020 grant applications.  
+2017 Postgraduate Certificate in Teaching and Learning in Higher Education, University College Cork.  
+     NERC Advanced Training, Systematic Review and Meta-Analysis, University of East Anglia.   
+     Level 3 Teaching Assistant, E-Training Hub.    
+     Public Outreach, Science Made Simple.  
+2016 Mentor Training, British Ecological Society.  
+     Conservation Ecology Special Interest Group workshop, British Ecological Society Annual Meeting.  
+     Acoustic Analysis, North Wales Mammal Symposium.    
+2014 Using R, Queen's University Belfast.  
+2012 Lagomorph Systematics, 4th World Lagomorph Conference.  
 
 > **Licenses and Certifications**
 
@@ -305,13 +373,11 @@ Trained a Master's student in otter survey techniques and field signs, and advis
 2011 Royal Society of Biology  
 2009 The British Trust for Ornithology   
 
-\newpage 
-
 > **Organisational and Working Groups**  
 
 (since)   
 2017 SCB Participatory and Citizen Science  
-2016 Committee member, South Wales Mammal Group  
+2016 South Wales Mammal Group (*committee*)  
 2016 British Ecological Society Review College   
 2013 SCB Urban Ecology  
 
@@ -325,42 +391,53 @@ Trained a Master's student in otter survey techniques and field signs, and advis
 2008-08 **Volunteer**, Treborth Botanic Gardens, Bangor  
 --->
 
-2018-	  UCC BEES Education and Public Engagement Committee   
-2016-18	University Mammal Challenge, The Mammal Society (coordinator)    
-2016 		Community Ecology session chair, British Ecological Society Annual Meeting  
-2016    Advisor to National Geographic on red fox ecology  
-2016    British Ecological Society Women in Ecology (WIE) mentor  
-2016    Mammal (hares) consultant for The Mammal Society     
-2013    Wildlife consultant, Biological records for the North East of Scotland (NESBReC)  
-2013-17 UK STEM Ambassador  
-2012-15	EBEE postgraduate representative, Queen's University Belfast  
-2012-15	SBS Athena SWAN committee, Queen's University Belfast   
-2008-09	Undergraduate student representative, Bangor University Biological Sciences  
-2007-09	Founding committee & publicity officer, Bangor University Zoological Society   
+2018-19 UCC BEES Education and Public Engagement Committee.   
+2016-18	University Mammal Challenge, The Mammal Society (coordinator).    
+2016 		Community Ecology session chair, British Ecological Society Annual Meeting.  
+        Advisor to National Geographic on red fox ecology.  
+        British Ecological Society Women in Ecology (WIE) mentor.  
+        Mammal (hares) consultant for The Mammal Society.     
+2013    Wildlife consultant, Biological records for the North East of Scotland (NESBReC).  
+2013-17 UK STEM Ambassador.  
+2012-15	EBEE postgraduate representative, Queen's University Belfast.  
+2012-15	SBS Athena SWAN committee, Queen's University Belfast.   
+2007-09	Undergraduate student representative, Bangor University Biological Sciences.  
+      	Founding committee & publicity officer, Bangor University Zoological Society.   
 
 > **Science communication**  
 
 I am a strong supporter of science communication and outreach. I believe that it is important to encourage an interest in science and the natural world in people of all ages. Moreover, the success or failure of many modern conservation objectives increasingly require a connection with and understanding of the public. I have given talks to over 20 school, local interest, community and natural history groups in the UK, USA and Canada, in-person and via video calls.  
 
 *Contributions*  
-2018	UCC BEES Committee for Education and Public Engagement    
-2017	Sanger Institute 25 Genomes (*species champion - St. Kilda wren*)  
-2017	Culture Night, University College Cork   
-2017	A brief history of an Early Career Researcher, Errant Science  
-2017	Rejected by the Rainforest, I F-ing Love Conservation     
-2017	Science communication article, CBS (*#bestcarcass, contributor*)   
-2017	Rabaiotti D, Caruso N 2017. Quercus books, ISBN: 9781786488275 (*contributor*)    
-2017	Student Science Partnerships, USA    
-2016-18	Skype a Scientist (*7 calls to date*)  
-2016	Is there intelligent life on Earth? Save our Souls magazine (*author*)  
-2016	Letters to a Pre-scientist (*correspondent*)  
-2015	Nature News (*invited comment*)    
-2015	Dear Alice, the hare might be sane after all, QUBio    
-2014-16	Various Local Mammal Group newsletters (*invited author*)  
-2014	Created @Biotweeps, a science communication Twitter project (>14.5k followers)    
-2014	Multi-school careers advice and speed-networking event (*invited expert*)   
-2013-18	I'm a Scientist Get Me Out of Here! Enquiry Zone & Careers Zone      
-2013	Science outreach event, Techniquest, Cardiff (*presenter for RSPB*)  
+2018	UCC BEES Committee for Education and Public Engagement.    
+      BBC Wildlife magazine feature on wallabies (*invited expert*).   
+      I'm a Scientist Get Me Out of Here! Careers Zone expert.   
+2017	Sanger Institute 25 Genomes (*species champion - St. Kilda wren*).  
+    	Culture Night, University College Cork.   
+    	Blog post - A brief history of an Early Career Researcher, Errant Science.  
+    	Conservation & ecology expert on the sub-reddit /r/AskScience.    
+    	Blog post - Rejected by the Rainforest, I F-ing Love Conservation.     
+    	Science communication article, CBS (*#bestcarcass, contributor*).   
+    	Rabaiotti D, Caruso N 2017. Quercus books, ISBN: 9781786488275 (*contributor*).    
+    	Student Science Partnerships, USA.   
+    	Bird song workshop and ringing demonstration, Parc Slip Nature Reserve, Wales.   
+2016-18	Skype a Scientist (*5 classrooms across the US*).  
+2016	Blog post - Camera traps reveal a hare-raising situation, RSEC blog, ZSL.   
+      Blog post - On closer inspection, it looks like a hare transplant, QUBio.   
+      Magazine article - Is there intelligent life on Earth? Save our Souls magazine (*author*).  
+    	Letters to a Pre-scientist (*correspondent*).  
+2015	Blog post - Putting wildlife in the frame, QUBio.    
+      Blog post - Communities and conservation in developing countries, QUBio.  
+      Nature News (*invited comment*).    
+      Bird ringing demonstration, Parc Slip Nature Reserve, Wales.   
+      Blog post - Dear Alice, the hare might be sane after all, QUBio.     
+      Blog post - What's in a name? QUBio.       
+2014-16	Various Local Mammal Group newsletters (*invited author*).  
+    	Created @Biotweeps, a science communication Twitter project (>16.5k followers).    
+    	Multi-school careers advice and speed-networking event (*invited expert*).   
+2013-18	I'm a Scientist Get Me Out of Here! Enquiry Zone & Careers Zone.      
+2013-17	UK STEM Ambassador.   
+2013	Science outreach event, Techniquest, Cardiff (*presenter for RSPB*).  
 
 <!---
 2016 **Remote project group mentor**, Beaumont Middle School, Kentucky
@@ -377,41 +454,42 @@ I am a strong supporter of science communication and outreach. I believe that it
 
 *Radio*    
 
-2017 BBC Coventry & Warwickshire, Wallabies in the UK  
-2017 Invited guest, The Edgar Ortega Radio Show, Invasive species and urban wildlife  
-2016 SciComm podcast Episodes 7 & 8, with Dr. Mike   
-2015 BBC Radio Ulster, Hares at Belfast airport    
-2015 BBC News School Report for St. Pius X, Magherafelt's Biodiversity Club  
-2015 BBC Radio Ulster, Good Morning Ulster,  Invasive species  
-2013 RTE Radio 1, Mooney Goes Wild, Hares in Ireland  
+2018 BBC Radio Wales, UK.   
+	   BBC Radio Derby, UK.    
+	   MostlyScience live (*podcast*).   
+2017 BBC Coventry & Warwickshire, Wallabies in the UK.   
+     The Edgar Ortega Radio Show, North America (*podcast*).    
+2016 SciComm with Dr. Mike (*podcast, 2 shows*).    
+2015 BBC Radio Ulster, Hares at Belfast airport.       
+     BBC News School Report for St. Pius X, Magherafelt's Biodiversity Club.    
+     BBC Radio Ulster, *Good Morning Ulster*,  Invasive species.     
+2013 RTE Radio 1, *Mooney Goes Wild*, Hares in Ireland.     
 
 *Television*    
 
 2015 Countryfile, BBC  
 2013 River Bann, RTE Television  
 
-*Other research-related media*  
+*Other media*  
 
-2017	The Washington Post (*interview*)
-2016	Biotechin.asia (*interview*)
-2016	Camera traps reveal a hare-raising situation, RSEC blog, ZSL   
-2016	On closer inspection, it looks like a hare transplant, QUBio  
-2015  Living with aliens. SciLogs (*contributor*)   
-2015	Media battle highlights importance of scientific credit. ScienceNews (*interview*)     
-2015  Astrotweeps and Biotweeps: rotating Twitter accounts. Crastina.se (*interview*)   
-2015  BBC News. Counting Irish hares at Belfast International Airport  
-2015	Communities and conservation in developing countries, QUBio  
-2015	Putting wildlife in the frame, QUBio    
-2015	BBC News (*interview and featured article*)
-2015  A call for beautiful prose in papers. Nature News (*Interview*)    
-2014	Species profiles: Mountain hare and Irish hare, The Mammal Society  
-2014	A receding hare line and a brown toupee, QUbio   
-2013  'Hare' raising project in Mid-Ulster, Mid Ulster Mail (*Interview*)   
+2017	The Washington Post (*interview*).   
+2016	National Geographic advisor (*mammal expert*).   
+      Biotechin.asia (*interview*).  
+2015	Media battle highlights importance of scientific credit. ScienceNews (*interview*).     
+      Astrotweeps and Biotweeps: rotating Twitter accounts. Crastina.se (*interview*).   
+      BBC News (*interview and featured article*).  
+      A call for beautiful prose in papers. Nature News (*Interview*).      
+2014	Species profiles: Mountain hare and Irish hare, The Mammal Society.    
+2013  'Hare' raising project in Mid-Ulster, Mid Ulster Mail (*Interview*).     
 
 ## Skills  
-> *Data analysis*   
+> *Analytical sotware*   
 
-R (packages include MuMIn, lme4, ggplot, remBoot, maptools, raster, SDMTools, StatMatch, pdist, glmmulti, metafor), SPSS, Minitab, Distance, MARK, ArcGIS, QGIS, MaxEnt, MAVIS NVC, Patch Analyst, GeneMapper, Microsoft office, GitHub, RMarkdown, graphics packages (e.g. Photoshop, Illustrator), bespoke software    
+R, SPSS, Minitab, Distance, MARK, ArcGIS, QGIS, MaxEnt, NetLogo, MAVIS NVC, Patch Analyst, GeneMapper,  bespoke software.  
+
+> *Additional tools*  
+
+Microsoft Office, GitHub, RMarkdown, graphics packages (e.g. Adobe creative suite), website creation.   
 
 > *Statistical*  
 
