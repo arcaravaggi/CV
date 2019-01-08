@@ -5,12 +5,13 @@ latex_engine: xelatex
 
 Dr. Anthony Caravaggi
 =============================
-School of Biological Earth and Environmental Sciences, University Colleg Cork, Distillery Field, N Mall, Cork, Ireland  
+University of South Wales, Upper Glyntaff Campus, 9 Graig Fach, Pontypridd CF37 4BB     
 **E-mail** [ar.caravaggi@gmail.com](ar.caravaggi@gmail.com) | **Website** [http://arcaravaggi.github.io](http://arcaravaggi.github.io)  | **Twitter** @[thonoir](https://twitter.com/thonoir)  
 **GitHub** [arcaravaggi.github.io](https://arcaravaggi.github.io) | [Google Scholar](https://scholar.google.co.uk/citations?user=PXf81KIAAAAJ&hl=en)   
 
 ### Career History
-**2017-** Postdoctoral researcher; [Supporting Hen harriers in Novel Environments (SHINE)](https://www.ucc.ie/en/forestecology/research/shine/)  
+**2019-** Lecturer in Natural History, [University of South Wales](http://www.southwales.ac.uk)   
+**2017-19** Postdoctoral researcher; [Supporting Hen harriers in Novel Environments (SHINE)](https://www.ucc.ie/en/forestecology/research/shine/)  
 School of Biological, Earth and Environmental Sciences, [University College Cork](http://www.ucc.ie/en/)    
 **2017-18** Visiting Research Fellow; movement ecology, invasive species       
 School of Biological Sciences, [Queen's University Belfast](http://www.qub.ac.uk/schools/SchoolofBiologicalSciences/) 
@@ -30,6 +31,7 @@ BEES outreach cmmttee
 **Peer reviewer**:	African Journal of Ecology; Austral Ecology; Biological Conservation; Bird Study; Canadian Journal of Zoology; Diversity and Distributions; Global Change Biology; Journal of Natural History; Journal of Zoology; Mammal Communications; Mammal Research; Mammal Review; PeerJ; PLOS One; Remote Sensing in Ecology and Conservation; The European Zoological Journal; Zoo Biology.    
 
 <!---
+2019 **Peer reviewer**: Journal of Zoology; JZO-12-18-OM-355   
 2018 **Peer reviewer**; PeerJ; 31160v1   
 2018 **Peer reviewer**; Remote Sensing in Ecology and Conservation; RSEC-2018-02-0010   
 2018 **Handling Editor**; Remote Sensing in Ecology and Conservation; RSEC-2018-05-0023   
@@ -63,7 +65,7 @@ Funding
 
 **Funding review**: British Ecological Society Grant Review College; Croatian Science Foundation.  
 
-**Consultation**:	The Hen Harrier Reintroduction Project; University of Exeter and Natural England.  
+**Consultant**:	The Hen Harrier Reintroduction Project (University of Exeter and Natural England).  
 
 ## Research   
 I employ field and laboratory-based experiments, along with archival data, to answer specific questions relating to the ecology of species and communities to inform conservation, management and policy-related processes. My current work includes an analysis of mammal activity patterns, landscape-scale habitat and distribution modelling, quantification of the impacts of non-native rodents on insular seabirds and an assessment of wildlife management practises.   
@@ -125,16 +127,17 @@ Fennelly R, **Caravaggi A**. A review of Flight Initiation Distances for birds o
 
 --->
 2018
-**Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D. (*in press*) Seasonal and predator-prey effects on circadian activity of free-ranging mammals revealed by camera traps. *PeerJ*.    
+**Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D. Seasonal and predator-prey effects on circadian activity of free-ranging mammals revealed by camera traps. *PeerJ*. 6:e5827. doi: [10.7717/peerj.5827](https://doi.org/10.7717/peerj.5827)           
 
-**Caravaggi A**, Cuthbert RJ, Ryan RG, Cooper J, Bond AL. (*in press*) The cumulative impacts of introduced house mice on the breeding success of nesting seabirds on Gough Island. *Ibis*. doi: 10.1111/ibi.12664.   
+**Caravaggi A**, Cuthbert RJ, Ryan RG, Cooper J, Bond AL. The cumulative impacts of introduced house mice on the breeding success of nesting seabirds on Gough Island. *Ibis*. doi: [10.1111/ibi.12664](https://onlinelibrary.wiley.com/doi/10.1111/ibi.12664)   
 
-**Caravaggi A**, Plowman A, Wright D, Bishop C. The composition of captive ruffed lemur (*Varecia* spp.) diets in UK zoological collections, with reference to the problems of obesity and iron storage disease.  *Journal of Zoo Animal Research*. 6: 41-49. doi: [10.19227/jzar.v6i2.301](https://doi.org/10.19227/jzar.v6i2.301)      
+**Caravaggi A**, Plowman A, Wright D, Bishop C. The composition of captive ruffed lemur (*Varecia* spp.) diets in UK zoological collections, with reference to the problems of obesity and iron storage disease.  *Journal of Zoo Animal Research*. 6: 41-49. doi: [10.19227/jzar.v6i2.301](https://doi.org/10.19227/jzar.v6i2.301)    
+
+
+Havlin P, **Caravaggi A**, Montgomery WI. The diet and abundance of an introduced insular population of Red-Necked Wallabies, *Macropus rufogriseus*. *Canadian Journal of Zoology*. 96: 357-365. doi: [10.1139/cjz-2017-0090](10.1139/cjz-2017-0090) 
 
 2017  
 O'Halloran J, Kelly TC, Quinn JL, Irwin S, Fernandez-Bellon D, **Caravaggi A**, Smddy P. Current ornithological research in Ireland: seventh Ornithological Research Conference, UCC, November 2017. *Irish Birds*. 10: 598-638.   
-
-Havlin P, **Caravaggi A**, Montgomery WI. The diet and abundance of an introduced insular population of Red-Necked Wallabies, *Macropus rufogriseus*. *Canadian Journal of Zoology*. 96: 357-365. doi: [10.1139/cjz-2017-0090](10.1139/cjz-2017-0090)    
 
 **Caravaggi A**, Montgomery WI, Reid N. Management and control of invasive brown hares (*Lepus europaeus*): contrasting attitudes of selected environmental stakeholders and the wider rural community. *Proceedings of the Royal Irish Academy: Biology & Environment*. 117B: 1-11. doi: [10.3318/bioe.2017.08](http://www.jstor.org/stable/10.3318/bioe.2017.08)     
 
@@ -166,7 +169,6 @@ Tennant JP, Graziotin D, Jacques DC, Waldner F, Dugan JM, Mietchen D, Elkhatib Y
 
 **Caravaggi A**. Lagomorpha Navigation. In: *Encyclopedia of Animal Cognition and Behavior*, Vonk J, Shackelford TK (eds.) doi: [https://doi.org/10.1007/978-3-319-47829-6_1164-1](https://link.springer.com/referenceworkentry/10.1007/978-3-319-47829-6_1164-1)    
 
-\newpage
 
 > *Technical reports*
 
@@ -195,6 +197,10 @@ Quantitative skills required by postgraduate students to successfully conduct an
 
 > **Teaching**   
 
+2019	Biodiversity & biogeography   
+      MSc research projects   
+	    Research methods in natural history   
+	    Terrestrial & aquatic conservation   
 2018  BL6024 Quantitative skills for biologists using R.
       Conservation biology.
 2017	BL6024 Quantitative skills for biologists using R.   
@@ -472,6 +478,7 @@ I am a strong supporter of science communication and outreach. I believe that it
 
 *Other media*  
 
+2018	BBC Wildlife (invited article).    
 2017	The Washington Post (*interview*).   
 2016	National Geographic advisor (*mammal expert*).   
       Biotechin.asia (*interview*).  
