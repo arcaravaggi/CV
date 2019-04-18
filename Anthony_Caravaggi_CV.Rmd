@@ -10,7 +10,7 @@ University of South Wales, Upper Glyntaff Campus, 9 Graig Fach, Pontypridd CF37 
 **GitHub** [arcaravaggi.github.io](https://arcaravaggi.github.io) | [Google Scholar](https://scholar.google.co.uk/citations?user=PXf81KIAAAAJ&hl=en)   
 
 ### Career History
-**2019-** Lecturer in Natural History, [University of South Wales](http://www.southwales.ac.uk)   
+**2019-** Lecturer in Conservation Biology, [University of South Wales](http://www.southwales.ac.uk)   
 **2017-19** Postdoctoral researcher; [Supporting Hen harriers in Novel Environments (SHINE)](https://www.ucc.ie/en/forestecology/research/shine/)  
 School of Biological, Earth and Environmental Sciences, [University College Cork](http://www.ucc.ie/en/)    
 **2017-18** Visiting Research Fellow; movement ecology, invasive species       
@@ -28,9 +28,11 @@ BEES outreach cmmttee
 
 **Associate Editor**: Remote Sensing in Ecology and Conservation  
 
-**Peer reviewer**:	African Journal of Ecology; Austral Ecology; Biological Conservation; Bird Study; Canadian Journal of Zoology; Diversity and Distributions; Global Change Biology; Journal of Natural History; Journal of Zoology; Mammal Communications; Mammal Research; Mammal Review; PeerJ; PLOS One; Remote Sensing in Ecology and Conservation; The European Zoological Journal; Zoo Biology.    
+**Peer reviewer**:	African Journal of Ecology; Austral Ecology; Biological Conservation; Bird Study; Canadian Journal of Zoology; Diversity and Distributions; Global Change Biology; Journal of Natural History; Journal of Zoology; Mammal Communications; Mammal Research; Mammal Review; PeerJ; PLOS One; Remote Sensing in Ecology and Conservation; Ringing and Migration; The European Zoological Journal; Zoo Biology.    
 
 <!---
+2019 **Peer reviewer**: Canadian Journal of Zoology; cjz-2018-0322.R1  
+2019 **Peer reviewer**: Canadian Journal of Zoology; cjz-2018-0322  
 2019 **Peer reviewer**: Journal of Zoology; JZO-12-18-OM-355   
 2018 **Peer reviewer**; PeerJ; 31160v1   
 2018 **Peer reviewer**; Remote Sensing in Ecology and Conservation; RSEC-2018-02-0010   
@@ -127,7 +129,7 @@ Fennelly R, **Caravaggi A**. A review of Flight Initiation Distances for birds o
 
 --->
 2019   
-Hayward MW, Scanlon RJ, Callen A, *et al*. including **Caravaggi A**. (*in review*) Reintroducing rewilding to restoration - a search for novelty. *Journal of Applied Conservation*.   
+Hayward MW, Scanlon RJ, Callen A, *et al*. including **Caravaggi A**. Reintroducing rewilding to restoration - Rejecting the search for novelty. Biological Conservation. 233:255-259.  
 
 2018
 **Caravaggi A**, Vallely M-C, Hogg K, Freeman M, Fadaei E, Reid N, Tosh D. Seasonal and predator-prey effects on circadian activity of free-ranging mammals revealed by camera traps. *PeerJ*. 6:e5827. doi: [10.7717/peerj.5827](https://doi.org/10.7717/peerj.5827)           
@@ -160,9 +162,9 @@ Tennant JP, Graziotin D, Jacques DC, *et al*. including **Caravaggi A**. A multi
 
 > *In review*   
 
-**Caravaggi A**, Irwin S, Lusby J, Ruddock M, O'Toole L, Mee A, Nagle T, O'Neill S, Tierney D, O'Halloran J. Factors affecting territory site selection and breeding parameters of Hen Harriers, *Circus cyaneus*, in Ireland. *Ibis*.  
+**Caravaggi A**, Irwin S, Lusby J, Ruddock M, O'Toole L, Mee A, Nagle T, O'Neill S, Tierney D, O'Halloran J. Factors affecting territory site selection and breeding parameters of Hen Harriers, *Circus cyaneus*, in Ireland. *Bird Study*.  
 
-**Caravaggi A**, Irwin S, Lusby J, Ruddock M, O'Toole L, Mee A, Nagle T, O'Neill S, Tierney D, O'Halloran J. Anthropogenic pressures on Hen Harrier breeding habitat. *Bird Conservation International*.    
+**Caravaggi A**, Irwin S, Lusby J, Ruddock M, O'Toole L, Mee A, Nagle T, O'Neill S, Tierney D, O'Halloran J. Anthropogenic pressures on Hen Harrier breeding habitat. *Bird Study*.    
 
 
 > *Book chapters*
@@ -189,7 +191,7 @@ As a teacher I aim to provide my students with skills, knowledge and confidence 
 > *Qualifications*
 
 2018  	
-Postgraduate Certificate in Teaching and Learning in Higher Education, University of London (*ongoing*).   
+Postgraduate Certificate in Teaching and Learning in Higher Education (*ongoing*).   
 
 
 > **Module development**
@@ -200,12 +202,15 @@ Quantitative skills required by postgraduate students to successfully conduct an
 
 > **Teaching**   
 
-2019	Biodiversity & biogeography   
-      MSc research projects   
-	    Research methods in natural history   
-	    Terrestrial & aquatic conservation   
-2018  BL6024 Quantitative skills for biologists using R.
-      Conservation biology.
+2018-	GE0S04 - Foundation in Natural History   
+      GE1S008 - Observational Fieldwork  
+      GE1S010 - Natural History  
+      GE2S008 - Biodiversity & Biogeography  
+    	GE2S017 - Research Methods in Natural History  
+      ES4H001 - Environmental Management and Legislation  
+      ES4S009 - Restoration Ecology  
+      ES4S010 - Terrestrial and Aquatic Conservation  
+      ES4T001 - MSc Research Projects  
 2017	BL6024 Quantitative skills for biologists using R.   
 2015	Introduction to GIS (*Teaching Assistant*).  
     	Animal Biology (*Teaching Assistant*).   
@@ -214,20 +219,40 @@ Quantitative skills required by postgraduate students to successfully conduct an
 
 > *Field-based teaching*
 
-2016	South American rainforest biodiversity and conservation (Ecuador).     
-2015	Undergraduate residential field course, Northern Ireland.   
-2014	Undergraduate residential field course, Northern Ireland.   
-    	Bird survey techniques.   
+2018-	Biotope mapping  
+      Field skills (Botswana)  
+      NVC habitat classification  
+      Seabird surveys and identification  
+      Phase 1 habitat survey   
+2016  South American rainforest biodiversity and conservation (Ecuador). 
+2015	Undergraduate residential field course, Northern Ireland
+2014  Undergraduate residential field course, Northern Ireland
+	    Bird survey techniques
+ 
 
 
 > **Project supervision**  
+
+2019-23	  
+PhD.	Alan McCarthy, *Wintering ecology of Hen Harriers*,	University College Cork.   
+
+
+2019	 
+MSc.	Laura Brooks, *Temporal variability in nestbox selection by Pied Flycatchers*,	University of South Wales.   
+
+MSc.	Maja Hudej, *Spatial ecology of reintroduced pine marten in Wales*,	University of South Wales.   
+
+MSc.	Ayashi Majumder, *Assessing site suitability for translocated dormice*,	University of South Wales.   
+
+MSc.	Trisha Kallya, *Predicting the distribution of three UK deer species using citizen science data*,	University of South Wales.   
 
 2018  
 PhD. Samantha Ball, *Managing hares at Dublin airport*. University College Cork.    
 Erasmus+.	Enrique Da Paz, *Hen Harrier distribution under a changing climate*,	University College Cork/University of Barcelona.   
   
 2017-19    
-MRes. Alan McCarthy, *Top-down and bottom-up processes and Hen Harriers in Ireland*. University College Cork   
+MRes. Alan McCarthy, *Top-down and bottom-up processes and Hen Harriers in Ireland*. University College Cork.   
+
 2017   
 BSc.	Chloe O'Mahoney, *Regional variation in Hen Harrier chick growth rates*. University College Cork.   
   
@@ -292,9 +317,11 @@ Trained a Master's student in otter survey techniques and field signs, and advis
 ## Presentations
 > **Conferences** (*oral presentations*)     
 
+13 McCarthy A, Caravaggi A, Irwin S, O'Halloran J (2019) Factors affecting ground-nesting Hen Harriers in Ireland. Environ, Ireland     
+
 12 **Caravaggi A**, Montgomery WI, Reid N (2017) An invasion in progress: Impacts of the non-native European hare on the native Irish hare. International Congress for Conservation Biology, Cartagena    
 
-11 **Caravaggi A** (2017) The changing face of UK conservation. Mammal Society Student Conference (*invited keynote*)   
+11 **Caravaggi A** (2017) The changing face of UK conservation. Mammal Society Student Conference (*invited keynote*)     
 
 10 **Caravaggi A** (2017) University Mammal Challenge: distributed mammal surveys with student scientists. Mammal Society Spring Conference, Cambridge  
 
